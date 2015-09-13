@@ -1,6 +1,27 @@
 html body {
 	background-color: white;
 	color: #312F3A;
+	/*#464956*/
 }
 
-/*#464956*/
+.latest {
+	height: 700px;
+}
+
+.latest h2{
+	width: 170px;
+	margin: 0 auto 30px auto;
+}
+
+.latest-cover {
+	margin: 0 auto;
+	width: 300px;
+}
+
+.latest-cover img {
+	width: 300px;
+}
+
+img.upcoming {
+	width: 200px;
+}

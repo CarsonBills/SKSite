@@ -1,0 +1,24 @@
+{
+  "name": "Samkane",
+  "version": "1.0.0",
+  "description": "Samantha Kane Books",
+  "main": "scripts.js",
+  "dependencies": {
+    "ejs": "^2.3.3",
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CarsonBills/SKSite.git"
+  },
+  "author": "Carson Bills",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarsonBills/SKSite/issues"
+  },
+  "homepage": "https://github.com/CarsonBills/SKSite"
+}
