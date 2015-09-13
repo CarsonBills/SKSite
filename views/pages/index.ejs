@@ -5,8 +5,10 @@
 	<title>Samantha Kane</title>
 	<link rel="stylesheet" type="text/css" href="stylesheets/styles.css">
 	<link rel="stylesheet" type="text/css" href="stylesheets/nav.css">
+	<link rel="stylesheet" type="text/css" href="stylesheets/nav-r.css">
 	<link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">
 	<link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/grids-responsive-min.css">
+	<script src="js/scripts.js"></script>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 </head>
 <body>
@@ -53,16 +55,7 @@
 
 <script>
     $(document).ready(function(){
-        $("#nav-mobile").html($("#nav-main").html());
-        $("#nav-trigger span").click(function(){
-            if ($("nav#nav-mobile ul").hasClass("expanded")) {
-                $("nav#nav-mobile ul.expanded").removeClass("expanded").slideUp(250);
-                $(this).removeClass("open");
-            } else {
-                $("nav#nav-mobile ul").addClass("expanded").slideDown(250);
-                $(this).addClass("open");
-            }
-        });
+ 			navBar();
     });
 </script>
 
