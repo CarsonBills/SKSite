@@ -13,21 +13,9 @@
 
 
 <div id="main">
-    <div class="container">
-        <div id="nav-trigger">
-            <span>Samantha Kane</span>
-        </div>
-        <nav id="nav-main">
-            <ul>
-                <li><a href="">Books</a></li>
-                <li><a href="">Events</a></li>
-                <li><a href="">Media</a></li>
-                <li><a href="">About</a></li>
-                <li><a href="">Contact</a></li>
-            </ul>
-        </nav>
-        <nav id="nav-mobile"></nav>
-    </div>
+
+	<% include ../partials/header %>
+	
 	<div class="pure-g">
 		<div class="pure-u-1 pure-u-md-1-5">
 			<h2>Newsletter</h2>
@@ -43,7 +31,7 @@
 			</div>
 		</div>
 		<div class="pure-u-1 pure-u-md-1-5">
-			<h2>Upcoming</h2>
+			<h2>Next Release</h2>
 			<img class="upcoming" src="images/calling_the_play.jpg"/>
 		</div>
 	</div>
@@ -59,6 +47,7 @@
 			<h2>Contemporary</h2>
 		</div>
 	</div>
+	<% include ../partials/footer.ejs %>
 </div>
 
 
