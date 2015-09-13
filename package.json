@@ -2,7 +2,7 @@
   "name": "Samkane",
   "version": "1.0.0",
   "description": "Samantha Kane Books",
-  "main": "scripts.js",
+  "main": "app.js",
   "dependencies": {
     "ejs": "^2.3.3",
     "express": "^4.13.3"
