@@ -4,7 +4,7 @@
   #nav-trigger span {
     display: inline-block;
     width: 100%;
-    padding: 10px 10px;
+    padding: 10px 0;
     background-color: #464956;
     color: white;
     cursor: pointer;
