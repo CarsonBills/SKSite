@@ -16,10 +16,7 @@
       height: 20px;
       content: "+";
       font-size: 20px;
-/*  border-left: 5px solid #fff;
-  border-right: 5px solid #fff;
-  border-top: 5px solid #fff;
-  border-bottom: 5px solid #fff;*/ }
+    }
 
 nav {
   margin-bottom: 30px; }
@@ -51,14 +48,12 @@ nav#nav-mobile {
   display: none; }
   nav#nav-mobile ul {
     display: none;
-    position: absolute;
-    left: 0;
-    right: 0;
     text-align: center;
     background-color: #464956; }
   nav#nav-mobile li {
     display: block;
-    padding: 5px 0;
+    padding-top: 5px;
+    padding-bottom: 5px;
     margin: 0 80px;
     border-bottom: solid 1px white; }
     nav#nav-mobile li:last-child {
@@ -67,7 +62,11 @@ nav#nav-mobile {
     text-decoration: none;
     display: block;
     color: white;
-    padding: 10px 30px; }
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    }
     nav#nav-mobile a:hover {
       background-color: lightgrey; }
 
