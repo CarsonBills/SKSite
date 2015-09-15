@@ -3,6 +3,10 @@
 	padding: 0;
 }
 
+h1 {
+	color: #cc0000;
+}
+
 h2 {
 	margin: 0 auto 30px auto;
 }
@@ -50,7 +54,7 @@ html body {
 	width: 300px;
 }
 
-.upcoming h2 {
+.next h2 {
 	width: 170px;
 }
 
@@ -64,6 +68,12 @@ html body {
 }
 
 .secondary div {
+	padding-top: 50px;
 	height: 500px;
 }
+
+.secondary div h2 {
+	width: 150px;
+}
+
 
