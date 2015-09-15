@@ -2,19 +2,43 @@
 	margin: 0;
 	padding: 0;
 }
+
+h2 {
+	margin: 0 auto 30px auto;
+}
+
+p {
+	text-align: center;
+}
+
 html body {
-	background-color: white;
+	background-color: #f9f9f9;
 	color: #312F3A;
-	/*#464956*/
+}
+
+.primary div {
+	padding-top: 30px;
+}
+
+.newsletter h2 {
+	width: 100px;
 }
 
 .latest {
-	height: 700px;
+	width: 40%;
+	background-color: white;
+}
+
+.latest-description {
+	padding: 0 50px;
+}
+
+.latest-links {
+	margin: 0 auto;
 }
 
 .latest h2{
 	width: 170px;
-	margin: 0 auto 30px auto;
 }
 
 .latest-cover {
@@ -26,7 +50,20 @@ html body {
 	width: 300px;
 }
 
-img.upcoming {
-	width: 200px;
+.upcoming h2 {
+	width: 170px;
+}
+
+.next-cover {
+	width: 150px;
+	margin: 0 auto;
+}
+
+.next-cover img {
+	width: 150px;
+}
+
+.secondary div {
+	height: 500px;
 }
 
