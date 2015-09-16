@@ -24,6 +24,10 @@
 	display: inline-block;
 }
 
+.site-title-main{
+	text-align: center;
+}
+
 .site-title-mobile{
 	width: 100%;
 	text-align: center;
