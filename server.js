@@ -4,11 +4,11 @@ var app = express();
 
 app.use(express.static(__dirname + '/public'));
 
-app.engine("handlebars", exhbs({defaultLayout: "main"}));
+app.engine("handlebars", exphbs({defaultLayout: "main"}));
 app.set("view engine", "handlebars");
 
 app.get('/', function(req, res){
-	res.render("pages/index")
+	res.render("index")
 })
 
 app.listen(8080);
