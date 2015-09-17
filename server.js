@@ -9,7 +9,13 @@ app.set("view engine", "handlebars");
 
 app.get('/', function(req, res){
 	res.render("index")
-})
+});
+
+app.get('/library', function(req, res){
+	res.render("library", {
+		content: "ALL THE BOOKS!"
+	});
+});
 
 app.listen(8080);
-console.log('port 8080')
+console.log('port 8080');
