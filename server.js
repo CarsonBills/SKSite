@@ -3,6 +3,7 @@ var exphbs = require("express-handlebars");
 var app = express();
 
 var library = require('./config/library.js');
+var books = require('./config/book.js');
 
 app.use(express.static(__dirname + '/public'));
 
@@ -20,6 +21,15 @@ app.get('/library', function(req, res){
 		content: library.getLibrary()
 	});
 });
+
+app.get('/books/:title', function(req, res, next){
+	var title = req.params.title
+	res.render('book', {
+		book: books.getSingleBook(title)
+	});
+});
+
+
 
 app.listen(8080);
 console.log('port 8080');

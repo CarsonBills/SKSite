@@ -10,6 +10,5 @@ exports.getLibrary = function(){
 			description: "second"
 		}
 	]
-	console.log(library)
 	return library
 }
