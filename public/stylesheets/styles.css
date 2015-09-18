@@ -15,9 +15,19 @@ p {
 	text-align: center;
 }
 
-html body {
+html, body {
 	background-color: #f9f9f9;
 	color: #312F3A;
+	height: 100%;
+}
+
+.wrapper {
+	margin: 0 auto -100px auto;
+	min-height: 100%;
+}
+
+.push {
+	height: 100px;
 }
 
 .primary div {
@@ -69,11 +79,13 @@ html body {
 
 .secondary div {
 	padding-top: 50px;
-	height: 500px;
+	height: 300px;
 }
 
 .secondary div h2 {
 	width: 150px;
 }
 
-
+.library-collection {
+	display: inline-block;
+}

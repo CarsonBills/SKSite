@@ -2,6 +2,8 @@ var express = require('express');
 var exphbs = require("express-handlebars");
 var app = express();
 
+var library = require('./config/library.js');
+
 app.use(express.static(__dirname + '/public'));
 
 app.engine("handlebars", exphbs({defaultLayout: "main"}));
@@ -13,12 +15,9 @@ app.get('/', function(req, res){
 
 
 
-
-
-
 app.get('/library', function(req, res){
 	res.render("library", {
-		content: "ALL THE BOOKS!"
+		content: library.getLibrary()
 	});
 });
 
