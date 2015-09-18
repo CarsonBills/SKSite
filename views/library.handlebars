@@ -1,3 +1,8 @@
 {{#each content}}
-	<div class="library-collection"><h1>{{this.title}}</h1></div>
+	<div class="library-collection">
+		<h1>
+			<a href="/books/{{this.title}}">{{this.title}}</a>
+		</h1>
+		<p>{{this.description}}</p>
+	</div>
 {{/each}}
