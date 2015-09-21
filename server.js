@@ -30,12 +30,16 @@ app.get('/books/:title', function(req, res){
 });
 
 app.get('/events', function(req, res){
-	res.render('events')
-})
+	res.render('events');
+});
 
 app.get('/media', function(req, res){
-	res.render('media')
-})
+	res.render('media');
+});
+
+app.get('/about', function(req, res){
+	res.render("about");
+});
 
 
 app.listen(8080);
