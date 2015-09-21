@@ -22,7 +22,7 @@ app.get('/library', function(req, res){
 	});
 });
 
-app.get('/books/:title', function(req, res, next){
+app.get('/books/:title', function(req, res){
 	var title = req.params.title
 	res.render('book', {
 		book: books.getSingleBook(title)
