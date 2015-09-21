@@ -14,8 +14,6 @@ app.get('/', function(req, res){
 	res.render("index")
 });
 
-
-
 app.get('/library', function(req, res){
 	res.render("library", {
 		content: library.getLibrary()
