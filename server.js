@@ -33,6 +33,9 @@ app.get('/events', function(req, res){
 	res.render('events')
 })
 
+app.get('/media', function(req, res){
+	res.render('media')
+})
 
 
 app.listen(8080);
