@@ -29,6 +29,10 @@ app.get('/books/:title', function(req, res, next){
 	});
 });
 
+app.get('/events', function(req, res){
+	res.render('events')
+})
+
 
 
 app.listen(8080);
