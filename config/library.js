@@ -34,7 +34,7 @@ exports.getLibrary = function(){
 			cover: "cherry_pie.jpg"
 		},
 		{
-			title: "conall",
+			title: "Conall",
 			cover: "conall.png"
 		},
 		{
@@ -42,7 +42,7 @@ exports.getLibrary = function(){
 			cover: "defeated_by_love.jpg"
 		},
 		{
-			title: "Devil in my Arms",
+			title: "Devil in My Arms",
 			cover: "devil_in_my_arms.jpg"
 		},
 		{
@@ -118,11 +118,11 @@ exports.getLibrary = function(){
 			cover: "retreat_from_love.jpg"
 		},
 		{
-			title: "Tempt the Cougar",
+			title: "Tempt The Cougar",
 			cover: "tempt_the_cougar.jpg"
 		},
 		{
-			title: "Tempting A Devil",
+			title: "Tempting a Devil",
 			cover: "tempting_a_devil.jpg"
 		},
 		{
