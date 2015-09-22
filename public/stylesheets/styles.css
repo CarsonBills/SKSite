@@ -89,3 +89,7 @@ html, body {
 .library-collection {
 	display: inline-block;
 }
+
+.cover_thumbnail {
+	max-width: 150px;
+}
