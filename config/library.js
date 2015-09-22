@@ -2,12 +2,12 @@ exports.getLibrary = function(){
 
 	var library = [{
 			title: "Calling the Play",
-			description: "first in the series"
+			cover: "calling_the_play.jpg"
 		},
 
 		{
 			title: "Broken Play",
-			description: "second"
+			cover: "broken_play.jpg"
 		}
 	]
 	return library
