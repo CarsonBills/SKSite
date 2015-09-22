@@ -87,9 +87,15 @@ html, body {
 }
 
 .library-collection {
+	margin: 5px;
+	text-align: center;
 	display: inline-block;
+	min-width: 200px;
+	min-height: 250px;
+	background-color: white;
 }
 
 .cover_thumbnail {
 	max-width: 150px;
+	max-height: 200px;
 }

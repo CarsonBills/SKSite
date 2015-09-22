@@ -1,15 +1,6 @@
 exports.getLibrary = function(){
 
-	var library = [{
-			title: "Calling the Play",
-			cover: "calling_the_play.jpg"
-		},
-
-		{
-			title: "Broken Play",
-			cover: "broken_play.jpg"
-		},
-
+	var library = [
 		{
 			title: "A Lady in Waiting",
 			cover: "a_lady_in_waiting.jpg"
@@ -129,6 +120,14 @@ exports.getLibrary = function(){
 		{
 			title: "The Courage to Love",
 			cover: "the_courage_to_love.jpg"
+		},
+		{
+			title: "Calling the Play",
+			cover: "calling_the_play.jpg"
+		},
+		{
+			title: "Broken Play",
+			cover: "broken_play.jpg"
 		},
 		{
 			title: "The Devil's Thief",
