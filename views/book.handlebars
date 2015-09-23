@@ -1,35 +1,44 @@
-<h1> {{book.title}}</h1>
-<img class="single_cover" src="/images/covers/{{book.cover}}"></img>
-<p> {{book.description}}</p>
-<a href="{{book.links.print.amazon}}"><img class="merchant_link" src="/images/amazon.png"></a>
-<a href="{{book.links.print.areb}}"><img class="merchant_link" src="/images/areb.png"></a>
-<a href="{{book.links.print.BandN}}"><img class="merchant_link" src="/images/BandN.png"></a>
+<div class="single_book">
+	<h1> {{book.title}}</h1>
+	<img class="single_cover" src="/images/covers/{{book.cover}}"></img>
+	<p> {{book.description}}</p>
+</div>
 
-{{#if book.links.ebook.ared}}
-<a href="{{book.links.ebook.areb}}">All Romance Ebooks</a>
-{{/if}}
-{{#if book.links.ebook.kobo}}
-	<a href="{{book.links.ebook.kobo}}"><img class="merchant_link" src="/images/kobo.png"></a>
-{{/if}}
-{{#if book.links.ebook.eCave}}
-	<a href="{{book.links.ebook.eCave}}">Elloras Cave</a>
-{{/if}}
-{{#if book.links.ebook.amazon}}
-	<a href="{{book.links.ebook.amazon}}">Amazon</a>
-{{/if}}
-{{#if book.links.ebook.bandN}}
-	<a href="{{book.links.ebook.BandN}}">Barnes and Noble</a>
-{{/if}}
-{{#if book.links.ebook.itunes}}
-	<a href="{{book.links.ebook.itunes}}">Itunes</a>
-{{/if}}
+<div class="print_links">
+	<a href="{{book.links.print.amazon}}"><img class="merchant_link" src="/images/amazon.png"></a>
+	<a href="{{book.links.print.areb}}"><img class="merchant_link" src="/images/areb.png"></a>
+	<a href="{{book.links.print.BandN}}"><img class="merchant_link" src="/images/BandN.png"></a>
+</div>
 
-{{#if book.links.audiobook.audible}}
-	<a href="{{book.links.audiobook.audible}}">Audible</a>
-{{/if}}
-{{#if book.links.audiobook.amazon}}
-	<a href="{{book.links.audiobook.amazon}}">Amazon</a>
-{{/if}}
-{{#if book.links.audiobook.itunes}}
-	<a href="{{book.links.audiobook.itunes}}">Itunes</a>
-{{/if}}
+<div class="ebook_links">
+	{{#if book.links.ebook.ared}}
+	<a href="{{book.links.ebook.areb}}">All Romance Ebooks</a>
+	{{/if}}
+	{{#if book.links.ebook.kobo}}
+		<a href="{{book.links.ebook.kobo}}"><img class="merchant_link" src="/images/kobo.png"></a>
+	{{/if}}
+	{{#if book.links.ebook.eCave}}
+		<a href="{{book.links.ebook.eCave}}">Elloras Cave</a>
+	{{/if}}
+	{{#if book.links.ebook.amazon}}
+		<a href="{{book.links.ebook.amazon}}">Amazon</a>
+	{{/if}}
+	{{#if book.links.ebook.bandN}}
+		<a href="{{book.links.ebook.BandN}}">Barnes and Noble</a>
+	{{/if}}
+	{{#if book.links.ebook.itunes}}
+		<a href="{{book.links.ebook.itunes}}">Itunes</a>
+	{{/if}}
+</div>
+
+<div class="audiobook_links">
+	{{#if book.links.audiobook.audible}}
+		<a href="{{book.links.audiobook.audible}}">Audible</a>
+	{{/if}}
+	{{#if book.links.audiobook.amazon}}
+		<a href="{{book.links.audiobook.amazon}}">Amazon</a>
+	{{/if}}
+	{{#if book.links.audiobook.itunes}}
+		<a href="{{book.links.audiobook.itunes}}">Itunes</a>
+	{{/if}}
+</div>
