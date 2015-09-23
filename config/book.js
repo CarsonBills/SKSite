@@ -10,7 +10,8 @@ exports.getSingleBook = function(input){
 				links: {
 					amazon: "",
 					kobo: "",
-					areb: ""
+					areb: "",
+					BandN: ""
 
 				}
 			},
@@ -21,10 +22,18 @@ exports.getSingleBook = function(input){
 					"Perfect for fans of Shayla Black and Lexi Blake, the deeply sensual new Birmingham Rebels series introduces an unforgettable team of chiseled football gods—and the daring, provocative games they play behind closed doors. Birmingham Rebels offensive linemen Beau Perez and Cass Zielinski are inseparable, on and off the field. Cass, the captain with the cowboy swagger, is a loose cannon. Beau, the veteran tight end, is cool under pressure. And ever since they were caught on tape in a steamy threesome, their exploits have fueled more than a few tabloid headlines—and naughty fantasies. Marian Treadwell knows all about the video. And now that she’s the Rebels’ new assistant offensive coach, she can’t look at Beau and Cass without picturing their hard, naked bodies—with her pressed in between. Marian would like nothing more than to indulge those impulses, but she knows better than to get too close to her players, a bunch of adrenaline-fueled alpha males who don’t always follow the rules. Just the thought of sharing the gorgeous yet guarded Marian drives Cass wild. At first, Beau isn’t sure she’s right for them . . . and lately, all he desires is a little alone time with Cass to explore their new intimacy. But it’s only a matter of time before Cass breaks through both of their defenses. Because when seduction is the game plan, he always plays to win. Broken Play is intended for mature audiences. Includes a special message from the editor, as well as an excerpt from another Loveswept title.",
 				cover: "broken_play.jpg",
 				links: {
-					amazon: "http://www.amazon.com/Broken-Play-Birmingham-Rebels-Samantha-ebook/dp/B00R04OWZS/ref=as_li_ss_tl?s=digital-text&ie=UTF8&qid=1441216756&sr=1-1&keywords=broken+play+samantha+kane&linkCode=sl1&tag=samakane-20&linkId=9868a96e95d023925686ba3f4e36cb34",
-					kobo: "https://store.kobobooks.com/en-US/ebook/broken-play",
-					areb: "https://www.allromanceebooks.com/product-brokenplay-1771850-237.html",
-					BandN: "http://www.barnesandnoble.com/w/broken-play-samantha-kane/1120915581?ean=9781101883600"
+					print: {
+						amazon: "http://www.amazon.com/Broken-Play-Birmingham-Rebels-Samantha-ebook/dp/B00R04OWZS/ref=as_li_ss_tl?s=digital-text&ie=UTF8&qid=1441216756&sr=1-1&keywords=broken+play+samantha+kane&linkCode=sl1&tag=samakane-20&linkId=9868a96e95d023925686ba3f4e36cb34",
+						kobo: "https://store.kobobooks.com/en-US/ebook/broken-play",
+						areb: "https://www.allromanceebooks.com/product-brokenplay-1771850-237.html",
+						BandN: "http://www.barnesandnoble.com/w/broken-play-samantha-kane/1120915581?ean=9781101883600"
+					},
+					ebook: {
+
+					},
+					audiobook: {
+
+					}
 				}
 			},
 			"The Courage to Love" : 
@@ -34,6 +43,24 @@ exports.getSingleBook = function(input){
 				"Kate Collier is still recovering from a vicious rape and trying to make a success of her dress shop when Jason Randal and Anthony Richards return to London from the Continent, intent on winning her. She's known them for years, ever since they served with her late husband in the Peninsula against Napoleon. She'd been in love with them for almost that long. To discover they feel the same is a shock, but Kate isn't ready to turn her life back over to a man, or men. Jason and Tony prove hard to resist, however, especially when their close friendship blossoms into desire for each other as they make Kate's body burn with passion. The combination of their insatiable desire for her and their journey into a sexual relationship with one another is irresistible to Kate. A nightmare from her past tries to keep them apart, but the three long for a life together in spite of society's censure, and they will not be denied.",
 				cover: "the_courage_to_love.jpg",
 				links: {
+
+					print: {
+						amazon: "http://www.amazon.com/Courage-Love-Brothers-Arms-Book/dp/1419955349/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1366153620&sr=1-1",
+						BandN: "http://www.barnesandnoble.com/w/the-courage-to-love-brothers-in-arms-samantha-kane/1024278858?ean=9781419955341",
+						eCave: "https://www.ellorascave.com/product/the-courage-to-love-2/",
+					},
+					ebook: {
+						areb: "https://www.allromanceebooks.com/product-thecouragetolove-480380-340.html",
+						eCave: "https://www.ellorascave.com/product/the-courage-to-love/",
+						amazon: "http://www.amazon.com/Courage-Love-Brothers-Arms-ebook/dp/B003370JGC/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1366153620&sr=1-1&keywords=samantha+kane+courage+to+love",
+						BandN: "http://www.barnesandnoble.com/w/the-courage-to-love-samantha-kane/1018799797?ean=9781419906039",
+						itunes: "https://itunes.apple.com/us/book/courage-to-love-brothers-in/id547078262?mt=11",
+					},
+					audiobook: {
+						audible: "http://www.audible.com/pd/Erotica-Sexuality/The-Courage-to-Love-Audiobook/B00EQ89G7U?sr=1-3&amp;qid=1378321886&amp;ref_=sr_1_3",
+						amazon: "http://www.amazon.com/The-Courage-Love-Brothers-Arms/dp/B00EQ8F5YS/ref=sr_1_7?s=books&ie=UTF8&qid=1401214554&sr=1-7&keywords=Samantha+Kane",
+						itunes: "https://itunes.apple.com/us/audiobook/courage-to-love-brothers-in/id716094516",
+					}
 
 				}
 			},

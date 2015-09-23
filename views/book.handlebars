@@ -1,7 +1,17 @@
 <h1> {{book.title}}</h1>
 <img class="single_cover" src="/images/covers/{{book.cover}}"></img>
 <p> {{book.description}}</p>
-<a href="{{book.links.amazon}}"><img class="merchant_link" src="/images/amazon.png"></a>
-<a href="{{book.links.kobo}}"><img class="merchant_link" src="/images/kobo.png"></a>
-<a href="{{book.links.areb}}"><img class="merchant_link" src="/images/areb.png"></a>
-<a href="{{book.links.BandN}}"><img class="merchant_link" src="/images/BandN.png"></a>
+<a href="{{book.links.print.amazon}}"><img class="merchant_link" src="/images/amazon.png"></a>
+<a href="{{book.links.print.kobo}}"><img class="merchant_link" src="/images/kobo.png"></a>
+<a href="{{book.links.print.areb}}"><img class="merchant_link" src="/images/areb.png"></a>
+<a href="{{book.links.print.BandN}}"><img class="merchant_link" src="/images/BandN.png"></a>
+
+<a href="{{book.links.ebook.areb}}">All Romance Ebooks</a>
+<a href="{{book.links.ebook.eCave}}">Elloras Cave</a>
+<a href="{{book.links.ebook.amazon}}">Amazon</a>
+<a href="{{book.links.ebook.BandN}}">Barnes and Noble</a>
+<a href="{{book.links.ebook.itunes}}">Itunes</a>
+
+<a href="{{book.links.audiobook.audible}}">Audible</a>
+<a href="{{book.links.audiobook.amazon}}">Amazon</a>
+<a href="{{book.links.audiobook.itunes}}">Itunes</a>

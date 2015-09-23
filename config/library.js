@@ -5,6 +5,11 @@ exports.getLibrary = function(){
 	"Brothers in Arms": [
 
 		{
+			title: "The Courage to Love",
+			cover: "the_courage_to_love.jpg"
+		},
+
+		{
 			title: "Arms of Love",
 			cover: "arms_of_love.jpg"
 		},
@@ -60,11 +65,6 @@ exports.getLibrary = function(){
 		{
 			title: "Retreat From Love",
 			cover: "retreat_from_love.jpg"
-		},
-
-		{
-			title: "The Courage to Love",
-			cover: "the_courage_to_love.jpg"
 		},
 
 	],
