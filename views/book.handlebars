@@ -5,14 +5,20 @@
 </div>
 
 <div class="print_links">
-	<a href="{{book.links.print.amazon}}"><img class="merchant_link" src="/images/amazon.png"></a>
-	<a href="{{book.links.print.areb}}"><img class="merchant_link" src="/images/areb.png"></a>
-	<a href="{{book.links.print.BandN}}"><img class="merchant_link" src="/images/BandN.png"></a>
+	{{#if book.links.print.amazon}}
+		<a href="{{book.links.print.amazon}}"><img class="merchant_link" src="/images/amazon.png"></a>
+	{{/if}}
+	{{#if book.links.print.amazon}}
+		<a href="{{book.links.print.areb}}"><img class="merchant_link" src="/images/areb.png"></a>
+	{{/if}}
+	{{#if book.links.print.BandN}}
+		<a href="{{book.links.print.BandN}}"><img class="merchant_link" src="/images/BandN.png"></a>
+	{{/if}}
 </div>
 
 <div class="ebook_links">
 	{{#if book.links.ebook.ared}}
-	<a href="{{book.links.ebook.areb}}">All Romance Ebooks</a>
+		<a href="{{book.links.ebook.areb}}">All Romance Ebooks</a>
 	{{/if}}
 	{{#if book.links.ebook.kobo}}
 		<a href="{{book.links.ebook.kobo}}"><img class="merchant_link" src="/images/kobo.png"></a>
