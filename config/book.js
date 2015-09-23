@@ -24,12 +24,12 @@ exports.getSingleBook = function(input){
 				links: {
 					print: {
 						amazon: "http://www.amazon.com/Broken-Play-Birmingham-Rebels-Samantha-ebook/dp/B00R04OWZS/ref=as_li_ss_tl?s=digital-text&ie=UTF8&qid=1441216756&sr=1-1&keywords=broken+play+samantha+kane&linkCode=sl1&tag=samakane-20&linkId=9868a96e95d023925686ba3f4e36cb34",
-						kobo: "https://store.kobobooks.com/en-US/ebook/broken-play",
 						areb: "https://www.allromanceebooks.com/product-brokenplay-1771850-237.html",
 						BandN: "http://www.barnesandnoble.com/w/broken-play-samantha-kane/1120915581?ean=9781101883600"
 					},
 					ebook: {
 
+						kobo: "https://store.kobobooks.com/en-US/ebook/broken-play",
 					},
 					audiobook: {
 
@@ -54,7 +54,7 @@ exports.getSingleBook = function(input){
 						eCave: "https://www.ellorascave.com/product/the-courage-to-love/",
 						amazon: "http://www.amazon.com/Courage-Love-Brothers-Arms-ebook/dp/B003370JGC/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1366153620&sr=1-1&keywords=samantha+kane+courage+to+love",
 						BandN: "http://www.barnesandnoble.com/w/the-courage-to-love-samantha-kane/1018799797?ean=9781419906039",
-						itunes: "https://itunes.apple.com/us/book/courage-to-love-brothers-in/id547078262?mt=11",
+						kobo: "https://store.kobobooks.com/en-us/ebook/the-courage-to-love-brothers-in-arms-book-one"
 					},
 					audiobook: {
 						audible: "http://www.audible.com/pd/Erotica-Sexuality/The-Courage-to-Love-Audiobook/B00EQ89G7U?sr=1-3&amp;qid=1378321886&amp;ref_=sr_1_3",
