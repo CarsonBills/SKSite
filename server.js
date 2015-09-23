@@ -16,6 +16,7 @@ app.get('/', function(req, res){
 
 app.get('/library', function(req, res){
 	res.render("library", {
+		all: library.getLibrary(),
 		brothers: library.getLibrary()["Brothers in Arms"],
 		saints: library.getLibrary()["The Saint's Devils"],
 		mercury: library.getLibrary()["Mercury Rising"],
