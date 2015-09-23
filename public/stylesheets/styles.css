@@ -99,3 +99,12 @@ html, body {
 	max-width: 150px;
 	max-height: 200px;
 }
+
+.single_cover {
+	max-width: 200px;
+}
+
+.merchant_link {
+	width: 100px;
+	height: 60px;
+}

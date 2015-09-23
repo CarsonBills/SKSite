@@ -1,4 +1,7 @@
 <h1> {{book.title}}</h1>
-<img src="/images/covers/{{book.cover}}"></img>
+<img class="single_cover" src="/images/covers/{{book.cover}}"></img>
 <p> {{book.description}}</p>
-<a href="{{book.links.amazon}}"><img src="/images/amazon.png"></a>
+<a href="{{book.links.amazon}}"><img class="merchant_link" src="/images/amazon.png"></a>
+<a href="{{book.links.kobo}}"><img class="merchant_link" src="/images/kobo.png"></a>
+<a href="{{book.links.areb}}"><img class="merchant_link" src="/images/areb.png"></a>
+<a href="{{book.links.BandN}}"><img class="merchant_link" src="/images/BandN.png"></a>
