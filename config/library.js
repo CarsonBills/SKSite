@@ -169,5 +169,6 @@ exports.getLibrary = function(){
 			cover: "tempt_the_cougar.jpg"
 		},
 	]}
+	console.log(library["Brothers in Arms"])
 	return library
 }
