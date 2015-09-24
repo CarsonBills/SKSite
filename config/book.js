@@ -96,6 +96,9 @@ exports.getSingleBook = function(input){
 					"Valentine Westridge and Kurt Schillig are lovers, and have been since the Peninsular War when lonely young officer Valentine let himself be seduced by the equally lonely Kurt. Now they're back from the war and intent on beginning the future they dreamed of together, one that includes a quiet country estate, horses, dogs, children, and each other. Their plan, however, also requires a wife. At the suggestion of a mutual friend, Valentine and Kurt believe the financial security they can offer to impoverished widow Leah Marleston will help her accept the unusual sexual relationship they are suggesting. Leah is at her wit's end, creditors having taken everything she owns to pay off her late husband's gambling debts. She must find a way to support herself and her two children, or be forced to marry her abusive and obsessive brother-in-law. In Valentine's and Kurt's arms, Leah discovers a passion she never knew existed. Brought together by necessity, bonded by desire, these three lonely people find themselves fighting against all odds for a love that was never part of their plans.",
 				cover: "love's_strategy.jpg",
 				links: {
+					print: {
+						
+					}
 
 				}
 			},
