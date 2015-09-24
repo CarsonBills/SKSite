@@ -70,6 +70,22 @@ exports.getSingleBook = function(input){
 				description: "Phillip Neville and Jonathan Overton have been best friends since childhood. When they return to England as veterans of the Napoleonic Wars, they enter the marriage market. It doesn't take long for them both to fall deeply in love with shy, awkward, beautiful Maggie Trueheart. Phillip and Maggie marry, but Phillip and Jonathan do not tell her about the menage a trois marriage the two men hope to have. When Maggie finds out, it takes the persuasive power of both men to convince her that this threesome was meant to be. In the process of helping Maggie discover the sexually aggressive woman inside herself, Phillip and Jonathan realize their love for one another is more than friendship. Before the two men can consummate their relationship, however, a brutal attack on Maggie and Jonathan's self-recriminations drive the lovers apart. It will take all the love and determination the three possess to achieve their happily ever after.",
 				cover: "love_under_siege.jpg",
 				links: {
+					print: {
+						amazon: "http://www.amazon.com/Love-Under-Siege-Brothers-Arms/dp/1419956272/ref=sr_1_1?ie=UTF8&qid=1443065991&sr=8-1&keywords=samantha+kane+love+under+siege",
+						BandN: "http://www.barnesandnoble.com/w/love-under-siege-brothers-in-arms-samantha-kane/1022763719?ean=9781419956270",
+						eCave: "https://www.ellorascave.com/product/love-under-siege-2/",
+					},
+					ebook: {
+						BandN: "http://www.barnesandnoble.com/w/love-under-siege-samantha-kane/1019743189?ean=9781419908248",
+						eCave: "https://www.ellorascave.com/product/love-under-siege/",
+						itunes: "https://itunes.apple.com/us/book/love-under-siege/id546818093?mt=11",
+						areb: "https://www.allromanceebooks.com/product-loveundersiege-452798-340.html"
+					}
+					audiobook: {
+						audible: "http://www.audible.com/pd/Romance/Love-Under-Siege-Audiobook/B00EQ88CDE?ref_=det_sim_auth_1",
+						amazon: "http://www.amazon.com/Love-Under-Siege-Brothers-Arms/dp/B00EQ8FA7K/ref=pd_sim_b_1/176-2158076-7460323?ie=UTF8&refRID=1JJF0AVNG5VP3S6HNNCC",
+						itunes: "https://itunes.apple.com/us/audiobook/love-under-siege-brothers/id715855416"
+					}
 
 				}
 			},
