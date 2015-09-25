@@ -483,6 +483,18 @@ exports.getSingleBook = function(input){
 
 				}
 			},
+			"93rd Highlanders Volume 1: Hamish & Conall" : {
+				title: "93rd Highlanders Volume 1: Hamish & Conall",
+				description: "This book is an Anthology of the books Hamish and Conall from the 93rd Highlanders series"
+				cover: "93rd_vol1.jpg",
+				links: {
+					print {
+						amazon: "http://www.amazon.com/The-93rd-Highlanders-Volume-Hamish/dp/1517300037",
+						BandN: "http://www.barnesandnoble.com/w/the-93rd-highlanders-volume-i-samantha-kane/1122661254?ean=9781517300036",
+					}
+					
+				}
+			}
 			"A Lady in Waiting" : 
 			{
 				title: "A Lady in Waiting",
