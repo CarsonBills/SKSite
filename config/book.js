@@ -8,11 +8,12 @@ exports.getSingleBook = function(input){
 					"Quarterback Tyler Oakes plays hard and parties even harder. That reckless lifestyle nearly derailed his career, and now the Birmingham Rebels are Ty’s last shot at football immortality. But staying out of trouble can take its toll—especially for a man with a taste for girls and guys. Because curvy, gorgeous Randi McInish is just the kind of trouble he’d like to get into. A tough-as-nails undercover cop, Randi meets her match in Ty. After they get wrapped up together in a drug bust and a high-speed car chase, Randi’s eager to take the notorious bad boy for another wild ride. Turns out Ty already has something in mind. When he introduces her to the Rebels’ sexy new quarterback coach, things start heating up a little too fast for Randi. Brian Mason coached Ty in college, and boy do they have history together. With Brian taking control on the field and in the bedroom, they were an unstoppable team. But Brian, blindsided by love, ran from his feelings for Ty. He won’t let Randi make the same mistake. Both men agree they need more than each other. They want a woman they can share. And when they make a pleasure play for Randi, all three are sure to score. Calling the Play is intended for mature audiences.",
 				cover: "calling_the_play.jpg",
 				links: {
-					amazon: "",
-					kobo: "",
-					areb: "",
-					BandN: ""
-
+					amazon: "http://www.amazon.com/Calling-Play-Birmingham-Rebels-Samantha-ebook/dp/B00UEL0KRS/ref=as_li_ss_tl?ie=UTF8&refRID=0J3151ET44GV02V6H0FK&dpSrc=sims&dpST=_AC_UL320_SR240,320_&linkCode=sl1&tag=samakane-20&linkId=153b19a193da6db867a766cd8234bd47",
+					kobo: "https://store.kobobooks.com/en-US/ebook/calling-the-play",
+					areb: "https://www.allromanceebooks.com/product-callingtheplay-1820138-237.html",
+					BandN: "http://www.barnesandnoble.com/w/calling-the-play-samantha-kane/1121379871?ean=9781101883617",
+					penguin: "http://www.penguinrandomhouse.com/books/249830/calling-the-play-by-samantha-kane/",
+					itunes: "https://itunes.apple.com/us/book/calling-the-play/id1013563427?mt=11",
 				}
 			},
 			"Broken Play" : 
@@ -23,9 +24,12 @@ exports.getSingleBook = function(input){
 				cover: "broken_play.jpg",
 				links: {
 					print: {
+						itunes: "https://itunes.apple.com/us/book/broken-play/id975021669?mt=11",
+						kobo: "https://store.kobobooks.com/en-US/ebook/broken-play",
 						amazon: "http://www.amazon.com/Broken-Play-Birmingham-Rebels-Samantha-ebook/dp/B00R04OWZS/ref=as_li_ss_tl?s=digital-text&ie=UTF8&qid=1441216756&sr=1-1&keywords=broken+play+samantha+kane&linkCode=sl1&tag=samakane-20&linkId=9868a96e95d023925686ba3f4e36cb34",
 						areb: "https://www.allromanceebooks.com/product-brokenplay-1771850-237.html",
-						BandN: "http://www.barnesandnoble.com/w/broken-play-samantha-kane/1120915581?ean=9781101883600"
+						BandN: "http://www.barnesandnoble.com/w/broken-play-samantha-kane/1120915581?ean=9781101883600",
+						penguin: "http://www.penguinrandomhouse.com/books/249829/broken-play-by-samantha-kane/",
 					},
 					ebook: {
 
@@ -360,7 +364,14 @@ exports.getSingleBook = function(input){
 					"The daughter of a reformed jewel thief, Julianna Harte knows a thing or two about stealth. When the foundling home she provides for finds itself in dire financial straits, Julianna is forced to do the unthinkable. In a bit of misguided Robin Hood derring-do, she slips through the window of a wealthy rake to search for a treasure she knows is there: an invaluable pearl. But when the towering and very naked occupant of the moonlit bedroom ambushes her with a bargain—a night in his bed in exchange for the pearl—Julianna doesn’t know if it’s masculine heat or sheer desperation that makes his terms so tempting. Alasdair Sharpe had no intention of keeping his end of the bargain. Planning to offer his little cat burglar carte blanche instead, he promptly loses himself in the delights of unexpected pleasure. But when he awakes the next morning to find his family heirloom gone, fury quickly replaces sensual languor. Of course, Alasdair is more than willing to use seduction to reclaim his stolen pearl—and find the key to Julianna’s heart.",
 				cover: "the_devil's_thief.jpg",
 				links: {
-
+					ebook: {
+						penguin: "http://www.penguinrandomhouse.com/books/220517/the-devils-thief-by-samantha-kane/",
+						amazon: "http://www.amazon.com/The-Devils-Thief-Historical-ebook/dp/B008ADTCDA",
+						BandN: "http://www.barnesandnoble.com/w/the-devils-thief-samantha-kane/1110956390?ean=9780345537911",
+						itunes: "https://itunes.apple.com/us/book/the-devils-thief/id534961255?mt=11",
+						areb: "https://www.allromanceebooks.com/product-thedevil039sthief-987574-237.html",
+						autography: "https://www.autography.com/queue/add/8757150decbd89b0f5442ca3db4d0e0e",
+					}
 				}
 			},
 			"Tempting a Devil" : 
@@ -370,7 +381,14 @@ exports.getSingleBook = function(input){
 					"As wealthy and beautiful as she is desperate, Harriet Mercer can have any man she wants—which makes picking the worst of the lot quite easy. By convincing the ton she is a ruined woman, Harry hopes to outwit the greedy, conniving cad blackmailing her into a loveless marriage. Roger Templeton is a rogue with a scandalous reputation, no expectations, and no shame. He is perfect for Harry’s fall from grace. Her brazen attempts at a very public seduction are delightful fodder for gossip . . . and pure torment for Roger. With his pockets as empty as his heart, Roger is in no mood for games and decides to show Harry how foolish it is to tempt a devil. But behind her mesmerizing golden eyes, he sees something unexpected: a woman in trouble. Her scandalous behavior would be amusing if he wasn’t captivated by her lush, curvaceous beauty. Worse, every libertine bone in his body has turned traitorously noble. Only a rake would seduce her. But only a gentleman in love can save her.",
 				cover: "tempting_a_devil.jpg",
 				links: {
-
+					ebook: {
+						amazon: "http://www.amazon.com/Tempting-Devil-Loveswept-Historical-ebook/dp/B00B0LP5F8/ref=sr_1_1?ie=UTF8&qid=1366215497&sr=8-1&k",
+						BandN: "http://www.barnesandnoble.com/w/tempting-a-devil-samantha-kane/1113756099?ean=9780345537928",
+						itunes: "https://itunes.apple.com/us/book/tempting-a-devil/id599400451?mt=11",
+						penguin: "http://www.penguinrandomhouse.com/books/220519/tempting-a-devil-by-samantha-kane/",
+						areb: "https://www.allromanceebooks.com/product-temptingadevil-1228153-148.html",
+						autopgraphy: "https://www.autography.com/queue/add/2291d2ec3b3048d1a6f86c2c4591b7e0"
+					}
 				}
 			},
 			"Devil in My Arms" : 
@@ -381,6 +399,15 @@ exports.getSingleBook = function(input){
 				cover: "devil_in_my_arms.jpg",
 				links: {
 
+					ebook: {
+						penguin: "http://www.penguinrandomhouse.com/books/234250/devil-in-my-arms-by-samantha-kane/",
+						itunes: "https://itunes.apple.com/us/book/devil-in-my-arms/id697990132?mt=11",
+						amazon: "http://www.amazon.com/Devil-Arms-Loveswept-Historical-ebook/dp/B00DK8AQ8K/ref=sr_1_1?ie=UTF8&qid=1374082867&sr=8-1&keywords=samantha+kane+the+devil+in+my+arms",
+						BandN: "http://www.barnesandnoble.com/w/devil-in-my-arms-samantha-kane/1120019655?ean=9780345549822",
+						areb: "https://www.allromanceebooks.com/product-devilinmyarms-1344778-160.html",
+						autography: "https://www.autography.com/queue/add/be3159ad04564bfb90db9e32851ebf9c",
+					}
+
 				}
 			},
 			"Cherry Pie" : 
@@ -390,7 +417,13 @@ exports.getSingleBook = function(input){
 					"You can go home again—if you can get a foot in the door. A year after packing and moving from L.A. to Mercury, North Carolina, John Ford still hasn’t adjusted to the heat. Or to life without his long-time partner. As he fixes up the old house he bought, the quiet becomes his only companion, and he’s content with that—until a deep-voiced stranger plants himself under a tree across the street. Eight years ago, Connor Meecham left someone behind in that house—himself. Now he’s back to find the man he used to be, before drugs and prison sent his life careening off the tracks. But it’s not his mother’s face peering through the window any more. It’s a man who seems as lost as Conn himself. When John learns what the house—and the dying town—mean to Conn, he finds himself opening the door to his heart. Just a crack. But it’s enough to get mixed up in a world of emotions as complicated as the recipe for the perfect cherry pie. Where one misstep can turn  something sweet and juicy into one hot mess. Warning: Contains a guitar-wielding, brooding Southern boy and a reclusive millionaire with a weakness for cherry pie and hot coffee. Excessive porch sittin’ and lemonade included.",
 				cover: "cherry_pie.jpg",
 				links: {
-
+					ebook: {
+						BandN: "http://www.barnesandnoble.com/w/cherry-pie-samantha-kane/1031009156?ean=9781619223837",
+						itunes: "https://itunes.apple.com/us/book/cherry-pie/id891597074?mt=11",
+						amazon: "http://www.amazon.com/Cherry-Mercury-Rising-Samantha-Kane-ebook/dp/B00L501TJ0/ref=sr_1_11?ie=UTF8&qid=1405194376&sr=8-11&keywords=samantha+kane",
+						kobo: "https://store.kobobooks.com/en-US/ebook/cherry-pie-3",
+						areb: "https://www.allromanceebooks.com/product-cherrypie-1628222-149.html",
+					}
 				}
 			},
 			"Hamish" : 
@@ -400,7 +433,14 @@ exports.getSingleBook = function(input){
 					"During the Crimean War, injured Captain Hamish Fletcher is sent to the hospital in Scutari, where he finds his old friend and lover Dr. Phineus Harper treating the wounded. Finn can keep him at the hospital until Christmas. Will it be enough time to convince widowed nurse Edith Lambeth to grant both men their Christmas wishes?",
 				cover: "hamish.jpg",
 				links: {
-
+					print: {
+						BandN: "http://www.barnesandnoble.com/w/hamish-samantha-kane/1121299559?ean=2940151341417",
+						areb: "https://www.allromanceebooks.com/product-hamish-1761199-340.html",
+						kobo: "https://store.kobobooks.com/en-US/ebook/hamish",
+						itunes: "https://itunes.apple.com/us/book/hamish/id972202984?mt=11",
+						amazon: "http://www.amazon.com/dp/B00U4EZGVU",
+						smashwords: "https://www.smashwords.com/books/view/523231",
+					}
 				}
 			},
 			"Conall" : 
@@ -410,7 +450,14 @@ exports.getSingleBook = function(input){
 					"Lieutenant Conall Fletcher of the 93rd Highland Regiment is injured atBalaclava during the Crimean War. On the battlefield after he’s shot he shares an intimate moment with Captain Graeme Munro, a moment that both startles and intrigues him. He’s been in love with widow Avril Scott for months, but the intensity of Munro’s regard and Conall’s heated reaction to it change everything. When he returns to the front from the hospital it’s up to Conall to make both Avril and Graeme his, and to prove that the passion between the three of them is worth fighting for.",
 				cover: "conall.png",
 				links: {
-
+					print: {
+						amazon: "http://www.amazon.com/Conall-93rd-Highlanders-Book-2-ebook/dp/B00PKD0FNE/ref=sr_1_1?ie=UTF8&qid=1415917415&sr=8-1&keywords=samantha+kane+conall",
+						itunes: "https://itunes.apple.com/us/book/conall/id943585278?mt=11",
+						kobo: "https://store.kobobooks.com/en-US/ebook/conall",
+						BandN: "http://www.barnesandnoble.com/w/conall-samantha-kane/1120732135?ean=2940150756274",
+						areb: "https://www.allromanceebooks.com/product-conall-1761203-340.html",
+						smashwords: "https://www.smashwords.com/books/view/490263",
+					}
 				}
 			},
 			"Brodie" : 
@@ -438,7 +485,14 @@ exports.getSingleBook = function(input){
 					"Sylvie, Marchioness of Bartlebyrne, has been a widow for much of her adult life. Her grown son is away at school, leaving Sylvie in charge of the family estate, The Byrne. She offers the vacant living in the village to the son of one of her late husband's friends. The new vicar, Mr. Edmund James, is twenty-six, handsome and, his family hopes, a reformed rake. Sylvie falls under the young man's spell at first sight, but is ashamed by her desires — she's so much older than him, how can she be having all these naughty thoughts about what she wants him to do to her, and where, and how often! Edmund James' family gave him a choice — be ordained and take the living in Byrnham or be cut off and transported for failure to pay his debts. The one thing that makes his new life worth living is Sylvie. He seduces his way into her bed, but can he overcome her worries about their age difference and win her heart?",
 				cover: "a_lady_in_waiting.jpg",
 				links: {
-
+					ebook: {
+						amazon: "http://www.amazon.com/A-Lady-in-Waiting-ebook/dp/B002W83E10/ref=sr_1_1?ie=UTF8&qid=1366307123&sr=8-1&keywords=samantha+kane+a+lady+in+waiting",
+						BandN: "http://www.barnesandnoble.com/w/a-lady-in-waiting-samantha-kane/1019740372?ean=9781419916809",
+						areb: "https://www.allromanceebooks.com/product-aladyinwaiting-443377-162.html",
+						eCave: "https://www.ellorascave.com/product/a-lady-in-waiting/",
+						itunes: "https://itunes.apple.com/us/book/a-lady-in-waiting/id517825991?mt=11",
+						kobo: "https://store.kobobooks.com/en-us/ebook/a-lady-in-waiting",
+					}
 				}
 			},
 			"Islands" : 
@@ -448,7 +502,14 @@ exports.getSingleBook = function(input){
 					"Lieutenant Commander Gabriel Conlan, United States Navy Seabees, knows he’s not in Kansas anymore when he steps off the launch at the small island of Ile Dorée and sees gorgeous Frenchman René Dubois waiting for him on the dock. The year is 1943, the place is the Pacific and the world is at war. Free from the censure of the military, Gabe has an explosive affair with René. But when the world intrudes, Gabe denies René and tries to forget the best sex of his life. The only westerner on his small Pacific island, René is desperately lonely. When the tall, lanky American steps onto his dock, René knows his life will never be the same. He teaches Gabe how to make love to a man and, unexpectedly, falls in love. René will brave prejudice, Japanese Zeros and Gabe’s reluctance to find love at last.",
 				cover: "islands.jpg",
 				links: {
-
+					ebook: {
+						amazon: "http://www.amazon.com/Islands-ebook/dp/B003100TZC/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1366308612&sr=1-1&keywords=samantha+kane+islands",
+						BandN: "http://www.barnesandnoble.com/w/islands-samantha-kane/1019742984?ean=9781419921599",
+						eCave: "https://www.ellorascave.com/product/islands/",
+						itunes: "https://itunes.apple.com/us/book/islands/id546505531?mt=11",
+						areb: "https://www.allromanceebooks.com/product-islands-449744-340.html",
+						kobo: "https://store.kobobooks.com/en-us/ebook/islands",
+					}
 				}
 			},
 			"Play it Again, Sam" : 
@@ -458,7 +519,14 @@ exports.getSingleBook = function(input){
 					"Monica Allen has always been attracted to younger men. She even married one. But after the divorce, she thought she was through with them for good. Then she meets a group of ladies at RomantiCon, and they form a blog celebrating younger men, Tempt the Cougar. After another lonely Friday night, Monica challenges her friends to each find a younger man to make their fantasies come true. She doesn’t have to marry him—been there, done that, threw away the t-shirt. But for a night of hot sex? Hell yes. But Sam Lincoln refuses to be just a fantasy. He’s a graduate student with a yen for older women and he may have just found the one to make his own fantasies come true. With a little help from his roommate Josh, Sam fulfills Monica’s deepest desires. Can he convince this sexy cougar to give him a chance at happily ever after?",
 				cover: "play_it_again_sam.jpg",
 				links: {
-
+					ebook: {
+						amazon: "http://www.amazon.com/Play-Again-Sam-Challenge-ebook/dp/B003ATPPWQ/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1366309040&sr=1-1&keywords=samantha+kane+play+it+again+sam#_",
+						BandN: "http://www.barnesandnoble.com/w/play-it-again-sam-samantha-kane/1021398249?ean=9781419926419",
+						eCave: "https://www.ellorascave.com/product/play-it-again-sam/",
+						itunes: "https://itunes.apple.com/us/book/play-it-again-sam-cougar-cahllenge/id547736512?mt=11",
+						areb: "https://www.allromanceebooks.com/product-playitagainsamcougarcahllengebookone-517427-340.html",
+						kobo: "https://store.kobobooks.com/en-us/ebook/play-it-again-sam-cougar-cahllenge-book-one",
+					}
 				}
 			},
 			"Jewels of the Nile" : 
@@ -468,7 +536,19 @@ exports.getSingleBook = function(input){
 					"Jewels of the Nile II is an Anthology, containing several stories by various authors, including Samantha Kane’s story “The Debutante”. Click here to see details of this Anthology, including summaries and descriptions of all the stories.",
 				cover: "jewels_of_the_nile.jpg",
 				links: {
-
+					print: {
+						amazon: "http://www.amazon.com/Elloras-Cavemen-Jewels-Nile-Vol/dp/141995783X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1366311980&sr=1-1",
+						BandN: "http://www.barnesandnoble.com/w/elloras-cavemen-jewels-of-the-nile-volume-ii-rebecca-airies/1112575465?ean=9781419957833",
+						eCave: "https://www.ellorascave.com/product/elloras-cavemen-jewels-of-the-nile-ii-2/",
+					},
+					ebook: {
+						amazon: "http://www.amazon.com/Jewels-Nile-II-Elloras-Cavemen-ebook/dp/B003NE5V68/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1366311980&sr=1-1",
+						BandN: "http://www.barnesandnoble.com/w/elloras-cavemen-jewels-of-the-nile-volume-ii-rebecca-airies/1112575465?ean=9781419916540",
+						eCave: "https://www.ellorascave.com/product/elloras-cavemen-jewels-of-the-nile-ii/",
+						areb: "https://www.allromanceebooks.com/product-ellora039scavemenjewelsofthenileii-437871-340.html",
+						kobo: "https://store.kobobooks.com/en-us/ebook/jewels-of-the-nile-ii",
+						itunes: "https://itunes.apple.com/us/book/elloras-cavemen-jewels-nile/id907041358?mt=11",
+					}
 				}
 			},
 			"Tempt The Cougar" : 
@@ -478,7 +558,11 @@ exports.getSingleBook = function(input){
 					"Tempt the Cougar is an Anthology, containing several stories by various authors, including Samantha Kane’s story “Play it Again, Sam”. Click here to see details of this Anthology.",
 				cover: "tempt_the_cougar.jpg",
 				links: {
-
+					print: {
+						amazon: "http://www.amazon.com/Tempt-Cougar-Samantha-Kane/dp/1419961179/ref=sr_1_1?s=books&ie=UTF8&qid=1366312810&sr=1-1&keywords=samantha+kane+tempt+the+cougar",
+						BandN: "http://www.barnesandnoble.com/w/tempt-the-cougar-samantha-kane/1103218617?ean=9781419961175",
+						eCave: "https://www.ellorascave.com/product/tempt-the-cougar/",
+					}
 				}
 			},
 			"Aged To Perfection" : 
@@ -488,7 +572,10 @@ exports.getSingleBook = function(input){
 					"Aged to Perfection is an Anthology, containing several stories by various authors, including Samantha Kane’s story “A Lady in Waiting”. Click here to see details of this Anthology.",
 				cover: "aged_to_perfection.jpg",
 				links: {
-
+					print: {
+						amazon: "http://www.amazon.com/Aged-Perfection-Samantha-Kane/dp/1419959611/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1366311914&sr=1-1-catcorr&keywords=samantha+kane+aged+to+perfection",
+						BandN: "http://www.barnesandnoble.com/w/aged-to-perfection-samantha-kane/1018143220?ean=9781419959615",
+					}
 				}
 			},
 			"Esprit of Corps" : 
@@ -498,7 +585,9 @@ exports.getSingleBook = function(input){
 					"Esprit de Corps is an Anthology, containing several stories by various authors, including Samantha Kane’s story “Islands”. Click here to see details of this Anthology.",
 				cover: "esprit_of_corps.jpg",
 				links: {
-
+					print: {
+						amazon: "http://www.amazon.com/Esprit-Corps-Victor-J-Banis/dp/1934531030/ref=sr_1_1?ie=UTF8&qid=1366319808&sr=8-1&keywords=samantha+kane+esprit+de+corps",
+					}
 				}
 			},
 			"Gift of Desire" : 
@@ -508,6 +597,10 @@ exports.getSingleBook = function(input){
 					"Gift of Desire is an Anthology, containing two Regency-set Christmas short stories from Samantha Kane and Kate Pearce. THE GIFT by Samantha Kane On Christmas Eve, 1817, Captain Jeremy Highsmith of the Royal Navy and his best friend Lieutenant Rhys Wilkinson return to England after almost a year in captivity. Their bond of friendship grew even stronger as they were tortured while being held for ransom by the Bey of Algiers. All that kept them going was the idea of returning to Jeremy’s wife, Cordelia, the woman they both courted and are both still in love with. But will Cordelia be willing to accept both of them…in her heart and her bed? For Cordelia Highsmith, the greatest Christmas gift she could ever imagine is the return of her husband and his best friend. But can she accept the even greater gift they offer…the two of them, hers, forever? MY HEART'S DESIRE by Kate Pearce After a dreadful disfiguring accident and the loss of her husband, Caroline Lyndhurst has spent the last two years hiding away from society. One man has never forgotten her. Jasper, Lord Mansell is determined not only to see her again, but to persuade her that in the spirit of Christmas, true love can bloom again.",
 				cover: "gift_of_desire.jpg",
 				links: {
+					areb: "https://www.allromanceebooks.com/product-giftofdesirehotchristmaslovestoriesfromsamanthakaneandkatepearce-1338462-160.html",
+					smashwords: "https://www.smashwords.com/books/view/375456",
+					amazon: "http://www.amazon.com/Desire-Christmas-Stories-Samantha-Pearce-ebook/dp/B00GHTKD96/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1384881711&sr=1-1&keywords=Gift+of+Desire",
+					BandN: "http://www.barnesandnoble.com/w/gift-of-desire-kate-pearce/1117444479?ean=2940045423472",
 
 				}
 			},
