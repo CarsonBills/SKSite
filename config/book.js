@@ -78,7 +78,7 @@ exports.getSingleBook = function(input){
 						itunes: "https://itunes.apple.com/us/book/love-under-siege/id546818093?mt=11",
 						areb: "https://www.allromanceebooks.com/product-loveundersiege-452798-340.html",
 						kobo: "https://store.kobobooks.com/en-us/ebook/love-under-siege-brothers-in-arms-book-two",
-					}
+					},
 					audiobook: {
 						audible: "http://www.audible.com/pd/Romance/Love-Under-Siege-Audiobook/B00EQ88CDE?ref_=det_sim_auth_1",
 						amazon: "http://www.amazon.com/Love-Under-Siege-Brothers-Arms/dp/B00EQ8FA7K/ref=pd_sim_b_1/176-2158076-7460323?ie=UTF8&refRID=1JJF0AVNG5VP3S6HNNCC",
@@ -334,7 +334,7 @@ exports.getSingleBook = function(input){
 						eCave: "https://www.ellorascave.com/product/fight-for-love-2/",
 					},
 					ebook: {
-						eCave: "https://www.ellorascave.com/product/fight-for-love/"
+						eCave: "https://www.ellorascave.com/product/fight-for-love/",
 						amazon: "http://www.amazon.com/Fight-Love-12-Brothers-Arms-ebook/dp/B00LTVGBCK/ref=sr_1_2?s=digital-text&ie=UTF8&qid=1405525096&sr=1-2&keywords=fight+for+love+samantha+kane",
 						kobo: "https://store.kobobooks.com/en-us/ebook/fight-for-love-3",
 						BandN: "http://www.barnesandnoble.com/w/fight-for-love-samantha-kane/1119964780?ean=9781419992087",
@@ -485,16 +485,16 @@ exports.getSingleBook = function(input){
 			},
 			"93rd Highlanders Volume 1: Hamish & Conall" : {
 				title: "93rd Highlanders Volume 1: Hamish & Conall",
-				description: "This book is an Anthology of the books Hamish and Conall from the 93rd Highlanders series"
+				description: "This book is an Anthology of the books Hamish and Conall from the 93rd Highlanders series",
 				cover: "93rd_vol1.jpg",
 				links: {
-					print {
+					print: {
 						amazon: "http://www.amazon.com/The-93rd-Highlanders-Volume-Hamish/dp/1517300037",
 						BandN: "http://www.barnesandnoble.com/w/the-93rd-highlanders-volume-i-samantha-kane/1122661254?ean=9781517300036",
 					}
 					
 				}
-			}
+			},
 			"A Lady in Waiting" : 
 			{
 				title: "A Lady in Waiting",
