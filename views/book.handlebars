@@ -1,10 +1,19 @@
-<div class="single_book">
+<div class="single_book_title">
 	<h1> {{book.title}}</h1>
-	<img class="single_cover" src="/images/covers/{{book.cover}}"></img>
-	<p> {{book.description}}</p>
+</div>
+<div class="single_book">
+	<div class="single_cover_container">
+		<img class="single_cover" src="/images/covers/{{book.cover}}"></img>
+	</div>
+	<div class="single_book_description">
+		<p> {{book.description}}</p>
+	</div>
 </div>
 
 <div class="print_links">
+	{{#if book.links.print}}
+		<h2> Buy print copy </h2>
+	{{/if}}
 	{{#if book.links.print.amazon}}
 		<a href="{{book.links.print.amazon}}"><img class="merchant_link" src="/images/amazon.png"></a>
 	{{/if}}
@@ -17,6 +26,9 @@
 </div>
 
 <div class="ebook_links">
+	{{#if book.links.ebook}}
+		<h2> Buy Ebook </h2>
+	{{/if}}
 	{{#if book.links.ebook.ared}}
 		<a href="{{book.links.ebook.areb}}">All Romance Ebooks</a>
 	{{/if}}
@@ -41,6 +53,9 @@
 </div>
 
 <div class="audiobook_links">
+	{{#if book.links.audiobook}}
+		<h2> Buy Audiobook </h2>
+	{{/if}}
 	{{#if book.links.audiobook.audible}}
 		<a href="{{book.links.audiobook.audible}}">Audible</a>
 	{{/if}}

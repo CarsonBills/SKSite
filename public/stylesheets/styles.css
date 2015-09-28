@@ -113,3 +113,11 @@ html, body {
 	width: 100px;
 	max-height: 50px;
 }
+
+.single_book div{
+	display: inline-block;
+}
+
+.single_book_description {
+	width: 50%;
+}
