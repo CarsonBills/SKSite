@@ -126,6 +126,8 @@ html, body {
 	max-height: 200px;
 }
 
+
+/*Single Book Page*/
 .single_cover {
 	max-width: 300px;
 }
@@ -163,4 +165,11 @@ html, body {
 .single_book_description {
 	padding: 20px;
 	background-color: #f9f9f9;
+}
+
+/*About Page*/
+.about_container{
+	width: 90%;
+	padding: 50px;
+	text-align: center;
 }
