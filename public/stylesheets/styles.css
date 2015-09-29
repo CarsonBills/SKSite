@@ -173,3 +173,21 @@ html, body {
 	padding: 50px;
 	text-align: center;
 }
+
+/*Media Page*/
+
+.trailer {
+	text-align: center;
+	margin: 0 auto;
+}
+
+.trailer a {
+	display: block;
+	letter-spacing: .45ex;
+	min-width: 420px;
+}
+
+iframe {
+	margin: 0 auto;
+	display: block;
+}
