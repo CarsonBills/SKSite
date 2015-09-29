@@ -3,6 +3,10 @@
 	padding: 0;
 }
 
+a{
+	text-decoration: none;
+}
+
 h1 {
 	color: #999;
 }
@@ -26,6 +30,10 @@ html, body {
 	width: 100px;
 	background: #999;
 	border: none;
+}
+
+.email {
+	width: 150px;
 }
 
 .wrapper {
@@ -90,6 +98,7 @@ html, body {
 
 .secondary div {
 	padding-top: 50px;
+	min-height: 300px;
 	max-height: 350px;
 }
 
@@ -118,7 +127,7 @@ html, body {
 }
 
 .single_cover {
-	max-width: 200px;
+	max-width: 300px;
 }
 
 .merchant_link {
@@ -126,10 +135,17 @@ html, body {
 	max-height: 50px;
 }
 
-.single_book div{
-	display: inline-block;
+.single_book_title {
+	text-align: center;
 }
 
-.single_book_description {
-	width: 50%;
+.single_book div{
+	text-align: center;
+	display: inline-block;
+	margin: auto;
+}
+
+.single_book {
+	padding: 50px 0 50px 0;
+	background-color: white;
 }
