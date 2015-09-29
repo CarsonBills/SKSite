@@ -8,7 +8,7 @@ h1 {
 }
 
 h2 {
-	margin: 0 auto 30px auto;
+	margin: 0 auto 10px auto;
 }
 
 p {
@@ -19,6 +19,13 @@ html, body {
 	background-color: #f9f9f9;
 	color: #312F3A;
 	height: 100%;
+}
+
+.button {
+	height: 40px;
+	width: 100px;
+	background: #999;
+	border: none;
 }
 
 .wrapper {
@@ -36,6 +43,10 @@ html, body {
 
 .newsletter h2 {
 	width: 100px;
+}
+
+.mc_newsletter{
+	text-align: center;
 }
 
 .latest {
@@ -79,7 +90,6 @@ html, body {
 
 .secondary div {
 	padding-top: 50px;
-	min-height: 300px;
 	max-height: 350px;
 }
 
