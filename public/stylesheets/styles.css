@@ -79,11 +79,13 @@ html, body {
 
 .secondary div {
 	padding-top: 50px;
-	height: 300px;
+	min-height: 300px;
+	max-height: 350px;
 }
 
 .secondary div h2 {
-	width: 150px;
+	text-align: center;
+	width: 190px;
 }
 
 .library_series {
