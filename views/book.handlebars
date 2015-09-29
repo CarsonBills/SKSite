@@ -3,68 +3,70 @@
 		<h1> {{book.title}}</h1>
 	</div>
 	<div class="single_book pure-g">
-		<div class="single_cover_container pure-u-1 pure-u-md-1-2">
+		<div class="single_cover_container pure-u-1 pure-u-md-1-3">
 			<img class="single_cover" src="/images/covers/{{book.cover}}"></img>
 		</div>
 		<div class="single_book_description pure-u-1 pure-u-md-1-2">
 			<p> {{book.description}}</p>
 		</div>
 	</div>
+	
+	<div class="merchant_links pure-g">
+		<div class="print_links pure-u-1 pure-u-md-1-3">
+			{{#if book.links.print}}
+				<h2> Buy print copy </h2>
+			{{/if}}
+			{{#if book.links.print.amazon}}
+				<a href="{{book.links.print.amazon}}"><img class="merchant_link" src="/images/amazon.png"></a>
+			{{/if}}
+			{{#if book.links.print.amazon}}
+				<a href="{{book.links.print.areb}}"><img class="merchant_link" src="/images/areb.png"></a>
+			{{/if}}
+			{{#if book.links.print.BandN}}
+				<a href="{{book.links.print.BandN}}"><img class="merchant_link" src="/images/BandN.png"></a>
+			{{/if}}
+		</div>
 
-	<div class="print_links">
-		{{#if book.links.print}}
-			<h2> Buy print copy </h2>
-		{{/if}}
-		{{#if book.links.print.amazon}}
-			<a href="{{book.links.print.amazon}}"><img class="merchant_link" src="/images/amazon.png"></a>
-		{{/if}}
-		{{#if book.links.print.amazon}}
-			<a href="{{book.links.print.areb}}"><img class="merchant_link" src="/images/areb.png"></a>
-		{{/if}}
-		{{#if book.links.print.BandN}}
-			<a href="{{book.links.print.BandN}}"><img class="merchant_link" src="/images/BandN.png"></a>
-		{{/if}}
-	</div>
+		<div class="ebook_links pure-u-1 pure-u-md-1-3">
+			{{#if book.links.ebook}}
+				<h2> Buy Ebook </h2>
+			{{/if}}
+			{{#if book.links.ebook.ared}}
+				<a href="{{book.links.ebook.areb}}">All Romance Ebooks</a>
+			{{/if}}
+			{{#if book.links.ebook.kobo}}
+				<a href="{{book.links.ebook.kobo}}"><img class="merchant_link" src="/images/kobo.png"></a>
+			{{/if}}
+			{{#if book.links.ebook.eCave}}
+				<a href="{{book.links.ebook.eCave}}">Elloras Cave</a>
+			{{/if}}
+			{{#if book.links.ebook.amazon}}
+				<a href="{{book.links.ebook.amazon}}">Amazon</a>
+			{{/if}}
+			{{#if book.links.ebook.bandN}}
+				<a href="{{book.links.ebook.BandN}}">Barnes and Noble</a>
+			{{/if}}
+			{{#if book.links.ebook.itunes}}
+				<a href="{{book.links.ebook.itunes}}">Itunes</a>
+			{{/if}}
+			{{#if book.links.ebook.smashwords}}
+				<a href="{{book.links.ebook.smashwords}}">Smashwords</a>
+			{{/if}}
+		</div>
 
-	<div class="ebook_links">
-		{{#if book.links.ebook}}
-			<h2> Buy Ebook </h2>
-		{{/if}}
-		{{#if book.links.ebook.ared}}
-			<a href="{{book.links.ebook.areb}}">All Romance Ebooks</a>
-		{{/if}}
-		{{#if book.links.ebook.kobo}}
-			<a href="{{book.links.ebook.kobo}}"><img class="merchant_link" src="/images/kobo.png"></a>
-		{{/if}}
-		{{#if book.links.ebook.eCave}}
-			<a href="{{book.links.ebook.eCave}}">Elloras Cave</a>
-		{{/if}}
-		{{#if book.links.ebook.amazon}}
-			<a href="{{book.links.ebook.amazon}}">Amazon</a>
-		{{/if}}
-		{{#if book.links.ebook.bandN}}
-			<a href="{{book.links.ebook.BandN}}">Barnes and Noble</a>
-		{{/if}}
-		{{#if book.links.ebook.itunes}}
-			<a href="{{book.links.ebook.itunes}}">Itunes</a>
-		{{/if}}
-		{{#if book.links.ebook.smashwords}}
-			<a href="{{book.links.ebook.smashwords}}">Smashwords</a>
-		{{/if}}
-	</div>
-
-	<div class="audiobook_links">
-		{{#if book.links.audiobook}}
-			<h2> Buy Audiobook </h2>
-		{{/if}}
-		{{#if book.links.audiobook.audible}}
-			<a href="{{book.links.audiobook.audible}}">Audible</a>
-		{{/if}}
-		{{#if book.links.audiobook.amazon}}
-			<a href="{{book.links.audiobook.amazon}}">Amazon</a>
-		{{/if}}
-		{{#if book.links.audiobook.itunes}}
-			<a href="{{book.links.audiobook.itunes}}">Itunes</a>
-		{{/if}}
+		<div class="audiobook_links pure-u-1 pure-u-md-1-3">
+			{{#if book.links.audiobook}}
+				<h2> Buy Audiobook </h2>
+			{{/if}}
+			{{#if book.links.audiobook.audible}}
+				<a href="{{book.links.audiobook.audible}}">Audible</a>
+			{{/if}}
+			{{#if book.links.audiobook.amazon}}
+				<a href="{{book.links.audiobook.amazon}}">Amazon</a>
+			{{/if}}
+			{{#if book.links.audiobook.itunes}}
+				<a href="{{book.links.audiobook.itunes}}">Itunes</a>
+			{{/if}}
+		</div>
 	</div>
 </div>

@@ -135,6 +135,16 @@ html, body {
 	max-height: 50px;
 }
 
+.merchant_links div{
+	border-top: 5px solid #f9f9f9; 
+	display: inline-block;
+	text-align: center;
+}
+
+.ebook_links {
+	background-color: white;
+}
+
 .single_book_title {
 	text-align: center;
 }
@@ -146,6 +156,11 @@ html, body {
 }
 
 .single_book {
-	padding: 50px 0 50px 0;
+	padding: 50px;
 	background-color: white;
+}
+
+.single_book_description {
+	padding: 20px;
+	background-color: #f9f9f9;
 }
