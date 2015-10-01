@@ -5,6 +5,15 @@
 	display: inline-block;
 }
 
+.title-container div {
+	display:inline-block;
+}
+
+.header-image-container {
+	position: absolute;
+	height: 120px;
+}
+
 .header-image {
 	height: 120px;
 }
@@ -12,8 +21,8 @@
 .footer-container {
 	height: 120px;
 	width: 100%;
-	background-color: #bbb;
-	color: white;
+	background-color: #ddd;
+	color: #03396c;
 }
 
 .footer-content div{
@@ -27,13 +36,15 @@
 }
 
 .site-title {
-	padding-top: 70px;
-	padding-left: 50px;
 	display: inline-block;
+	width: 100%;
+	padding-top: 15px;
+	margin: auto;
 }
 
 .site-title-main{
 	text-align: center;
+	width: 100%;
 }
 
 .site-title-mobile{
