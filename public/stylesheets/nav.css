@@ -31,6 +31,10 @@
 	padding: 10px 0 0 0;
 }
 
+.footer_social_links img {
+	width: 45px;
+}
+
 #footer_mc_embed_signup{
 	padding: 0;
 }

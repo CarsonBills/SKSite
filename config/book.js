@@ -8,12 +8,14 @@ exports.getSingleBook = function(input){
 					"Quarterback Tyler Oakes plays hard and parties even harder. That reckless lifestyle nearly derailed his career, and now the Birmingham Rebels are Ty’s last shot at football immortality. But staying out of trouble can take its toll—especially for a man with a taste for girls and guys. Because curvy, gorgeous Randi McInish is just the kind of trouble he’d like to get into. A tough-as-nails undercover cop, Randi meets her match in Ty. After they get wrapped up together in a drug bust and a high-speed car chase, Randi’s eager to take the notorious bad boy for another wild ride. Turns out Ty already has something in mind. When he introduces her to the Rebels’ sexy new quarterback coach, things start heating up a little too fast for Randi. Brian Mason coached Ty in college, and boy do they have history together. With Brian taking control on the field and in the bedroom, they were an unstoppable team. But Brian, blindsided by love, ran from his feelings for Ty. He won’t let Randi make the same mistake. Both men agree they need more than each other. They want a woman they can share. And when they make a pleasure play for Randi, all three are sure to score. Calling the Play is intended for mature audiences.",
 				cover: "calling_the_play.jpg",
 				links: {
-					amazon: "http://www.amazon.com/Calling-Play-Birmingham-Rebels-Samantha-ebook/dp/B00UEL0KRS/ref=as_li_ss_tl?ie=UTF8&refRID=0J3151ET44GV02V6H0FK&dpSrc=sims&dpST=_AC_UL320_SR240,320_&linkCode=sl1&tag=samakane-20&linkId=153b19a193da6db867a766cd8234bd47",
-					kobo: "https://store.kobobooks.com/en-US/ebook/calling-the-play",
-					areb: "https://www.allromanceebooks.com/product-callingtheplay-1820138-237.html",
-					BandN: "http://www.barnesandnoble.com/w/calling-the-play-samantha-kane/1121379871?ean=9781101883617",
-					penguin: "http://www.penguinrandomhouse.com/books/249830/calling-the-play-by-samantha-kane/",
-					itunes: "https://itunes.apple.com/us/book/calling-the-play/id1013563427?mt=11",
+					ebook: {
+						amazon: "http://www.amazon.com/Calling-Play-Birmingham-Rebels-Samantha-ebook/dp/B00UEL0KRS/ref=as_li_ss_tl?ie=UTF8&refRID=0J3151ET44GV02V6H0FK&dpSrc=sims&dpST=_AC_UL320_SR240,320_&linkCode=sl1&tag=samakane-20&linkId=153b19a193da6db867a766cd8234bd47",
+						kobo: "https://store.kobobooks.com/en-US/ebook/calling-the-play",
+						areb: "https://www.allromanceebooks.com/product-callingtheplay-1820138-237.html",
+						BandN: "http://www.barnesandnoble.com/w/calling-the-play-samantha-kane/1121379871?ean=9781101883617",
+						penguin: "http://www.penguinrandomhouse.com/books/249830/calling-the-play-by-samantha-kane/",
+						itunes: "https://itunes.apple.com/us/book/calling-the-play/id1013563427?mt=11",
+					}
 				}
 			},
 			"Broken Play" : 
@@ -438,7 +440,7 @@ exports.getSingleBook = function(input){
 					"During the Crimean War, injured Captain Hamish Fletcher is sent to the hospital in Scutari, where he finds his old friend and lover Dr. Phineus Harper treating the wounded. Finn can keep him at the hospital until Christmas. Will it be enough time to convince widowed nurse Edith Lambeth to grant both men their Christmas wishes?",
 				cover: "hamish.jpg",
 				links: {
-					print: {
+					ebook: {
 						BandN: "http://www.barnesandnoble.com/w/hamish-samantha-kane/1121299559?ean=2940151341417",
 						areb: "https://www.allromanceebooks.com/product-hamish-1761199-340.html",
 						kobo: "https://store.kobobooks.com/en-US/ebook/hamish",
@@ -455,7 +457,7 @@ exports.getSingleBook = function(input){
 					"Lieutenant Conall Fletcher of the 93rd Highland Regiment is injured atBalaclava during the Crimean War. On the battlefield after he’s shot he shares an intimate moment with Captain Graeme Munro, a moment that both startles and intrigues him. He’s been in love with widow Avril Scott for months, but the intensity of Munro’s regard and Conall’s heated reaction to it change everything. When he returns to the front from the hospital it’s up to Conall to make both Avril and Graeme his, and to prove that the passion between the three of them is worth fighting for.",
 				cover: "conall.png",
 				links: {
-					print: {
+					ebook: {
 						amazon: "http://www.amazon.com/Conall-93rd-Highlanders-Book-2-ebook/dp/B00PKD0FNE/ref=sr_1_1?ie=UTF8&qid=1415917415&sr=8-1&keywords=samantha+kane+conall",
 						itunes: "https://itunes.apple.com/us/book/conall/id943585278?mt=11",
 						kobo: "https://store.kobobooks.com/en-US/ebook/conall",

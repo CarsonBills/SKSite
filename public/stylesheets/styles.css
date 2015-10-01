@@ -14,6 +14,7 @@ h1{
 
 h2 {
 	margin: 0 auto 10px auto;
+	color: #005B96;
 }
 
 p {
@@ -170,8 +171,6 @@ html, body {
 
 /*About Page*/
 .about_container{
-	width: 90%;
-	padding: 50px;
 	text-align: center;
 }
 
