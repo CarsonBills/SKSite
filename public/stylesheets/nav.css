@@ -1,8 +1,12 @@
 .title-container{
-	height: 240px;
+	height: 120px;
 	width: 100%;
 	background-color: black;
 	display: inline-block;
+}
+
+.header-image {
+	height: 120px;
 }
 
 .footer-container {

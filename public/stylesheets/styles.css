@@ -5,10 +5,11 @@
 
 a{
 	text-decoration: none;
+	color: #206fb3;
 }
 
-h1 {
-	color: #999;
+h1{
+	color: #206fb3;
 }
 
 h2 {
@@ -21,7 +22,7 @@ p {
 
 html, body {
 	background-color: #f9f9f9;
-	color: #312F3A;
+	color: #3d3d3d;
 	height: 100%;
 }
 
@@ -189,7 +190,7 @@ html, body {
 
 .trailer a {
 	display: block;
-	letter-spacing: .25ex;
+	letter-spacing: 0ex;
 	min-width: 420px;
 }
 
