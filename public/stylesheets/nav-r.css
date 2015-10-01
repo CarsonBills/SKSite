@@ -6,7 +6,7 @@
     width: 100%;
     padding: 10px 0;
     background-color: #bbb;
-    color: white;
+    color: #03396c;
     cursor: pointer;
     text-transform: uppercase; }
     #nav-trigger span:after {
@@ -37,13 +37,13 @@ nav#nav-main {
   nav#nav-main a {
     text-decoration: none;
     display: block;
-    color: white;
+    color: #03396c;
     margin: 0;
     margin-right: 4px;
     padding: 10px 30px; }
     nav#nav-main a:hover {
-      background-color: lightgrey;
-      color: #fff; }
+      background-color: #D9E6EF;
+      color: #03396c; }
 
 nav#nav-mobile {
   position: relative;
@@ -62,14 +62,14 @@ nav#nav-mobile {
   nav#nav-mobile a {
     text-decoration: none;
     display: block;
-    color: white;
+    color: #03396c;
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 30px;
     padding-right: 30px;
     }
     nav#nav-mobile a:hover {
-      background-color: lightgrey; }
+      background-color: #D9E6EF; }
 
 
 /* =Media Queries
