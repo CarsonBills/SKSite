@@ -27,6 +27,10 @@ html, body {
 	height: 100%;
 }
 
+.body_wrap {
+	padding: 0 50px;
+}
+
 .button {
 	height: 40px;
 	width: 100px;
