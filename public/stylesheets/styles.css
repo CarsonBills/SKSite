@@ -175,6 +175,8 @@ html, body {
 }
 
 .about_social_logos img {
+	width: 90%;
+	min-width: 50px;
 	max-width: 100px;
 }
 
