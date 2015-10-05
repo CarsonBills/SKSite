@@ -209,6 +209,10 @@ html, body {
 
 /*Media Page*/
 
+.trailers_container {
+	padding-bottom: 50px;
+}
+
 .trailer {
 	text-align: center;
 	margin: 0 auto;
@@ -223,4 +227,9 @@ html, body {
 iframe {
 	margin: 0 auto;
 	display: block;
+}
+
+.media_text {
+	text-align: center;
+	padding: 0 15% 50px 15%;
 }
