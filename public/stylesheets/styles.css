@@ -234,3 +234,10 @@ iframe {
 	text-align: center;
 	padding: 0 15% 50px 15%;
 }
+
+/*Events Page*/
+
+.events_container {
+	text-align: center;
+	padding: 0 50px;
+}
