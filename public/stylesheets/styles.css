@@ -27,9 +27,6 @@ html, body {
 	height: 100%;
 }
 
-.body_wrap {
-	padding: 0 50px;
-}
 
 .button {
 	height: 40px;
@@ -54,6 +51,8 @@ html, body {
 .primary div {
 	padding-top: 30px;
 }
+
+/*Home Page*/
 
 .newsletter h2 {
 	width: 100px;
@@ -103,15 +102,21 @@ html, body {
 }
 
 .secondary div {
-	padding-top: 50px;
-	min-height: 300px;
-	max-height: 350px;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	max-height: 400px;
 }
 
 .secondary div h2 {
 	text-align: center;
 	width: 190px;
 }
+
+.secondary_text {
+	padding: 0 5%;
+}
+
+/*Library Page*/
 
 .library_series {
 	text-align: center;
@@ -180,6 +185,20 @@ html, body {
 
 .about_text_1 {
 	padding: 50px 20px 0 20px;
+}
+
+.about_text_2 {
+	padding: 20px 10px 0px 10px;
+}
+
+.about_contact_text {
+	padding: 0 15% 0 15%;
+	margin-bottom: 40px;
+}
+
+.about_social_logos {
+	margin-top: 15px;
+	margin-bottom: 15px;
 }
 
 .about_social_logos img {
