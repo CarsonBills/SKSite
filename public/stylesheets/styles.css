@@ -180,6 +180,7 @@ html, body {
 
 /*About Page*/
 .about_container{
+	padding: 0 50px;
 	text-align: center;
 }
 
