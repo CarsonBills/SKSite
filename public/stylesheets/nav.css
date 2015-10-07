@@ -20,7 +20,7 @@
 
 .footer-container {
 	border-top: solid 2px #005b96;
-	height: 120px;
+	height: 150px;
 	width: 100%;
 	background-color: #ddd;
 	color: #03396c;
@@ -33,10 +33,11 @@
 }
 
 .footer-left-links {
-	padding-top: 33px;
+	padding-top: 45px;
 }
 
 .footer_social_links img {
+	padding-top: 20px;
 	width: 45px;
 }
 

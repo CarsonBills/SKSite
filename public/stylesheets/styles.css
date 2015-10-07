@@ -58,6 +58,10 @@ input {
 	height: 120px;
 }
 
+form div {
+	padding: 5px 0;
+}
+
 /*Home Page*/
 
 .newsletter h2 {
