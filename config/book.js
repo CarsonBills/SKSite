@@ -485,7 +485,7 @@ exports.getSingleBook = function(input){
 
 				}
 			},
-			"93rd Highlanders Volume 1: Hamish & Conall" : {
+			"The 93rd Highlanders" : {
 				title: "93rd Highlanders Volume 1: Hamish & Conall",
 				description: "This book is an Anthology of the books Hamish and Conall from the 93rd Highlanders series",
 				cover: "93rd_vol1.jpg",
