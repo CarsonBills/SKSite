@@ -11,7 +11,10 @@ app.engine("handlebars", exphbs({defaultLayout: "main"}));
 app.set("view engine", "handlebars");
 
 app.get('/', function(req, res){
-	res.render("index")
+	res.render("index", {
+		latest: books.getSingleBook("Calling the Play"),
+		next: books.getSingleBook("Broken Play")
+	});
 });
 
 app.get('/library', function(req, res){
