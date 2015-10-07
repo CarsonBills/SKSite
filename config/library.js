@@ -114,7 +114,7 @@ exports.getLibrary = function(){
 			cover: "hamish.jpg"
 		},
 		{
-			title: "The 93rd Highlanders Volume 1: Hamish & Conall",
+			title: "The 93rd Highlanders",
 			cover: "93rd_vol1.jpg"
 		},
 
