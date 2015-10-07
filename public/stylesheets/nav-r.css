@@ -5,8 +5,8 @@
     display: inline-block;
     width: 100%;
     padding: 10px 0;
-    background-color: #ddd;
-    color: #03396c;
+    background-color: #206fb3;
+    color: white;
     cursor: pointer;
     text-transform: uppercase; }
     #nav-trigger span:after {
@@ -19,7 +19,7 @@
     }
 
 nav {
-  background-color: #ddd
+  background-color: #206fb3;
   }
 
 nav#nav-main {
@@ -37,13 +37,13 @@ nav#nav-main {
   nav#nav-main a {
     text-decoration: none;
     display: block;
-    color: #03396c;
+    color: white;
     margin: 0;
     margin-right: 4px;
     padding: 10px 30px; }
     nav#nav-main a:hover {
-      background-color: #D9E6EF;
-      color: #03396c; }
+      background-color: #b3cde0;
+      color: black; }
 
 nav#nav-mobile {
   position: relative;
@@ -62,14 +62,16 @@ nav#nav-mobile {
   nav#nav-mobile a {
     text-decoration: none;
     display: block;
-    color: #03396c;
+    color: white;
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 30px;
     padding-right: 30px;
     }
     nav#nav-mobile a:hover {
-      background-color: #D9E6EF; }
+      background-color: #b3cde0;
+      color: black;
+       }
 
 
 /* =Media Queries
