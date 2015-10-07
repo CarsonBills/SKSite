@@ -14,7 +14,7 @@ h1{
 
 h2 {
 	margin: 0 auto 10px auto;
-	color: #005B96;
+	color: #206fb3;
 }
 
 p {
@@ -31,7 +31,8 @@ html, body {
 .button {
 	height: 40px;
 	width: 100px;
-	background: #999;
+	color: white;
+	background: #005b96;
 	border: none;
 }
 

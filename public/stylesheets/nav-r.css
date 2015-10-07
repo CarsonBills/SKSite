@@ -5,7 +5,7 @@
     display: inline-block;
     width: 100%;
     padding: 10px 0;
-    background-color: #206fb3;
+    background-color: #005b96;
     color: white;
     cursor: pointer;
     text-transform: uppercase; }
@@ -19,7 +19,7 @@
     }
 
 nav {
-  background-color: #206fb3;
+  background-color: #005b96;
   }
 
 nav#nav-main {
