@@ -14,7 +14,7 @@ h1{
 
 h2 {
 	margin: 0 auto 10px auto;
-	color: #206fb3;
+	color: #03396c;
 }
 
 p {
@@ -130,7 +130,8 @@ html, body {
 	display: inline-block;
 	min-width: 200px;
 	min-height: 250px;
-	background-color: white;
+	background-color: #d1e1ec;
+	/*border: solid 2px #011f4b*/;
 }
 
 .cover_thumbnail {
