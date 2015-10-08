@@ -183,16 +183,12 @@ form div {
 	height: 40px;
 }
 
-
-
-
 .merchant_links div{
 	text-align: center;
 	margin: 0 auto 0 auto;
 }
 
 .external_links {
-	display: none;
 	padding-bottom: 20px;
 }
 
@@ -218,12 +214,16 @@ form div {
 
 /*About Page*/
 .about_container{
-	padding: 0 50px;
 	text-align: center;
 }
 
 .about_text_1 {
 	padding: 50px 20px 0 20px;
+}
+
+.about_image {
+	height: 300px;
+	padding-top: 50px;
 }
 
 .about_reviews {

@@ -10,9 +10,3 @@ function navBar(){
         }
     });   
 }
-
-function merchantToggle(){
-    $('.merchant_header').on('click', function(){
-        $(this).next().slideToggle()
-    })
-}
