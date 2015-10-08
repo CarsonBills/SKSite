@@ -7,6 +7,7 @@
 			<img class="single_cover" src="/images/covers/{{book.cover}}"></img>
 		</div>
 		<div class="single_book_description pure-u-1 pure-u-md-1-2">
+			<h3>Description:<br><br></h3>
 			<p> {{book.description}}</p>
 		</div>
 	</div>
@@ -33,6 +34,12 @@
 			<div class="merchant_ebooks pure-u-1 pure-u-md-1-3">
 				<h2 class="merchant_header"> Buy Ebook </h2>
 				<div class="external_links">
+					{{#if book.links.ebook.amazon}}
+						<a href="{{book.links.ebook.amazon}}"><img class="merchant_link" src="/images/logos/amazon.png"></a>
+					{{/if}}
+					{{#if book.links.ebook.BandN}}
+						<a href="{{book.links.ebook.BandN}}"><img class="merchant_link" src="/images/logos/BandN.png"></a>
+					{{/if}}
 					{{#if book.links.ebook.areb}}
 						<a href="{{book.links.ebook.areb}}"><img class="merchant_link" src="/images/logos/areb.jpg"></a>
 					{{/if}}
@@ -42,17 +49,11 @@
 					{{#if book.links.ebook.eCave}}
 						<a href="{{book.links.ebook.eCave}}"><img class="merchant_link eCave_link" src="/images/logos/eCave.png"></a>
 					{{/if}}
-					{{#if book.links.ebook.amazon}}
-						<a href="{{book.links.ebook.amazon}}"><img class="merchant_link" src="/images/logos/amazon.png"></a>
-					{{/if}}
-					{{#if book.links.ebook.bandN}}
-						<a href="{{book.links.ebook.BandN}}"><img class="merchant_link" src="/images/logos/BandN.png"></a>
+					{{#if book.links.ebook.smashwords}}
+						<a href="{{book.links.ebook.smashwords}}"><img class="merchant_link" src="/images/logos/smashwords.png"></a>
 					{{/if}}
 					{{#if book.links.ebook.itunes}}
 						<a href="{{book.links.ebook.itunes}}"><img class="merchant_link" src="/images/logos/itunes.png"></a>
-					{{/if}}
-					{{#if book.links.ebook.smashwords}}
-						<a href="{{book.links.ebook.smashwords}}"><img class="merchant_link" src="/images/logos/smashwords.png"></a>
 					{{/if}}
 				</div>
 			</div>
