@@ -176,11 +176,11 @@ form div {
 
 .merchant_links div{
 	text-align: center;
-	margin: 0 auto;
 }
 
 .external_links {
 	display: none;
+	margin-bottom: 20px;
 }
 
 .single_book_title {
