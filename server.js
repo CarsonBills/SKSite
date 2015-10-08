@@ -41,8 +41,8 @@ app.get('/events', function(req, res){
 	res.render('events');
 });
 
-app.get('/media', function(req, res){
-	res.render('media');
+app.get('/videos', function(req, res){
+	res.render('videos');
 });
 
 app.get('/about', function(req, res){

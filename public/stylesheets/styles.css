@@ -136,6 +136,7 @@ form div {
 
 .library_series {
 	text-align: center;
+	padding: 30px 0;
 }
 
 .library_series:nth-child(odd){
@@ -148,8 +149,6 @@ form div {
 	display: inline-block;
 	min-width: 200px;
 	min-height: 250px;
-	background-color: #d1e1ec;
-	/*border: solid 2px #011f4b*/;
 }
 
 .cover_thumbnail {
