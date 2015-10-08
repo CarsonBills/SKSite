@@ -154,6 +154,15 @@ form div {
 	max-width: 300px;
 }
 
+.merchant_ebooks {
+	background-color: white;
+	border-top: 5px solid #f9f9f9; 
+}
+
+.merchant_header {
+	cursor: pointer;
+}
+
 .merchant_link {
 	width: 100px;
 	max-height: 50px;
@@ -166,14 +175,12 @@ form div {
 }
 
 .merchant_links div{
-	border-top: 5px solid #f9f9f9; 
-	display: inline-block;
 	text-align: center;
 	margin: 0 auto;
 }
 
-.ebook_links {
-	background-color: white;
+.external_links {
+	display: none;
 }
 
 .single_book_title {
