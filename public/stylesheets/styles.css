@@ -157,6 +157,12 @@ form div {
 .merchant_link {
 	width: 100px;
 	max-height: 50px;
+	margin: 0 5px;
+}
+
+.eCave_link {
+	width: 250px;
+	height: 40px;
 }
 
 .merchant_links div{
