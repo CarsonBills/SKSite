@@ -65,11 +65,17 @@ form div {
 /*Home Page*/
 
 .newsletter h2 {
-	width: 100px;
+	text-align: center;
+	width: 200px;
 }
 
 .mc_newsletter{
 	text-align: center;
+}
+
+.main_bio {
+	margin-top: 30px;
+	padding: 0 15px;
 }
 
 .latest {
