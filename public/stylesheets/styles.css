@@ -161,6 +161,7 @@ form div {
 
 .merchant_header {
 	cursor: pointer;
+	margin-top: 10px;
 }
 
 .merchant_link {
@@ -176,11 +177,12 @@ form div {
 
 .merchant_links div{
 	text-align: center;
+	margin: 0 auto 0 auto;
 }
 
 .external_links {
 	display: none;
-	margin-bottom: 20px;
+	padding-bottom: 20px;
 }
 
 .single_book_title {
