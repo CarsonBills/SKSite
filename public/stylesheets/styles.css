@@ -136,7 +136,10 @@ form div {
 
 .library_series {
 	text-align: center;
+}
 
+.library_series:nth-child(odd){
+	background-color: white;
 }
 
 .library-collection {
