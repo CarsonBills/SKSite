@@ -36,7 +36,7 @@
 		<h1> {{book.title}} </h1>
 		{{#if book.links.affiliate}}
 			<div class="buy_now_link">
-				<a><img src="/images/logos/amazon.gif"/></a>
+				<a href="{{book.links.affiliate}}"><img src="/images/logos/amazon.gif"/></a>
 			</div>
 		{{/if}}
 	</div>

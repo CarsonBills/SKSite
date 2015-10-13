@@ -9,6 +9,7 @@ exports.getSingleBook = function(input){
 				cover: "calling_the_play.jpg",
 				goodreadsID: "25101572",
 				links: {
+					affiliate: "http://amzn.to/1GyFTfg",
 					ebook: {
 						amazon: "http://www.amazon.com/Calling-Play-Birmingham-Rebels-Samantha-ebook/dp/B00UEL0KRS/ref=as_li_ss_tl?ie=UTF8&refRID=0J3151ET44GV02V6H0FK&dpSrc=sims&dpST=_AC_UL320_SR240,320_&linkCode=sl1&tag=samakane-20&linkId=153b19a193da6db867a766cd8234bd47",
 						kobo: "https://store.kobobooks.com/en-US/ebook/calling-the-play",
@@ -27,6 +28,7 @@ exports.getSingleBook = function(input){
 				cover: "broken_play.jpg",
 				goodreadsID: "23834711",
 				links: {
+					affiliate: "http://amzn.to/1NqpCkA",
 					ebook: {
 						itunes: "https://itunes.apple.com/us/book/broken-play/id975021669?mt=11",
 						kobo: "https://store.kobobooks.com/en-US/ebook/broken-play",
@@ -45,7 +47,7 @@ exports.getSingleBook = function(input){
 				cover: "the_courage_to_love.jpg",
 				goodreadsID: "2238248",
 				links: {
-
+					affiliate: "http://amzn.to/1Nqqgyg",
 					print: {
 						amazon: "http://www.amazon.com/Courage-Love-Brothers-Arms-Book/dp/1419955349/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1366153620&sr=1-1",
 						BandN: "http://www.barnesandnoble.com/w/the-courage-to-love-brothers-in-arms-samantha-kane/1024278858?ean=9781419955341",
@@ -73,6 +75,7 @@ exports.getSingleBook = function(input){
 				cover: "love_under_siege.jpg",
 				goodreadsID: "2695868",
 				links: {
+					affiliate: "http://amzn.to/1ZhLRN9",
 					print: {
 						amazon: "http://www.amazon.com/Love-Under-Siege-Brothers-Arms/dp/1419956272/ref=sr_1_1?ie=UTF8&qid=1443065991&sr=8-1&keywords=samantha+kane+love+under+siege",
 						BandN: "http://www.barnesandnoble.com/w/love-under-siege-brothers-in-arms-samantha-kane/1022763719?ean=9781419956270",
@@ -101,6 +104,7 @@ exports.getSingleBook = function(input){
 				cover: "love's_strategy.jpg",
 				goodreadsID: "3576204",
 				links: {
+					affiliate: "http://amzn.to/1ZhLWAz",
 					ebook: {
 						amazon: "http://www.amazon.com/Loves-Strategy-Brothers-Three-ebook/dp/B0031LJ4S4/ref=sr_1_1?ie=UTF8&qid=1366153316&sr=8-1&keywords=love%27s+strategy",
 						BandN: "http://www.barnesandnoble.com/w/loves-strategy-samantha-kane/1019743204?ean=9781419911606",
@@ -125,6 +129,7 @@ exports.getSingleBook = function(input){
 				cover: "at_love's_command.jpg",
 				goodreadsID: "3576209",
 				links: {
+					affiliate: "http://amzn.to/1LkpjW3",
 					print: {
 						amazon: "http://www.amazon.com/Loves-Command-Brothers-Arms-Book/dp/1419957724/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1366153675&sr=1-1",
 						BandN: "http://www.barnesandnoble.com/w/at-loves-command-brothers-in-arms-samantha-kane/1100322151?ean=9781419957727",
@@ -153,6 +158,7 @@ exports.getSingleBook = function(input){
 				cover: "retreat_from_love.jpg",
 				goodreadsID: "5984339",
 				links: {
+					affiliate: "http://amzn.to/1GyGvBO",
 					print: {
 						amazon: "http://www.amazon.com/Brothers-Arms-Retreat-Samantha-Kane/dp/1419959077/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1366156168&sr=1-1",
 						BandN: "http://www.barnesandnoble.com/w/brothers-in-arms-samantha-kane/1025002176?ean=9781419959073",
@@ -181,6 +187,7 @@ exports.getSingleBook = function(input){
 				cover: "love_in_exile.jpg",
 				goodreadsID: "7078699",
 				links: {
+					affiliate: "http://amzn.to/1GyGBJy",
 					print: {
 						amazon: "http://www.amazon.com/Love-Exile-Samantha-Kane/dp/1419960539/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1366156709&sr=1-1",
 						BandN: "http://www.barnesandnoble.com/w/love-in-exile-samantha-kane/1020664635?ean=9781419960536",
@@ -210,6 +217,7 @@ exports.getSingleBook = function(input){
 				cover: "love's_fortress.jpg",
 				goodreadsID: "8628509",
 				links: {
+					affiliate: "http://amzn.to/1GyGEFj",
 					print: {
 						BandN: "http://www.barnesandnoble.com/w/loves-fortress-samantha-kane/1100323461?ean=9781419961984",
 						amazon: "http://www.amazon.com/Loves-Fortress-Samantha-Kane/dp/1419961985/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1366157259&sr=1-1",
@@ -262,6 +270,7 @@ exports.getSingleBook = function(input){
 				goodreadsID: "13093464",
 				links: {
 					print: {
+						affiliate: "http://amzn.to/1ZhLvpP",
 						ebook: {
 							eCave: "https://www.ellorascave.com/product/loves-surrender/",
 							amazon: "http://www.amazon.com/Loves-Surrender-Brothers-Arms-ebook/dp/B006K0OXJI/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1366157881&sr=1-1&keywords=samantha+kane+love%27s+surrender",
@@ -280,6 +289,7 @@ exports.getSingleBook = function(input){
 				cover: "arms_of_love.jpg",
 				goodreadsID: "13569472",
 				links: {
+					affiliate: "http://amzn.to/1QbwRua",
 					print: {
 						BandN: "http://www.barnesandnoble.com/w/arms-of-love-samantha-kane/1108232437?ean=9781419965463",
 						amazon: "http://www.amazon.com/Arms-Love-Samantha-Kane/dp/1419965468/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1366158476&sr=1-1-catcorr&keywords=samantha+kane+arms+of+love",
@@ -312,6 +322,7 @@ exports.getSingleBook = function(input){
 				cover: "love_betrayed.jpg",
 				goodreadsID: "18515108",
 				links: {
+					affiliate: "http://amzn.to/1WPR4K3",
 					ebook: {
 						BandN: "http://www.barnesandnoble.com/w/love-betrayed-samanta-kane/1117057953?ean=9781419946646",
 						eCave: "https://www.ellorascave.com/product/love-betrayed/",
@@ -328,6 +339,7 @@ exports.getSingleBook = function(input){
 				cover: "defeated_by_love.jpg",
 				goodreadsID: "18515142",
 				links: {
+					affiliate: "http://amzn.to/1WPR64H",
 					ebook: {
 						amazon: "http://www.amazon.com/Defeted-Love-11-Brothers-Arms-ebook/dp/B00H80MIK0/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1386793982&sr=1-1&keywords=samantha+kane+defeted+by+love",
 						BandN: "http://www.barnesandnoble.com/w/defeted-by-love-samantha-kane/1117793736?ean=9781419947827",
@@ -346,6 +358,7 @@ exports.getSingleBook = function(input){
 				cover: "fight_for_love.jpg",
 				goodreadsID: "22084379",
 				links: {
+					affiliate: "http://amzn.to/1WPRaBi",
 					print: {
 						BandN: "http://www.barnesandnoble.com/w/fight-for-love-samantha-kane/1119964780?ean=9781419972324",
 						amazon: "http://www.amazon.com/Fight-Love-Brothers-Arms-12/dp/1419972324/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1405525096&sr=1-2",
@@ -373,6 +386,7 @@ exports.getSingleBook = function(input){
 				cover: "love_returns.jpg",
 				goodreadsID: "25780972",
 				links: {
+					affiliate: "http://amzn.to/1QbwGPH",
 					print: {
 						eCave: "https://www.ellorascave.com/product/love-returns/",
 						amazon: "http://www.amazon.com/Love-Returns-Brothers-Arms-Samantha/dp/1419971034/ref=sr_1_1?ie=UTF8&qid=1423067617&sr=8-1&keywords=love+returns+samantha+kane",
@@ -388,6 +402,7 @@ exports.getSingleBook = function(input){
 				cover: "the_devil's_thief.jpg",
 				goodreadsID: "15757382",
 				links: {
+					affiliate: "http://amzn.to/1WPRvnN",
 					ebook: {
 						penguin: "http://www.penguinrandomhouse.com/books/220517/the-devils-thief-by-samantha-kane/",
 						amazon: "http://www.amazon.com/The-Devils-Thief-Historical-ebook/dp/B008ADTCDA",
@@ -407,6 +422,7 @@ exports.getSingleBook = function(input){
 				cover: "tempting_a_devil.jpg",
 				goodreadsID: "15819060",
 				links: {
+					affiliate: "http://amzn.to/1WPRz6V",
 					ebook: {
 						amazon: "http://www.amazon.com/Tempting-Devil-Loveswept-Historical-ebook/dp/B00B0LP5F8/ref=sr_1_1?ie=UTF8&qid=1366215497&sr=8-1&k",
 						BandN: "http://www.barnesandnoble.com/w/tempting-a-devil-samantha-kane/1113756099?ean=9780345537928",
@@ -426,6 +442,7 @@ exports.getSingleBook = function(input){
 				cover: "devil_in_my_arms.jpg",
 				goodreadsID: "18111737",
 				links: {
+					affiliate: "http://amzn.to/1Ooufdj",
 					ebook: {
 						penguin: "http://www.penguinrandomhouse.com/books/234250/devil-in-my-arms-by-samantha-kane/",
 						itunes: "https://itunes.apple.com/us/book/devil-in-my-arms/id697990132?mt=11",
@@ -445,6 +462,7 @@ exports.getSingleBook = function(input){
 				cover: "cherry_pie.jpg",
 				goodreadsID: "11089935",
 				links: {
+					affiliate: "http://amzn.to/1Ooufdj",
 					ebook: {
 						BandN: "http://www.barnesandnoble.com/w/cherry-pie-samantha-kane/1031009156?ean=9781619223837",
 						itunes: "https://itunes.apple.com/us/book/cherry-pie/id891597074?mt=11",
@@ -462,6 +480,7 @@ exports.getSingleBook = function(input){
 				cover: "hamish.jpg",
 				goodreadsID: "25055623",
 				links: {
+					affiliate: "http://amzn.to/1GyFZnn",
 					ebook: {
 						BandN: "http://www.barnesandnoble.com/w/hamish-samantha-kane/1121299559?ean=2940151341417",
 						areb: "https://www.allromanceebooks.com/product-hamish-1761199-340.html",
@@ -480,6 +499,7 @@ exports.getSingleBook = function(input){
 				cover: "conall.png",
 				goodreadsID: "23549514",
 				links: {
+					affiliate: "http://amzn.to/1NqpNfK",
 					ebook: {
 						amazon: "http://www.amazon.com/Conall-93rd-Highlanders-Book-2-ebook/dp/B00PKD0FNE/ref=sr_1_1?ie=UTF8&qid=1415917415&sr=8-1&keywords=samantha+kane+conall",
 						itunes: "https://itunes.apple.com/us/book/conall/id943585278?mt=11",
@@ -514,6 +534,7 @@ exports.getSingleBook = function(input){
 				cover: "93rd_vol1.jpg",
 				goodreadsID: "27029291",
 				links: {
+					affiliate: "http://amzn.to/1WPRVKQ",
 					print: {
 						amazon: "http://www.amazon.com/The-93rd-Highlanders-Volume-Hamish/dp/1517300037",
 						BandN: "http://www.barnesandnoble.com/w/the-93rd-highlanders-volume-i-samantha-kane/1122661254?ean=9781517300036",
@@ -529,6 +550,7 @@ exports.getSingleBook = function(input){
 				cover: "a_lady_in_waiting.jpg",
 				goodreadsID: "4447665",
 				links: {
+					affiliate: "http://amzn.to/1WPRekJ",
 					ebook: {
 						amazon: "http://www.amazon.com/A-Lady-in-Waiting-ebook/dp/B002W83E10/ref=sr_1_1?ie=UTF8&qid=1366307123&sr=8-1&keywords=samantha+kane+a+lady+in+waiting",
 						BandN: "http://www.barnesandnoble.com/w/a-lady-in-waiting-samantha-kane/1019740372?ean=9781419916809",
@@ -547,6 +569,7 @@ exports.getSingleBook = function(input){
 				cover: "islands.jpg",
 				goodreadsID: "6280926",
 				links: {
+					affiliate: "http://amzn.to/1QbvGuE",
 					ebook: {
 						amazon: "http://www.amazon.com/Islands-ebook/dp/B003100TZC/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1366308612&sr=1-1&keywords=samantha+kane+islands",
 						BandN: "http://www.barnesandnoble.com/w/islands-samantha-kane/1019742984?ean=9781419921599",
@@ -565,6 +588,7 @@ exports.getSingleBook = function(input){
 				cover: "play_it_again_sam.jpg",
 				goodreadsID: "7006129",
 				links: {
+					affiliate: "http://amzn.to/1WPRGPQ",
 					ebook: {
 						amazon: "http://www.amazon.com/Play-Again-Sam-Challenge-ebook/dp/B003ATPPWQ/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1366309040&sr=1-1&keywords=samantha+kane+play+it+again+sam#_",
 						BandN: "http://www.barnesandnoble.com/w/play-it-again-sam-samantha-kane/1021398249?ean=9781419926419",
