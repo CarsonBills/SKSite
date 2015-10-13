@@ -40,11 +40,21 @@
 			<img class="single_cover" src="/images/covers/{{book.cover}}"></img>
 			<div class="single_book_social_links">
 				<a data-pin-config="hidden" data-pin-do="buttonPin" null href="//www.pinterest.com/pin/create/button/?url=http://samanthakane.us/books/{{book.title}}&media=http://samanthakane.us/images/covers/{{book.cover}}&description=Samantha%20Kane">
-					<img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_round_red_32.png"/>
+					<img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_gray_20.png"/>
 				</a>
 				<a class="twitter-share-button" data-count="none" href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fsamanthakane.us%2Fbooks%2F{{book.title}}">Tweet</a>
 
 				<div class="fb-share-button" data-href="http://samanthakane.us/books/{{book.title}}" data-layout="button">Facebook</div>
+				{{#if book.goodreadsID}}
+					<div id="gr_add_to_books">
+				    <div class="gr_custom_each_container_">
+				      <a href="https://www.goodreads.com/book/show/{{book.goodreadsID}}" style="border:none" target="_blank"><img src="https://www.goodreads.com/images/atmb_add_book-70x25.png" /></a>
+				    </div>
+				  </div>
+				  <!-- the identifier in the following script tag can be a GR book id or an isbn -->
+				  <script src="https://www.goodreads.com/book/add_to_books_widget_frame/{{book.goodreadsID}}?atmb_widget%5Bbutton%5D=atmb_widget_1.png&amp;atmb_widget%5Bhide_friends%5D=on">
+				  </script>
+			  {{/if}}
 			</div>
 		</div>
 		<div class="single_book_description pure-u-1 pure-u-md-1-2">
