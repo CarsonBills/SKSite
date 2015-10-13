@@ -5,6 +5,9 @@
 	<div class="single_book pure-g">
 		<div class="single_cover_container pure-u-1 pure-u-md-1-3">
 			<img class="single_cover" src="/images/covers/{{book.cover}}"></img>
+			<a data-pin-config="hidden" data-pin-do="buttonPin" null data-pin-height="32" data-pin-shape="round" href="//www.pinterest.com/pin/create/button/?url=samanthakane.us/books/{{book.title}}&media=http://samanthakane.us/images/covers/{{book.cover}}&description=Samantha%20Kane">
+				<img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_round_red_32.png"/>
+			</a>
 		</div>
 		<div class="single_book_description pure-u-1 pure-u-md-1-2">
 			<h3>Description:<br><br></h3>
@@ -77,3 +80,17 @@
 		{{/if}}
 	</div>
 </div>
+
+<div class="widget-plugins">
+	<!-- Please call pinit.js only once per page -->
+	<script async defer src="//assets.pinterest.com/js/pinit.js"></script>
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
+</div>
+
