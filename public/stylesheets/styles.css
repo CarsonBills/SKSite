@@ -10,6 +10,8 @@ a{
 
 h1{
 	color: #206fb3;
+	font-family: 'Quicksand', sans-serif;
+	font-weight: 400;
 }
 
 h2 {
@@ -195,6 +197,15 @@ form div {
 .single_book_title {
 	text-align: center;
 }
+
+.single_book_title h1 {
+	display: inline-block;
+}
+
+.buy_now_link {
+	width: 150px;
+	display: inline-block;
+}
 	
 .single_book > div {
 	text-align: center;
@@ -215,20 +226,6 @@ form div {
 	background-color: #f9f9f9;
 }
 
-.
-
-.single_book_social_links > div{
- 	position: absolute;
-}
-
-.single_book_social_links {
-	position: relative;
-}
-
-.pinterest_indiv {
-	top: 30;
-}
-
 #gr_add_to_books{
 	display: block;
 }
@@ -237,9 +234,14 @@ form div {
 	width: 180px;
 }
 
-.fb-share-button * {
+.fb-share-button span {
 	height: 58px;
 	padding-bottom: 4px;
+}
+
+.addReviewButton{
+	float:left;
+	margin-left: 20px;
 }
 
 

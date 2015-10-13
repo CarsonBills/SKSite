@@ -33,7 +33,12 @@
 
 <div class="container">
 	<div class="single_book_title">
-		<h1> {{book.title}}</h1>
+		<h1> {{book.title}} </h1>
+		{{#if book.links.affiliate}}
+			<div class="buy_now_link">
+				<a><img src="/images/logos/amazon.gif"/></a>
+			</div>
+		{{/if}}
 	</div>
 	<div class="single_book pure-g">
 		<div class="single_cover_container pure-u-1 pure-u-md-1-3">
