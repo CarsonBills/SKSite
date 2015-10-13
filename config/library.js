@@ -1,6 +1,16 @@
 exports.getLibrary = function(){
 
 	var library = {
+	"Upcoming": [
+		{
+			title: "Cherry Bomb",
+			cover: "cherry_pie.jpg"
+		},
+		{
+			title: "Calling the Play",
+			cover: "calling_the_play.jpg"
+		},
+	],
 
 	"Brothers in Arms": [
 
@@ -92,6 +102,10 @@ exports.getLibrary = function(){
 			title: "Cherry Pie",
 			cover: "cherry_pie.jpg"
 		},
+		{
+			title: "Cherry Bomb",
+			cover: "cherry_pie.jpg"
+		}
 
 	],
 
@@ -123,12 +137,12 @@ exports.getLibrary = function(){
 	"Birmingham Rebels" : [
 
 		{
-			title: "Calling the Play",
-			cover: "calling_the_play.jpg"
-		},
-		{
 			title: "Broken Play",
 			cover: "broken_play.jpg"
+		},
+		{
+			title: "Calling the Play",
+			cover: "calling_the_play.jpg"
 		},
 
 	],
@@ -173,6 +187,6 @@ exports.getLibrary = function(){
 			cover: "tempt_the_cougar.jpg"
 		},
 	]}
-	console.log(library["Brothers in Arms"])
+	console.log(library["Upcoming"])
 	return library
 }

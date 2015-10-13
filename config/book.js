@@ -680,6 +680,5 @@ exports.getSingleBook = function(input){
 				}
 			},
 		}
-	console.log(library[input]);
 	return library[input];
 }

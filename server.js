@@ -13,7 +13,7 @@ app.set("view engine", "handlebars");
 app.get('/', function(req, res){
 	res.render("index", {
 		latest: books.getSingleBook("Broken Play"),
-		next: books.getSingleBook("Calling the Play")
+		next: library.getLibrary()["Upcoming"]
 	});
 });
 
