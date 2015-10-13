@@ -195,11 +195,14 @@ form div {
 .single_book_title {
 	text-align: center;
 }
+	
+.single_book > div {
+	text-align: center;
+}	
 
 .single_book div{
-	text-align: center;
 	display: inline-block;
-	margin: auto;
+	margin: 0 auto;
 }
 
 .single_book {
@@ -211,6 +214,29 @@ form div {
 	padding: 20px;
 	background-color: #f9f9f9;
 }
+
+.
+
+.single_book_social_links > div{
+ 	position: absolute;
+}
+
+.single_book_social_links {
+	position: relative;
+}
+
+.pinterest_indiv {
+	top: 30;
+}
+
+#gr_add_to_books{
+	display: block;
+}
+
+#gr_add_to_books iframe {
+	width: 180px;
+}
+
 
 /*About Page*/
 .about_container{
@@ -282,8 +308,4 @@ iframe {
 .events_container {
 	text-align: center;
 	padding: 0 50px;
-}
-
-#review_stats {
-	display: none;
 }
