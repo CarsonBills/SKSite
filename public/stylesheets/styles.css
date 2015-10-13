@@ -237,6 +237,11 @@ form div {
 	width: 180px;
 }
 
+.fb-share-button * {
+	height: 58px;
+	padding-bottom: 4px;
+}
+
 
 /*About Page*/
 .about_container{
