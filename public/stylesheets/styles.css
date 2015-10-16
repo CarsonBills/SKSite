@@ -3,6 +3,11 @@
 	padding: 0;
 }
 
+@font-face {
+	font-family: "Scriptina";
+	src: url("stylesheets/SCRIPTIN.ttf");
+}
+
 a{
 	text-decoration: none;
 	color: #206fb3;
@@ -10,7 +15,7 @@ a{
 
 h1{
 	color: #206fb3;
-	font-family: 'Quicksand', sans-serif;
+	font-family: 'Scriptina', sans-serif;
 	font-weight: 400;
 }
 
@@ -125,8 +130,8 @@ form div {
 }
 
 .secondary div {
-	padding-top: 100px;
-	padding-bottom: 100px;
+	padding-top: 50px;
+	padding-bottom: 50px;
 	text-align: center;
 }
 
@@ -225,7 +230,7 @@ form div {
 .single_book_description {
 	padding: 20px;
 	background-color: #f9f9f9;
-	height: 20%;
+	height: 50%;
 }
 
 #gr_add_to_books{

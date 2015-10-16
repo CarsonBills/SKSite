@@ -65,6 +65,12 @@
 	display: none;
 }
 
+@media screen and (max-width: 925px){
+	.site_sub_title {
+		display: none;
+	}
+}
+
 
 @media screen and (max-width: 580px) {
 	.header-image {
