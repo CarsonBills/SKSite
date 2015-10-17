@@ -48,7 +48,7 @@
 .site-title {
 	display: inline-block;
 	width: 100%;
-	padding-top: 15px;
+	/*padding-top: 15px;*/
 	margin: auto;
 }
 
@@ -56,6 +56,7 @@
 	font-size: 40px;
 	text-align: center;
 	width: 100%;
+	margin: 0;
 }
 
 .site-title-mobile{

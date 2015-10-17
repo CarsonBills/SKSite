@@ -4,8 +4,8 @@
 }
 
 @font-face {
-	font-family: "Scriptina";
-	src: url("stylesheets/SCRIPTIN.ttf");
+	font-family: "Script";
+	src: url("SCRIPTIN.ttf");
 }
 
 a{
@@ -15,8 +15,7 @@ a{
 
 h1{
 	color: #206fb3;
-	font-family: 'Scriptina', sans-serif;
-	font-weight: 400;
+	font-family: 'Script';
 }
 
 h2 {
