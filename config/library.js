@@ -4,7 +4,7 @@ exports.getLibrary = function(){
 	"Upcoming": [
 		{
 			title: "Cherry Bomb",
-			cover: "cherry_pie.jpg"
+			cover: "cherry_bomb.jpg"
 		},
 		{
 			title: "Calling the Play",
