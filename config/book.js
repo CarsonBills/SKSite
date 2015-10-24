@@ -12,11 +12,11 @@ exports.getSingleBook = function(input){
 					affiliate: "http://amzn.to/1GyFTfg",
 					ebook: {
 						amazon: "http://www.amazon.com/Calling-Play-Birmingham-Rebels-Samantha-ebook/dp/B00UEL0KRS/ref=as_li_ss_tl?ie=UTF8&refRID=0J3151ET44GV02V6H0FK&dpSrc=sims&dpST=_AC_UL320_SR240,320_&linkCode=sl1&tag=samakane-20&linkId=153b19a193da6db867a766cd8234bd47",
-						kobo: "https://store.kobobooks.com/en-US/ebook/calling-the-play",
-						areb: "https://www.allromanceebooks.com/product-callingtheplay-1820138-237.html",
-						BandN: "http://www.barnesandnoble.com/w/calling-the-play-samantha-kane/1121379871?ean=9781101883617",
-						penguin: "http://www.penguinrandomhouse.com/books/249830/calling-the-play-by-samantha-kane/",
-						itunes: "https://itunes.apple.com/us/book/calling-the-play/id1013563427?mt=11",
+						xkobo: "https://store.kobobooks.com/en-US/ebook/calling-the-play",
+						xareb: "https://www.allromanceebooks.com/product-callingtheplay-1820138-237.html",
+						xBandN: "http://www.barnesandnoble.com/w/calling-the-play-samantha-kane/1121379871?ean=9781101883617",
+						xpenguin: "http://www.penguinrandomhouse.com/books/249830/calling-the-play-by-samantha-kane/",
+						xitunes: "https://itunes.apple.com/us/book/calling-the-play/id1013563427?mt=11",
 					}
 				}
 			},
@@ -30,12 +30,12 @@ exports.getSingleBook = function(input){
 				links: {
 					affiliate: "http://amzn.to/1NqpCkA",
 					ebook: {
-						itunes: "https://itunes.apple.com/us/book/broken-play/id975021669?mt=11",
-						kobo: "https://store.kobobooks.com/en-US/ebook/broken-play",
+						xitunes: "https://itunes.apple.com/us/book/broken-play/id975021669?mt=11",
+						xkobo: "https://store.kobobooks.com/en-US/ebook/broken-play",
 						amazon: "http://www.amazon.com/Broken-Play-Birmingham-Rebels-Samantha-ebook/dp/B00R04OWZS/ref=as_li_ss_tl?s=digital-text&ie=UTF8&qid=1441216756&sr=1-1&keywords=broken+play+samantha+kane&linkCode=sl1&tag=samakane-20&linkId=9868a96e95d023925686ba3f4e36cb34",
-						areb: "https://www.allromanceebooks.com/product-brokenplay-1771850-237.html",
-						BandN: "http://www.barnesandnoble.com/w/broken-play-samantha-kane/1120915581?ean=9781101883600",
-						penguin: "http://www.penguinrandomhouse.com/books/249829/broken-play-by-samantha-kane/",
+						xareb: "https://www.allromanceebooks.com/product-brokenplay-1771850-237.html",
+						xBandN: "http://www.barnesandnoble.com/w/broken-play-samantha-kane/1120915581?ean=9781101883600",
+						xpenguin: "http://www.penguinrandomhouse.com/books/249829/broken-play-by-samantha-kane/",
 					}
 				}
 			},
@@ -82,11 +82,12 @@ exports.getSingleBook = function(input){
 						eCave: "https://www.ellorascave.com/product/love-under-siege-2/",
 					},
 					ebook: {
-						BandN: "http://www.barnesandnoble.com/w/love-under-siege-samantha-kane/1019743189?ean=9781419908248",
-						eCave: "https://www.ellorascave.com/product/love-under-siege/",
-						itunes: "https://itunes.apple.com/us/book/love-under-siege/id546818093?mt=11",
-						areb: "https://www.allromanceebooks.com/product-loveundersiege-452798-340.html",
-						kobo: "https://store.kobobooks.com/en-us/ebook/love-under-siege-brothers-in-arms-book-two",
+						amazon: "http://amzn.to/1ZhLRN9",
+						xBandN: "http://www.barnesandnoble.com/w/love-under-siege-samantha-kane/1019743189?ean=9781419908248",
+						xeCave: "https://www.ellorascave.com/product/love-under-siege/",
+						xitunes: "https://itunes.apple.com/us/book/love-under-siege/id546818093?mt=11",
+						xareb: "https://www.allromanceebooks.com/product-loveundersiege-452798-340.html",
+						xkobo: "https://store.kobobooks.com/en-us/ebook/love-under-siege-brothers-in-arms-book-two",
 					},
 					xaudiobook: {
 						audible: "http://www.audible.com/pd/Romance/Love-Under-Siege-Audiobook/B00EQ88CDE?ref_=det_sim_auth_1",
@@ -107,11 +108,11 @@ exports.getSingleBook = function(input){
 					affiliate: "http://amzn.to/1ZhLWAz",
 					ebook: {
 						amazon: "http://www.amazon.com/Loves-Strategy-Brothers-Three-ebook/dp/B0031LJ4S4/ref=sr_1_1?ie=UTF8&qid=1366153316&sr=8-1&keywords=love%27s+strategy",
-						BandN: "http://www.barnesandnoble.com/w/loves-strategy-samantha-kane/1019743204?ean=9781419911606",
-						eCave: "https://www.ellorascave.com/product/loves-strategy/",
-						itunes: "https://itunes.apple.com/us/book/loves-strategy-brothers-in/id547346860?mt=11",
-						areb: "https://www.allromanceebooks.com/product-love039sstrategy-452807-340.html",
-						kobo: "https://store.kobobooks.com/en-us/ebook/love-s-strategy-brothers-in-arms-book-three",
+						xBandN: "http://www.barnesandnoble.com/w/loves-strategy-samantha-kane/1019743204?ean=9781419911606",
+						xeCave: "https://www.ellorascave.com/product/loves-strategy/",
+						xitunes: "https://itunes.apple.com/us/book/loves-strategy-brothers-in/id547346860?mt=11",
+						xareb: "https://www.allromanceebooks.com/product-love039sstrategy-452807-340.html",
+						xkobo: "https://store.kobobooks.com/en-us/ebook/love-s-strategy-brothers-in-arms-book-three",
 					},
 					xaudiobook: {
 						audible: "http://www.audible.com/pd/Erotica-Sexuality/Loves-Strategy-Audiobook/B00EQACK30?ref_=det_sim_auth_2",
@@ -137,11 +138,11 @@ exports.getSingleBook = function(input){
 					},
 					ebook: {
 						amazon: "http://www.amazon.com/Loves-Command-Brothers-Arms-ebook/dp/B00305CYGA/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1366153675&sr=1-1&keywords=samantha+kane+at+love%27s+command",
-						BandN: "http://www.barnesandnoble.com/w/at-loves-command-samantha-kane/1110794107?ean=9781419914041",
-						areb: "https://www.allromanceebooks.com/product-atlove039scommand-443471-340.html",
-						itunes: "https://itunes.apple.com/us/book/at-loves-command/id529667524?mt=11",
-						eCave: "https://www.ellorascave.com/product/at-loves-command/",
-						kobo: "https://store.kobobooks.com/en-us/ebook/at-love-s-command-brothers-in-arms-book-four",
+						xBandN: "http://www.barnesandnoble.com/w/at-loves-command-samantha-kane/1110794107?ean=9781419914041",
+						xareb: "https://www.allromanceebooks.com/product-atlove039scommand-443471-340.html",
+						xitunes: "https://itunes.apple.com/us/book/at-loves-command/id529667524?mt=11",
+						xeCave: "https://www.ellorascave.com/product/at-loves-command/",
+						xkobo: "https://store.kobobooks.com/en-us/ebook/at-love-s-command-brothers-in-arms-book-four",
 					},
 					xaudiobook: {
 						audible: "http://www.audible.com/pd/Romance/At-Loves-Command-Audiobook/B00EQ88SY2?ref_=pd_rsp_tl_rd_3",
@@ -165,12 +166,12 @@ exports.getSingleBook = function(input){
 						eCave: "https://www.ellorascave.com/product/retreat-from-love-2/",
 					},
 					ebook: {
-						BandN: "http://www.barnesandnoble.com/w/retreat-from-love-samantha-kane/1021398329?ean=9781419919428",
+						xBandN: "http://www.barnesandnoble.com/w/retreat-from-love-samantha-kane/1021398329?ean=9781419919428",
 						amazon: "http://www.amazon.com/Retreat-From-Love-Brothers-ebook/dp/B0032J0IPS/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1366156168&sr=1-1&keywords=samantha+kane+retreat+from+love",
-						areb: "https://www.allromanceebooks.com/product-retreatfromlove-463782-340.html",
-						itunes: "https://itunes.apple.com/us/book/retreat-from-love-brothers/id547797158?mt=11",
-						eCave: "https://www.ellorascave.com/product/retreat-from-love/",
-						kobo: "https://store.kobobooks.com/en-us/ebook/retreat-from-love-brothers-in-arms-book-five",
+						xareb: "https://www.allromanceebooks.com/product-retreatfromlove-463782-340.html",
+						xitunes: "https://itunes.apple.com/us/book/retreat-from-love-brothers/id547797158?mt=11",
+						xeCave: "https://www.ellorascave.com/product/retreat-from-love/",
+						xkobo: "https://store.kobobooks.com/en-us/ebook/retreat-from-love-brothers-in-arms-book-five",
 					},
 					xaudiobook: {
 						audible: "http://www.audible.com/pd/Erotica-Sexuality/Retreat-from-Love-Audiobook/B00EQ88WV6?ref_=det_sim_auth_3",
@@ -194,12 +195,12 @@ exports.getSingleBook = function(input){
 						eCave: "https://www.ellorascave.com/product/love-in-exile-2/",
 					},
 					ebook: {
-						eCave: "https://www.ellorascave.com/product/love-in-exile/",
-						itunes: "https://itunes.apple.com/us/book/love-in-exile/id546808363?mt=11",
-						areb: "https://www.allromanceebooks.com/product-loveinexile-452791-340.html",
-						BandN: "http://www.barnesandnoble.com/w/love-in-exile-samantha-kane/1020664635?ean=9781419925283",
+						xeCave: "https://www.ellorascave.com/product/love-in-exile/",
+						xitunes: "https://itunes.apple.com/us/book/love-in-exile/id546808363?mt=11",
+						xareb: "https://www.allromanceebooks.com/product-loveinexile-452791-340.html",
+						xBandN: "http://www.barnesandnoble.com/w/love-in-exile-samantha-kane/1020664635?ean=9781419925283",
 						amazon: "http://www.amazon.com/Love-Exile-Brothers-Arms-Book-ebook/dp/B003F1CWZ2/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1366156709&sr=1-1",
-						kobo: "https://store.kobobooks.com/en-us/ebook/play-it-again-sam-cougar-cahllenge-book-one",
+						xkobo: "https://store.kobobooks.com/en-us/ebook/play-it-again-sam-cougar-cahllenge-book-one",
 					},
 					xaudiobook: {
 						audible: "http://www.audible.com/pd/Romance/Love-in-Exile-Audiobook/B00EQAC5YY?sr=1-6&amp;qid=1378322851&amp;ref_=sr_1_6",
@@ -224,12 +225,12 @@ exports.getSingleBook = function(input){
 						eCave: "https://www.ellorascave.com/product/loves-fortress-2/",
 					},
 					ebook: {
-						areb: "https://www.allromanceebooks.com/product-love039sfortress-446492-340.html",
-						itunes: "https://itunes.apple.com/us/book/loves-fortress-brothers-in/id547345554?mt=11",
-						BandN: "http://www.barnesandnoble.com/w/loves-fortress-samantha-kane/1100323461?ean=9781419928352",
+						xareb: "https://www.allromanceebooks.com/product-love039sfortress-446492-340.html",
+						xitunes: "https://itunes.apple.com/us/book/loves-fortress-brothers-in/id547345554?mt=11",
+						xBandN: "http://www.barnesandnoble.com/w/loves-fortress-samantha-kane/1100323461?ean=9781419928352",
 						amazon: "http://www.amazon.com/Loves-Fortress-Brothers-Seven-ebook/dp/B003XU7I7M/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1366157259&sr=1-1&keywords=samantha+kane+loves+fortress",
-						eCave: "https://www.ellorascave.com/product/loves-fortress/",
-						kobo: "https://store.kobobooks.com/en-us/ebook/love-s-fortress-brothers-in-arms-book-seven",
+						xeCave: "https://www.ellorascave.com/product/loves-fortress/",
+						xkobo: "https://store.kobobooks.com/en-us/ebook/love-s-fortress-brothers-in-arms-book-seven",
 					},
 					xaudiobook: {
 						audible: "http://www.audible.com/pd/Romance/Loves-Fortress-Audiobook/B00EQA9YCK?sr=1-7&amp;qid=1378322851&amp;ref_=sr_1_7",
@@ -253,11 +254,11 @@ exports.getSingleBook = function(input){
 					},
 					ebook: {
 						amazon: "http://www.amazon.com/Prisoner-Love-Brothers-Arms-Eight-ebook/dp/B00545BZ0A/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1366157463&sr=1-1",
-						BandN: "http://www.barnesandnoble.com/w/prisoner-of-love-samantha-kane/1102994418?ean=9781419933479",
-						eCave: "https://www.ellorascave.com/product/prisoner-of-love/",
-						itunes: "https://itunes.apple.com/us/book/prisoner-love-brothers-in/id547754433?mt=11",
-						areb: "https://www.allromanceebooks.com/product-prisoneroflovebrothersinarmsbookeight-559919-340.html",
-						kobo: "https://store.kobobooks.com/en-us/ebook/prisoner-of-love-brothers-in-arms-book-eight",
+						xBandN: "http://www.barnesandnoble.com/w/prisoner-of-love-samantha-kane/1102994418?ean=9781419933479",
+						xeCave: "https://www.ellorascave.com/product/prisoner-of-love/",
+						xitunes: "https://itunes.apple.com/us/book/prisoner-love-brothers-in/id547754433?mt=11",
+						xareb: "https://www.allromanceebooks.com/product-prisoneroflovebrothersinarmsbookeight-559919-340.html",
+						xkobo: "https://store.kobobooks.com/en-us/ebook/prisoner-of-love-brothers-in-arms-book-eight",
 					}
 				}
 			},
@@ -271,12 +272,12 @@ exports.getSingleBook = function(input){
 				links: {
 					affiliate: "http://amzn.to/1ZhLvpP",
 					ebook: {
-						eCave: "https://www.ellorascave.com/product/loves-surrender/",
+						xeCave: "https://www.ellorascave.com/product/loves-surrender/",
 						amazon: "http://www.amazon.com/Loves-Surrender-Brothers-Arms-ebook/dp/B006K0OXJI/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1366157881&sr=1-1&keywords=samantha+kane+love%27s+surrender",
-						BandN: "http://www.barnesandnoble.com/w/loves-surrender-samantha-kane/1107990322?ean=9781419937460",
-						itunes: "https://itunes.apple.com/us/book/loves-surrender-brothers-in/id547347055?mt=11",
-						areb: "https://www.allromanceebooks.com/product-love039ssurrenderbrothersinarmsbooknine-657351-340.html",
-						kobo: "https://store.kobobooks.com/en-us/ebook/love-s-surrender-brothers-in-arms-book-nine",
+						xBandN: "http://www.barnesandnoble.com/w/loves-surrender-samantha-kane/1107990322?ean=9781419937460",
+						xitunes: "https://itunes.apple.com/us/book/loves-surrender-brothers-in/id547347055?mt=11",
+						xareb: "https://www.allromanceebooks.com/product-love039ssurrenderbrothersinarmsbooknine-657351-340.html",
+						xkobo: "https://store.kobobooks.com/en-us/ebook/love-s-surrender-brothers-in-arms-book-nine",
 					}
 				}
 			},
@@ -304,11 +305,11 @@ exports.getSingleBook = function(input){
 				goodreadsID: "16150443",
 				links: {
 					ebook: {
-						BandN: "http://www.barnesandnoble.com/w/love-and-war-samantha-kane/1113787879?ean=2940015848557",
+						xBandN: "http://www.barnesandnoble.com/w/love-and-war-samantha-kane/1113787879?ean=2940015848557",
 						amazon: "http://www.amazon.com/Love-War-Beginning-Brothers-ebook/dp/B00A2XI9EY/ref=sr_1_1?s=books&ie=UTF8&qid=1366158762&sr=1-1&keywords=samantha+kane+love+and+war",
-						smashwords: "https://www.smashwords.com/books/view/252274",
-						areb: "https://www.allromanceebooks.com/product-loveandwar-1761207-340.html",
-						kobo: "https://store.kobobooks.com/en-us/ebook/love-and-war-20",
+						xsmashwords: "https://www.smashwords.com/books/view/252274",
+						xareb: "https://www.allromanceebooks.com/product-loveandwar-1761207-340.html",
+						xkobo: "https://store.kobobooks.com/en-us/ebook/love-and-war-20",
 					}
 				}
 			},
@@ -322,11 +323,11 @@ exports.getSingleBook = function(input){
 				links: {
 					affiliate: "http://amzn.to/1WPR4K3",
 					ebook: {
-						BandN: "http://www.barnesandnoble.com/w/love-betrayed-samanta-kane/1117057953?ean=9781419946646",
-						eCave: "https://www.ellorascave.com/product/love-betrayed/",
-						areb: "https://www.allromanceebooks.com/product-lovebetrayed-1313640-340.html",
+						xBandN: "http://www.barnesandnoble.com/w/love-betrayed-samanta-kane/1117057953?ean=9781419946646",
+						xeCave: "https://www.ellorascave.com/product/love-betrayed/",
+						xareb: "https://www.allromanceebooks.com/product-lovebetrayed-1313640-340.html",
 						amazon: "http://www.amazon.com/Love-Betrayed-10-Brothers-Arms-ebook/dp/B00FMX4DJE/ref=pd_sim_b_1/189-6852834-7062061",
-						kobo: "https://store.kobobooks.com/en-us/ebook/love-betrayed",
+						xkobo: "https://store.kobobooks.com/en-us/ebook/love-betrayed",
 					}
 				}
 			},
@@ -340,11 +341,11 @@ exports.getSingleBook = function(input){
 					affiliate: "http://amzn.to/1WPR64H",
 					ebook: {
 						amazon: "http://www.amazon.com/Defeted-Love-11-Brothers-Arms-ebook/dp/B00H80MIK0/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1386793982&sr=1-1&keywords=samantha+kane+defeted+by+love",
-						BandN: "http://www.barnesandnoble.com/w/defeted-by-love-samantha-kane/1117793736?ean=9781419947827",
-						itunes: "https://itunes.apple.com/us/book/defeated-by-love/id870061961?mt=11",
-						eCave: "https://www.ellorascave.com/product/defeated-by-love/",
-						areb: "https://www.allromanceebooks.com/product-defeatedbylove-1374596-340.html",
-						kobo: "https://store.kobobooks.com/en-us/ebook/defeated-by-love",
+						xBandN: "http://www.barnesandnoble.com/w/defeted-by-love-samantha-kane/1117793736?ean=9781419947827",
+						xitunes: "https://itunes.apple.com/us/book/defeated-by-love/id870061961?mt=11",
+						xeCave: "https://www.ellorascave.com/product/defeated-by-love/",
+						xareb: "https://www.allromanceebooks.com/product-defeatedbylove-1374596-340.html",
+						xkobo: "https://store.kobobooks.com/en-us/ebook/defeated-by-love",
 					}
 				}
 			},
@@ -363,12 +364,12 @@ exports.getSingleBook = function(input){
 						eCave: "https://www.ellorascave.com/product/fight-for-love-2/",
 					},
 					ebook: {
-						eCave: "https://www.ellorascave.com/product/fight-for-love/",
+						xeCave: "https://www.ellorascave.com/product/fight-for-love/",
 						amazon: "http://www.amazon.com/Fight-Love-12-Brothers-Arms-ebook/dp/B00LTVGBCK/ref=sr_1_2?s=digital-text&ie=UTF8&qid=1405525096&sr=1-2&keywords=fight+for+love+samantha+kane",
-						kobo: "https://store.kobobooks.com/en-us/ebook/fight-for-love-3",
-						BandN: "http://www.barnesandnoble.com/w/fight-for-love-samantha-kane/1119964780?ean=9781419992087",
-						itunes: "https://itunes.apple.com/us/book/fight-for-love/id907910704?mt=11",
-						areb: "https://www.allromanceebooks.com/product-fightforlove-446710-340.html",
+						xkobo: "https://store.kobobooks.com/en-us/ebook/fight-for-love-3",
+						xBandN: "http://www.barnesandnoble.com/w/fight-for-love-samantha-kane/1119964780?ean=9781419992087",
+						xitunes: "https://itunes.apple.com/us/book/fight-for-love/id907910704?mt=11",
+						xareb: "https://www.allromanceebooks.com/product-fightforlove-446710-340.html",
 					},
 					xaudiobook: {
 						amazon: "http://www.amazon.com/Fight-for-Love/dp/B00PB6PWCY/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=1405525096&sr=1-2",
@@ -402,13 +403,13 @@ exports.getSingleBook = function(input){
 				links: {
 					affiliate: "http://amzn.to/1WPRvnN",
 					ebook: {
-						penguin: "http://www.penguinrandomhouse.com/books/220517/the-devils-thief-by-samantha-kane/",
+						xpenguin: "http://www.penguinrandomhouse.com/books/220517/the-devils-thief-by-samantha-kane/",
 						amazon: "http://www.amazon.com/The-Devils-Thief-Historical-ebook/dp/B008ADTCDA",
-						BandN: "http://www.barnesandnoble.com/w/the-devils-thief-samantha-kane/1110956390?ean=9780345537911",
-						itunes: "https://itunes.apple.com/us/book/the-devils-thief/id534961255?mt=11",
-						areb: "https://www.allromanceebooks.com/product-thedevil039sthief-987574-237.html",
-						autography: "https://www.autography.com/queue/add/8757150decbd89b0f5442ca3db4d0e0e",
-						kobo: "https://store.kobobooks.com/en-us/ebook/the-devil-s-thief",
+						xBandN: "http://www.barnesandnoble.com/w/the-devils-thief-samantha-kane/1110956390?ean=9780345537911",
+						xitunes: "https://itunes.apple.com/us/book/the-devils-thief/id534961255?mt=11",
+						xareb: "https://www.allromanceebooks.com/product-thedevil039sthief-987574-237.html",
+						xautography: "https://www.autography.com/queue/add/8757150decbd89b0f5442ca3db4d0e0e",
+						xkobo: "https://store.kobobooks.com/en-us/ebook/the-devil-s-thief",
 					}
 				}
 			},
