@@ -101,8 +101,8 @@ form div {
 	margin: 0 auto;
 }
 
-.latest h2{
-	width: 170px;
+.latest{
+	text-align: center;
 }
 
 .latest-cover {

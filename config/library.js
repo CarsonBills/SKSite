@@ -104,7 +104,7 @@ exports.getLibrary = function(){
 		},
 		{
 			title: "Cherry Bomb",
-			cover: "cherry_pie.jpg"
+			cover: "cherry_bomb.jpg"
 		}
 
 	],
