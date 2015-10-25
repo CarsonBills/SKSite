@@ -13,11 +13,11 @@ a{
 	color: #206fb3;
 }
 
-h1,h2,h3,h4 {
+h1,h2,h3,h4,a {
 	font-family: "Quicksand", sans-serif; 
 }
 
-.site-title{
+.site-title h1{
 	color: #206fb3;
 	font-family: 'Script';
 }

@@ -4,11 +4,15 @@ exports.getLibrary = function(){
 	"Upcoming": [
 		{
 			title: "Cherry Bomb",
-			cover: "cherry_bomb.jpg"
+			cover: "cherry_bomb.jpg",
+			release: "",
+			preorder: "",
 		},
 		{
 			title: "Calling the Play",
-			cover: "calling_the_play.jpg"
+			cover: "calling_the_play.jpg",
+			release: "",
+			preorder: "",
 		},
 	],
 
