@@ -73,6 +73,11 @@
 	</div>
 	
 	<div class="merchant_links pure-g">
+		{{#if book.unavailable}}
+			<div class="pure-u-1">
+				<h2>{{book.unavailable}}</h2>
+			</div>
+		{{/if}}
 		{{#if book.links.print}}
 			<div class="pure-u-1 pure-u-md-1-3">
 				<h2 class="merchant_header"> Buy print copy </h2>
