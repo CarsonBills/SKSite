@@ -6,13 +6,13 @@ exports.getLibrary = function(){
 			title: "Cherry Bomb",
 			cover: "cherry_bomb.jpg",
 			release: "January 12, 2016",
-			preorder: "",
+			available_for_preorder: "December 13, 2015"
 		},
 		{
 			title: "Calling the Play",
 			cover: "calling_the_play.jpg",
 			release: "December 1, 2015",
-			preorder: "",
+			preorder: "http://amzn.to/1GyFTfg",
 		},
 	],
 

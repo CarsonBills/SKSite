@@ -10,7 +10,6 @@ exports.getSingleBook = function(input){
 				goodreadsID: "25101572",
 				links: {
 					affiliate: "http://amzn.to/1GyFTfg",
-					preorder: "",
 					ebook: {
 						amazon: "http://www.amazon.com/Calling-Play-Birmingham-Rebels-Samantha-ebook/dp/B00UEL0KRS/ref=as_li_ss_tl?ie=UTF8&refRID=0J3151ET44GV02V6H0FK&dpSrc=sims&dpST=_AC_UL320_SR240,320_&linkCode=sl1&tag=samakane-20&linkId=153b19a193da6db867a766cd8234bd47",
 						kobo: "https://store.kobobooks.com/en-US/ebook/calling-the-play",
