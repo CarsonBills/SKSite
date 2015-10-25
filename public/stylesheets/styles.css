@@ -236,6 +236,10 @@ form div {
 	height: 50%;
 }
 
+.single_book_description p {
+	text-align: left;
+}
+
 #gr_add_to_books{
 	display: block;
 }

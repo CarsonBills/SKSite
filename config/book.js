@@ -471,6 +471,16 @@ exports.getSingleBook = function(input){
 					}
 				}
 			},
+			"Cherry Bomb" :
+			{
+				title: "Cherry Bomb",
+				description: "Officially, Turnstiles CEO Brian Curland is in Mercury to set up a new data center. Unofficially, he’s using this trip to re-evaluate his life, because for a man who has everything, he’s feeling pretty empty.<br><br>He could buy any car he wants. But no, he had to rent a piece-of-crap Chevy—which is now broken down on the side of the road. When he’s rescued by a sexy local, Brian does what he always does. Go for what he wants, even if it’s just temporary.<br><br>Evan Michaels stops to help because that’s what good guys do. He grew up in Mercury, eventually becoming minister of the local Unitarian church. Though everyone knows him, being gay and being in a gay relationship are two different things. He wants Brian, but their affair has to be secret or he can’t play.<br><br>When Evan unleashes his long-suppressed sexuality, Brian is more than up to handling the heat. Yet even though they fall hard for each other, it might take the whole town to convince them it’s a forever kind of love.",
+				cover: "cherry_bomb.jpg",
+				goodreadsID: "",
+				links: {
+					affiliate: "",
+				}
+			},
 			"Hamish" : 
 			{
 				title: "Hamish",
