@@ -614,7 +614,7 @@ exports.getSingleBook = function(input){
 			{
 				title: "Jewels of The Nile",
 				description: 
-					"Jewels of the Nile II is an Anthology, containing several stories by various authors, including Samantha Kane’s story “The Debutante”. <br><br>Click here to see details of this Anthology, including summaries and descriptions of all the stories.",
+					"Jewels of the Nile II is an Anthology, containing several stories by various authors, including Samantha Kane’s story “The Debutante”. ",
 				cover: "jewels_of_the_nile.jpg",
 				goodreadsID: "3814514",
 				links: {
@@ -637,7 +637,7 @@ exports.getSingleBook = function(input){
 			{
 				title: "Tempt The Cougar",
 				description: 
-					"Tempt the Cougar is an Anthology, containing several stories by various authors, including Samantha Kane’s story “Play it Again, Sam”. <br><br>Click here to see details of this Anthology.",
+					"Tempt the Cougar is an Anthology, containing several stories by various authors, including Samantha Kane’s story “Play it Again, Sam”.",
 				cover: "tempt_the_cougar.jpg",
 				goodreadsID: "8967180",
 				links: {
@@ -652,7 +652,7 @@ exports.getSingleBook = function(input){
 			{
 				title: "Aged To Perfection",
 				description: 
-					"Aged to Perfection is an Anthology, containing several stories by various authors, including Samantha Kane’s story “A Lady in Waiting”. <br><br>Click here to see details of this Anthology.",
+					"Aged to Perfection is an Anthology, containing several stories by various authors, including Samantha Kane’s story “A Lady in Waiting”.",
 				cover: "aged_to_perfection.jpg",
 				goodreadsID: "7149335",
 				links: {
@@ -666,7 +666,7 @@ exports.getSingleBook = function(input){
 			{
 				title: "Esprit of Corps",
 				description: 
-					"Esprit de Corps is an Anthology, containing several stories by various authors, including Samantha Kane’s story “Islands”. <br><br>Click here to see details of this Anthology.",
+					"Esprit de Corps is an Anthology, containing several stories by various authors, including Samantha Kane’s story “Islands”. <br><br><a href='http://www.amazon.com/Esprit-Corps-Victor-J-Banis/dp/1934531030/ref=sr_1_1?ie=UTF8&qid=1366319808&sr=8-1&keywords=samantha+kane+esprit+de+corps#reader_1934531030'>Click here</a> to see details of this Anthology.",
 				cover: "esprit_of_corps.jpg",
 				goodreadsID: "7119236",
 				links: {
