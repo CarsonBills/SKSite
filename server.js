@@ -12,7 +12,7 @@ app.set("view engine", "handlebars");
 
 app.get('/', function(req, res){
 	res.render("index", {
-		latest: books.getSingleBook("Broken Play"),
+		latest: library.getLibrary()["Latest"],
 		next: library.getLibrary()["Upcoming"]
 	});
 });

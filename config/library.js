@@ -1,6 +1,13 @@
 exports.getLibrary = function(){
 
 	var library = {
+
+	"Latest": {
+		cover: "broken_play.jpg",
+		title: "Broken Play",
+		buy_link: "http://amzn.to/1GyFTfg",
+	},
+
 	"Upcoming": [
 		{
 			title: "Cherry Bomb",
