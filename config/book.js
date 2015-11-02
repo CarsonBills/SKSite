@@ -586,12 +586,12 @@ exports.getSingleBook = function(input){
 				links: {
 					affiliate: "http://amzn.to/1WPRekJ",
 					ebook: {
-						amazon: "http://www.amazon.com/A-Lady-in-Waiting-ebook/dp/B002W83E10/ref=sr_1_1?ie=UTF8&qid=1366307123&sr=8-1&keywords=samantha+kane+a+lady+in+waiting",
-						BandN: "http://www.barnesandnoble.com/w/a-lady-in-waiting-samantha-kane/1019740372?ean=9781419916809",
-						areb: "https://www.allromanceebooks.com/product-aladyinwaiting-443377-162.html",
-						eCave: "https://www.ellorascave.com/product/a-lady-in-waiting/",
-						itunes: "https://itunes.apple.com/us/book/a-lady-in-waiting/id517825991?mt=11",
-						kobo: "https://store.kobobooks.com/en-us/ebook/a-lady-in-waiting",
+						amazon: "http://amzn.to/1WPRekJ",
+						xBandN: "http://www.barnesandnoble.com/w/a-lady-in-waiting-samantha-kane/1019740372?ean=9781419916809",
+						xareb: "https://www.allromanceebooks.com/product-aladyinwaiting-443377-162.html",
+						xeCave: "https://www.ellorascave.com/product/a-lady-in-waiting/",
+						xitunes: "https://itunes.apple.com/us/book/a-lady-in-waiting/id517825991?mt=11",
+						xkobo: "https://store.kobobooks.com/en-us/ebook/a-lady-in-waiting",
 					}
 				}
 			},
@@ -606,12 +606,12 @@ exports.getSingleBook = function(input){
 				links: {
 					affiliate: "http://amzn.to/1QbvGuE",
 					ebook: {
-						amazon: "http://www.amazon.com/Islands-ebook/dp/B003100TZC/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1366308612&sr=1-1&keywords=samantha+kane+islands",
-						BandN: "http://www.barnesandnoble.com/w/islands-samantha-kane/1019742984?ean=9781419921599",
-						eCave: "https://www.ellorascave.com/product/islands/",
-						itunes: "https://itunes.apple.com/us/book/islands/id546505531?mt=11",
-						areb: "https://www.allromanceebooks.com/product-islands-449744-340.html",
-						kobo: "https://store.kobobooks.com/en-us/ebook/islands",
+						amazon: "http://amzn.to/1QbvGuE",
+						xBandN: "http://www.barnesandnoble.com/w/islands-samantha-kane/1019742984?ean=9781419921599",
+						xeCave: "https://www.ellorascave.com/product/islands/",
+						xitunes: "https://itunes.apple.com/us/book/islands/id546505531?mt=11",
+						xareb: "https://www.allromanceebooks.com/product-islands-449744-340.html",
+						xkobo: "https://store.kobobooks.com/en-us/ebook/islands",
 					}
 				}
 			},
@@ -626,12 +626,12 @@ exports.getSingleBook = function(input){
 				links: {
 					affiliate: "http://amzn.to/1WPRGPQ",
 					ebook: {
-						amazon: "http://www.amazon.com/Play-Again-Sam-Challenge-ebook/dp/B003ATPPWQ/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1366309040&sr=1-1&keywords=samantha+kane+play+it+again+sam#_",
-						BandN: "http://www.barnesandnoble.com/w/play-it-again-sam-samantha-kane/1021398249?ean=9781419926419",
-						eCave: "https://www.ellorascave.com/product/play-it-again-sam/",
-						itunes: "https://itunes.apple.com/us/book/play-it-again-sam-cougar-cahllenge/id547736512?mt=11",
-						areb: "https://www.allromanceebooks.com/product-playitagainsamcougarcahllengebookone-517427-340.html",
-						kobo: "https://store.kobobooks.com/en-us/ebook/play-it-again-sam-cougar-cahllenge-book-one",
+						amazon: "http://amzn.to/1WPRGPQ",
+						xBandN: "http://www.barnesandnoble.com/w/play-it-again-sam-samantha-kane/1021398249?ean=9781419926419",
+						xeCave: "https://www.ellorascave.com/product/play-it-again-sam/",
+						xitunes: "https://itunes.apple.com/us/book/play-it-again-sam-cougar-cahllenge/id547736512?mt=11",
+						xareb: "https://www.allromanceebooks.com/product-playitagainsamcougarcahllengebookone-517427-340.html",
+						xkobo: "https://store.kobobooks.com/en-us/ebook/play-it-again-sam-cougar-cahllenge-book-one",
 					}
 				}
 			},
@@ -644,18 +644,18 @@ exports.getSingleBook = function(input){
 				excerpt: "the_debutante_jewels.pdf",
 				goodreadsID: "3814514",
 				links: {
-					print: {
+					xprint: {
 						amazon: "http://www.amazon.com/Elloras-Cavemen-Jewels-Nile-Vol/dp/141995783X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1366311980&sr=1-1",
 						BandN: "http://www.barnesandnoble.com/w/elloras-cavemen-jewels-of-the-nile-volume-ii-rebecca-airies/1112575465?ean=9781419957833",
 						eCave: "https://www.ellorascave.com/product/elloras-cavemen-jewels-of-the-nile-ii-2/",
 					},
 					ebook: {
 						amazon: "http://www.amazon.com/Jewels-Nile-II-Elloras-Cavemen-ebook/dp/B003NE5V68/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1366311980&sr=1-1",
-						BandN: "http://www.barnesandnoble.com/w/elloras-cavemen-jewels-of-the-nile-volume-ii-rebecca-airies/1112575465?ean=9781419916540",
-						eCave: "https://www.ellorascave.com/product/elloras-cavemen-jewels-of-the-nile-ii/",
-						areb: "https://www.allromanceebooks.com/product-ellora039scavemenjewelsofthenileii-437871-340.html",
-						kobo: "https://store.kobobooks.com/en-us/ebook/jewels-of-the-nile-ii",
-						itunes: "https://itunes.apple.com/us/book/elloras-cavemen-jewels-nile/id907041358?mt=11",
+						xBandN: "http://www.barnesandnoble.com/w/elloras-cavemen-jewels-of-the-nile-volume-ii-rebecca-airies/1112575465?ean=9781419916540",
+						xeCave: "https://www.ellorascave.com/product/elloras-cavemen-jewels-of-the-nile-ii/",
+						xareb: "https://www.allromanceebooks.com/product-ellora039scavemenjewelsofthenileii-437871-340.html",
+						xkobo: "https://store.kobobooks.com/en-us/ebook/jewels-of-the-nile-ii",
+						xitunes: "https://itunes.apple.com/us/book/elloras-cavemen-jewels-nile/id907041358?mt=11",
 					}
 				}
 			},
@@ -670,8 +670,8 @@ exports.getSingleBook = function(input){
 				links: {
 					print: {
 						amazon: "http://www.amazon.com/Tempt-Cougar-Samantha-Kane/dp/1419961179/ref=sr_1_1?s=books&ie=UTF8&qid=1366312810&sr=1-1&keywords=samantha+kane+tempt+the+cougar",
-						BandN: "http://www.barnesandnoble.com/w/tempt-the-cougar-samantha-kane/1103218617?ean=9781419961175",
-						eCave: "https://www.ellorascave.com/product/tempt-the-cougar/",
+						xBandN: "http://www.barnesandnoble.com/w/tempt-the-cougar-samantha-kane/1103218617?ean=9781419961175",
+						xeCave: "https://www.ellorascave.com/product/tempt-the-cougar/",
 					}
 				}
 			},
