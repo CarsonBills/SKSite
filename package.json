@@ -4,7 +4,8 @@
   "description": "Samantha Kane Books",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.13.3"
+    "express": "^4.13.3",
+    "express-handlebars": "2.0.1"
   },
   "devDependencies": {},
   "scripts": {
