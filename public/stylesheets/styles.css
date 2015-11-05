@@ -20,6 +20,10 @@ h1,h2,h3,h4,a {
 .site-title h1{
 	color: #206fb3;
 	font-family: 'Script';
+	font-size: 60px;
+	height: 155px;
+	overflow: hidden;
+	margin-top: -40px;
 }
 
 h2 {
