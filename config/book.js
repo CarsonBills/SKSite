@@ -546,7 +546,7 @@ exports.getSingleBook = function(input){
 			"Brodie" : 
 			{
 				title: "Brodie",
-				description: "Brodie is due for release in 2015. There is no description or excerpt available as yet.",
+				description: "Brodie is due for release in 2016. There is no description or excerpt available as yet.",
 				cover: "brodie.jpg",
 				links: {
 
@@ -555,7 +555,7 @@ exports.getSingleBook = function(input){
 			"Douglas" : 
 			{
 				title: "Douglas",
-				description: "Douglas is due for release in 2015. There is no description or excerpt available as yet.",
+				description: "Douglas is due for release in 2016. There is no description or excerpt available as yet.",
 				cover: "douglas.jpg",
 				links: {
 

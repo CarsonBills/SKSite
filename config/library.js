@@ -26,10 +26,21 @@ exports.getLibrary = function(){
 	"Brothers in Arms": [
 
 		{
+			title: "Love and War",
+			cover: "love_and_war.jpg"
+		},
+		{
 			title: "The Courage to Love",
 			cover: "the_courage_to_love.jpg"
 		},
-
+		{
+			title: "Love Under Siege",
+			cover: "love_under_siege.jpg"
+		},
+		{
+			title: "Love's Strategy",
+			cover: "love's_strategy.jpg"
+		},
 		{
 			title: "Arms of Love",
 			cover: "arms_of_love.jpg"
@@ -47,10 +58,6 @@ exports.getLibrary = function(){
 			cover: "fight_for_love.jpg"
 		},
 		{
-			title: "Love and War",
-			cover: "love_and_war.jpg"
-		},
-		{
 			title: "Love Betrayed",
 			cover: "love_betrayed.jpg"
 		},
@@ -62,18 +69,12 @@ exports.getLibrary = function(){
 			title: "Love Returns",
 			cover: "love_returns.jpg"
 		},
-		{
-			title: "Love Under Siege",
-			cover: "love_under_siege.jpg"
-		},
+
 		{
 			title: "Love's Fortress",
 			cover: "love's_fortress.jpg"
 		},
-		{
-			title: "Love's Strategy",
-			cover: "love's_strategy.jpg"
-		},
+
 		{
 			title: "Love's Surrender",
 			cover: "love's_surrender.jpg"
@@ -93,16 +94,16 @@ exports.getLibrary = function(){
 	"The Saint's Devils": [
 
 		{
-			title: "Devil in My Arms",
-			cover: "devil_in_my_arms.jpg"
+			title: "The Devil's Thief",
+			cover: "the_devil's_thief.jpg"
 		},
 		{
 			title: "Tempting a Devil",
 			cover: "tempting_a_devil.jpg"
 		},
 		{
-			title: "The Devil's Thief",
-			cover: "the_devil's_thief.jpg"
+			title: "Devil in My Arms",
+			cover: "devil_in_my_arms.jpg"
 		},
 
 	],
@@ -123,20 +124,20 @@ exports.getLibrary = function(){
 	"93rd Highlanders" : [
 
 		{
-			title: "Brodie",
-			cover: "brodie.jpg"
+			title: "Hamish",
+			cover: "hamish.jpg"
 		},
 		{
 			title: "Conall",
 			cover: "conall.png"
 		},
 		{
-			title: "Douglas",
-			cover: "douglas.jpg"
+			title: "Brodie",
+			cover: "brodie.jpg"
 		},
 		{
-			title: "Hamish",
-			cover: "hamish.jpg"
+			title: "Douglas",
+			cover: "douglas.jpg"
 		},
 		{
 			title: "The 93rd Highlanders",

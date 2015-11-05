@@ -13,9 +13,9 @@
 		{{/each}}
 	</div>
 	<div class="library_series">
-		<h2> 93rd Highlanders </h2>
-		{{#each highlanders}}
-			<div class="library-collection">
+		<h2> Mercury Rising </h2>
+		{{#each mercury}}
+			<div class="library-collection">		
 				<h3>
 					<a href="/books/{{this.title}}">{{this.title}}</a>
 				</h3>
@@ -25,10 +25,10 @@
 			</div>
 		{{/each}}
 	</div>
-	<div class="library_series">
-		<h2> Mercury Rising </h2>
-		{{#each mercury}}
-			<div class="library-collection">		
+	<div class="library_series" id="historical">
+		<h2> 93rd Highlanders </h2>
+		{{#each highlanders}}
+			<div class="library-collection">
 				<h3>
 					<a href="/books/{{this.title}}">{{this.title}}</a>
 				</h3>
@@ -51,7 +51,7 @@
 			</div>
 		{{/each}}
 	</div>
-	<div class="library_series" id="historical">
+	<div class="library_series">
 		<h2> Brothers in Arms </h2>
 		{{#each brothers}}
 			<div class="library-collection">
@@ -64,7 +64,6 @@
 			</div>
 		{{/each}}
 	</div>
-
 	<div class="library_series">
 		<h2> Standalone Romance </h2>	
 		{{#each standalone}}
