@@ -92,10 +92,15 @@ form div {
 	padding: 0 15px;
 }
 
-.latest {
-	margin-top: 100px;
+.latest-header {
+	margin-top: 50px;
+}
+
+.latest-container {
+	padding-top: 30px;
+	margin-top: 30px;
 	background-color: white;
-	height: 530px;
+	height: 490px;
 }
 
 .latest-description {

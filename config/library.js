@@ -42,12 +42,32 @@ exports.getLibrary = function(){
 			cover: "love's_strategy.jpg"
 		},
 		{
-			title: "Arms of Love",
-			cover: "arms_of_love.jpg"
-		},
-		{
 			title: "At Love's Command",
 			cover: "at_love's_command.jpg"
+		},
+		{
+			title: "Retreat From Love",
+			cover: "retreat_from_love.jpg"
+		},
+		{
+			title: "Love in Exile",
+			cover: "love_in_exile.jpg"
+		},
+		{
+			title: "Prisoner of Love",
+			cover: "prisoner_of_love.jpg"
+		},
+		{
+			title: "Love's Fortress",
+			cover: "love's_fortress.jpg"
+		},
+		{
+			title: "Love's Surrender",
+			cover: "love's_surrender.jpg"
+		},
+		{
+			title: "Love Betrayed",
+			cover: "love_betrayed.jpg"
 		},
 		{
 			title: "Defeated By Love",
@@ -56,39 +76,15 @@ exports.getLibrary = function(){
 		{
 			title: "Fight For Love",
 			cover: "fight_for_love.jpg"
-		},
+		},		
 		{
-			title: "Love Betrayed",
-			cover: "love_betrayed.jpg"
-		},
-		{
-			title: "Love in Exile",
-			cover: "love_in_exile.jpg"
+			title: "Arms of Love",
+			cover: "arms_of_love.jpg"
 		},
 		{
 			title: "Love Returns",
 			cover: "love_returns.jpg"
 		},
-
-		{
-			title: "Love's Fortress",
-			cover: "love's_fortress.jpg"
-		},
-
-		{
-			title: "Love's Surrender",
-			cover: "love's_surrender.jpg"
-		},
-
-		{
-			title: "Prisoner of Love",
-			cover: "prisoner_of_love.jpg"
-		},
-		{
-			title: "Retreat From Love",
-			cover: "retreat_from_love.jpg"
-		},
-
 	],
 
 	"The Saint's Devils": [
