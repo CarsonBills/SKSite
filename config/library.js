@@ -3,8 +3,9 @@ exports.getLibrary = function(){
 	var library = {
 
 	"Latest": {
-		cover: "broken_play.jpg",
-		title: "Broken Play",
+		title: "Calling the Play",
+		cover: "calling_the_play.jpg",
+		release: "December 1, 2015",
 		buy_link: "http://amzn.to/1GyFTfg",
 	},
 
@@ -14,12 +15,6 @@ exports.getLibrary = function(){
 			cover: "cherry_bomb.jpg",
 			release: "January 12, 2016",
 			available_for_preorder: "December 13, 2015"
-		},
-		{
-			title: "Calling the Play",
-			cover: "calling_the_play.jpg",
-			release: "December 1, 2015",
-			preorder: "http://amzn.to/1GyFTfg",
 		},
 	],
 
