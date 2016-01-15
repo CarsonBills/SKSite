@@ -3,19 +3,13 @@ exports.getLibrary = function(){
 	var library = {
 
 	"Latest": {
-		title: "Calling the Play",
-		cover: "calling_the_play.jpg",
-		release: "December 1, 2015",
-		buy_link: "http://amzn.to/1GyFTfg",
+		title: "Cherry Bomb",
+		cover: "cherry_bomb.jpg",
+		release: "January 12, 2016",
+		buy_link: "http://www.amazon.com/Cherry-Bomb-Mercury-Rising-Samantha-ebook/dp/B01980QKQ0"
 	},
 
 	"Upcoming": [
-		{
-			title: "Cherry Bomb",
-			cover: "cherry_bomb.jpg",
-			release: "January 12, 2016",
-			available_for_preorder: "December 13, 2015"
-		},
 	],
 
 	"Brothers in Arms": [

@@ -496,11 +496,16 @@ exports.getSingleBook = function(input){
 				title: "Cherry Bomb",
 				description: "Their spark could be too hot to handle…or bring a dying town back to life.<br><br>Mercury Rising, Book 2<br><br>Officially, Turnstiles CEO Brian Curland is in Mercury to set up a new data center. Unofficially, he’s using this trip to re-evaluate his life, because for a man who has everything, he’s feeling pretty empty.<br><br>He could buy any car he wants. But no, he had to rent a piece-of-crap Chevy—which is now broken down on the side of the road. When he’s rescued by a sexy local, Brian does what he always does. Go for what he wants, even if it’s just temporary.<br><br>Evan Michaels stops to help because that’s what good guys do. He grew up in Mercury, eventually becoming minister of the local Unitarian church. Though everyone knows him, being gay and being in a gay relationship are two different things. He wants Brian, but their affair has to be secret or he can’t play.<br><br>When Evan unleashes his long-suppressed sexuality, Brian is more than up to handling the heat. Yet even though they fall hard for each other, it might take the whole town to convince them it’s a forever kind of love.",
 				cover: "cherry_bomb.jpg",
-				goodreadsID: "",
-				unavailable: "Cherry Bomb will be available for pre-order here on December 13, 2015",
+				goodreadsID: "28047317",
 				links: {
-					affiliate: "",
-					preorder: "",
+					affiliate: "http://www.amazon.com/Cherry-Bomb-Mercury-Rising-Samantha-ebook/dp/B01980QKQ0",
+					ebook: {
+						BandN: "http://www.barnesandnoble.com/w/cherry-bomb-samantha-kane/1123127163?ean=9781619233843",
+						itunes: "https://itunes.apple.com/us/book/cherry-bomb/id1067212393?mt=11",
+						amazon: "http://www.amazon.com/Cherry-Bomb-Mercury-Rising-Samantha-ebook/dp/B01980QKQ0",
+						kobo: "https://store.kobobooks.com/en-us/ebook/cherry-bomb-10",
+						areb: "https://www.allromanceebooks.com/product-cherrybomb-1941506-149.html",
+					}
 				}
 			},
 			"Hamish" : 
