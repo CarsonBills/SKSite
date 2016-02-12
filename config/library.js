@@ -9,8 +9,12 @@ exports.getLibrary = function(){
 		buy_link: "http://www.amazon.com/Cherry-Bomb-Mercury-Rising-Samantha-ebook/dp/B01980QKQ0"
 	},
 
-	"Upcoming": [
-	],
+	"Upcoming": [{
+		title: "Cherry Pop",
+		cover: "cherry_pop.jpg",
+		release: "April 12, 2016",
+		available_for_preorder: "Soon!"
+	}],
 
 	"Brothers in Arms": [
 
@@ -102,8 +106,11 @@ exports.getLibrary = function(){
 		{
 			title: "Cherry Bomb",
 			cover: "cherry_bomb.jpg"
+		},
+		{
+			title: "Cherry Pop",
+			cover: "cherry_pop.jpg",
 		}
-
 	],
 
 	"93rd Highlanders" : [
@@ -184,6 +191,5 @@ exports.getLibrary = function(){
 			cover: "tempt_the_cougar.jpg"
 		},
 	]}
-	console.log(library["Upcoming"])
 	return library
 }

@@ -476,7 +476,7 @@ exports.getSingleBook = function(input){
 			{
 				title: "Cherry Pie",
 				description: 
-					"You can go home again—if you can get a foot in the door. <br><br>A year after packing and moving from L.A. to Mercury, North Carolina, John Ford still hasn’t adjusted to the heat. Or to life without his long-time partner. As he fixes up the old house he bought, the quiet becomes his only companion, and he’s content with that—until a deep-voiced stranger plants himself under a tree across the street. <br><br>Eight years ago, Connor Meecham left someone behind in that house—himself. Now he’s back to find the man he used to be, before drugs and prison sent his life careening off the tracks. But it’s not his mother’s face peering through the window any more. It’s a man who seems as lost as Conn himself. <br><br>When John learns what the house—and the dying town—mean to Conn, he finds himself opening the door to his heart. Just a crack. But it’s enough to get mixed up in a world of emotions as complicated as the recipe for the perfect cherry pie. Where one misstep can turn  something sweet and juicy into one hot mess. <br><br>Warning: Contains a guitar-wielding, brooding Southern boy and a reclusive millionaire with a weakness for cherry pie and hot coffee. Excessive porch sittin’ and lemonade included.",
+					"You can go home again—if you can get a foot in the door. <br><br>A year after packing and moving from L.A. to Mercury, North Carolina, John Ford still hasn’t adjusted to the heat. Or to life without his long-time partner. As he fixes up the old house he bought, the quiet becomes his only companion, and he’s content with that—until a deep-voiced stranger plants himself under a tree across the street. <br><br>Eight years ago, Connor Meecham left someone behind in that house—himself. Now he’s back to find the man he used to be, before drugs and prison sent his life careening off the tracks. But it’s not his mother’s face peering through the window any more. It’s a man who seems as lost as Conn himself. <br><br>When John learns what the house—and the dying town—mean to Conn, he finds himself opening the door to his heart. Just a crack. But it’s enough to get mixed up in a world of emotions as complicated as the recipe for the perfect cherry pie. Where one misstep can turn  something sweet and juicy into one hot mess. <br><br><i>Warning: Contains a guitar-wielding, brooding Southern boy and a reclusive millionaire with a weakness for cherry pie and hot coffee. Excessive porch sittin’ and lemonade included.</i>",
 				cover: "cherry_pie.jpg",
 				excerpt: "cherry_pie.pdf",
 				goodreadsID: "11089935",
@@ -494,7 +494,7 @@ exports.getSingleBook = function(input){
 			"Cherry Bomb" :
 			{
 				title: "Cherry Bomb",
-				description: "Their spark could be too hot to handle…or bring a dying town back to life.<br><br>Mercury Rising, Book 2<br><br>Officially, Turnstiles CEO Brian Curland is in Mercury to set up a new data center. Unofficially, he’s using this trip to re-evaluate his life, because for a man who has everything, he’s feeling pretty empty.<br><br>He could buy any car he wants. But no, he had to rent a piece-of-crap Chevy—which is now broken down on the side of the road. When he’s rescued by a sexy local, Brian does what he always does. Go for what he wants, even if it’s just temporary.<br><br>Evan Michaels stops to help because that’s what good guys do. He grew up in Mercury, eventually becoming minister of the local Unitarian church. Though everyone knows him, being gay and being in a gay relationship are two different things. He wants Brian, but their affair has to be secret or he can’t play.<br><br>When Evan unleashes his long-suppressed sexuality, Brian is more than up to handling the heat. Yet even though they fall hard for each other, it might take the whole town to convince them it’s a forever kind of love.",
+				description: "Their spark could be too hot to handle…or bring a dying town back to life.<br><br>Mercury Rising, Book 2<br><br>Officially, Turnstiles CEO Brian Curland is in Mercury to set up a new data center. Unofficially, he’s using this trip to re-evaluate his life, because for a man who has everything, he’s feeling pretty empty.<br><br>He could buy any car he wants. But no, he had to rent a piece-of-crap Chevy—which is now broken down on the side of the road. When he’s rescued by a sexy local, Brian does what he always does. Go for what he wants, even if it’s just temporary.<br><br>Evan Michaels stops to help because that’s what good guys do. He grew up in Mercury, eventually becoming minister of the local Unitarian church. Though everyone knows him, being gay and being in a gay relationship are two different things. He wants Brian, but their affair has to be secret or he can’t play.<br><br>When Evan unleashes his long-suppressed sexuality, Brian is more than up to handling the heat. Yet even though they fall hard for each other, it might take the whole town to convince them it’s a forever kind of love.<br><br><i>Warning: Contains an inexperienced minister, gay comic-book role play, dirty dancing in antebellum mansions, and some very naughty fireworks. Protective gear recommended.</i>",
 				cover: "cherry_bomb.jpg",
 				goodreadsID: "28047317",
 				links: {
@@ -505,6 +505,23 @@ exports.getSingleBook = function(input){
 						amazon: "http://www.amazon.com/Cherry-Bomb-Mercury-Rising-Samantha-ebook/dp/B01980QKQ0",
 						kobo: "https://store.kobobooks.com/en-us/ebook/cherry-bomb-10",
 						areb: "https://www.allromanceebooks.com/product-cherrybomb-1941506-149.html",
+					}
+				}
+			},
+			"Cherry Pop" :
+			{
+				title: "Cherry Pop",
+				description: "<b>It was supposed to be for fun. But there was forever in his kisses…</b><br><br><i>Mercury Rising</i>, Book 3<br><br>Ben Heston is secretly glad his boss got a wild hair and dragged him to Mercury, North Carolina. He needed a change after a painful breakup. He never expected his boss to fall over-the-moon, putting-down-roots in love.<br><br>Ben has no intention of growing roots in Mercury, but one look at Tripp Lanier makes him consider delaying his departure. Too bad Tripp isn’t gay.<br><br>Tripp is next in line to take over the family construction business, yet he can’t shake the feeling something is missing. He and Ben share a sweet connection that fills up that empty space, and Tripp realizes the one fact everyone but him seemed to suspect until now. Tripp is gay.<br><br>In spite of himself, Ben begins to love all the things Tripp loves about Mercury—night trains and tall trees, family, friends, and sweet cherry pop. But just as he’s thinking he might be Tripp’s Mr. Right, his past breezes into town, bringing up old hurts and new fears, the one obstacle that might derail happily ever after…<br><br>Warning: Contains Good Old Boys, NASCAR references, a reluctant computer programmer, an enthusiastic gay virgin and gallons of sweet cherry pop. Nine out of ten dentists agree it could be dangerously romantic.",
+				cover: "cherry_pop.jpg",
+				xgoodreadsID: "",
+				xlinks: {
+					affiliate: "",
+					ebook: {
+						BandN: "",
+						itunes: "",
+						amazon: "",
+						kobo: "",
+						areb: "",
 					}
 				}
 			},
