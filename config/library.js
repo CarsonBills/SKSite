@@ -3,17 +3,13 @@ exports.getLibrary = function(){
 	var library = {
 
 	"Latest": {
-		title: "Cherry Bomb",
-		cover: "cherry_bomb.jpg",
-		release: "January 12, 2016",
-		buy_link: "http://www.amazon.com/Cherry-Bomb-Mercury-Rising-Samantha-ebook/dp/B01980QKQ0"
+		title: "Cherry Pop",
+		cover: "cherry_pop.jpg",
+		buy_link: "http://amzn.to/264fDs8",
 	},
 
 	"Upcoming": [{
-		title: "Cherry Pop",
-		cover: "cherry_pop.jpg",
-		release: "April 12, 2016",
-		available_for_preorder: "Soon!"
+		title: "Coming Soon!"
 	}],
 
 	"Brothers in Arms": [

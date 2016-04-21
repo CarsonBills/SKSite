@@ -511,17 +511,18 @@ exports.getSingleBook = function(input){
 			"Cherry Pop" :
 			{
 				title: "Cherry Pop",
-				description: "<b>It was supposed to be for fun. But there was forever in his kisses…</b><br><br><i>Mercury Rising</i>, Book 3<br><br>Ben Heston is secretly glad his boss got a wild hair and dragged him to Mercury, North Carolina. He needed a change after a painful breakup. He never expected his boss to fall over-the-moon, putting-down-roots in love.<br><br>Ben has no intention of growing roots in Mercury, but one look at Tripp Lanier makes him consider delaying his departure. Too bad Tripp isn’t gay.<br><br>Tripp is next in line to take over the family construction business, yet he can’t shake the feeling something is missing. He and Ben share a sweet connection that fills up that empty space, and Tripp realizes the one fact everyone but him seemed to suspect until now. Tripp is gay.<br><br>In spite of himself, Ben begins to love all the things Tripp loves about Mercury—night trains and tall trees, family, friends, and sweet cherry pop. But just as he’s thinking he might be Tripp’s Mr. Right, his past breezes into town, bringing up old hurts and new fears, the one obstacle that might derail happily ever after…<br><br>Warning: Contains Good Old Boys, NASCAR references, a reluctant computer programmer, an enthusiastic gay virgin and gallons of sweet cherry pop. Nine out of ten dentists agree it could be dangerously romantic.",
+				description: "<i>It was supposed to be for fun. But there was forever in his kisses…</i><br><br>Ben Heston followed his job from California to Mercury, North Carolina after his boss fell head over heels, crazy in love. Ben welcomes the change at first, still reeling from a bad breakup. The move is meant to be temporary. That is, until he meets Tripp Lanier. <br><br>Tripp was born and raised in Mercury. His family owns a local construction business and he’s next in line to take over. But as much as he loves his family and his job and his little hometown, there’s something missing in his life. When he meets Ben, he realizes what that something is. <br><br>Tripp is ready to embrace his newfound sexuality with the object of his desire. Ben, not so much, because he doesn’t believe Tripp is really gay. But Ben can’t resist the chemistry that explodes between them whenever they’re near. <br><br>Ben begins to love all the things Tripp loves about Mercury: night trains and tall trees, family, friends and sweet Cherry pop.  Just when Ben begins to think he might be Tripp’s Mr. Right his past comes calling and old hurts and new fears might be the one thing that could keep them apart. <br><br><i>Warning: Contains Good Old Boys, NASCAR references, a reluctant computer programmer, an enthusiastic gay virgin and gallons of sweet cherry pop. 9 out of 10 dentists agree it could be dangerously romantic.</i>",
 				cover: "cherry_pop.jpg",
 				xgoodreadsID: "",
-				xlinks: {
-					affiliate: "",
+				links: {
+					affiliate: "http://amzn.to/264fDs8",
 					ebook: {
 						BandN: "",
 						itunes: "",
-						amazon: "",
+						amazon: "http://amzn.to/264fDs8",
 						kobo: "",
 						areb: "",
+						smashwords: "https://www.smashwords.com/books/view/629601",
 					}
 				}
 			},

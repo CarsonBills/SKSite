@@ -52,16 +52,22 @@
 			{{#each next}}
 				<div class="upcoming_release">
 					<div class="next-cover">
-						<a href="/books/{{this.title}}">
-							<img src="/images/covers/{{this.cover}}"/>
-						</a>
+						{{#if this.cover}}
+							<a href="/books/{{this.title}}">
+								<img src="/images/covers/{{this.cover}}"/>
+							</a>
+						{{else}}
+							<p>Coming Soon!</p>
+						{{/if}}
 					</div>
 					<div class="preorder">
-						<p> Release Date: <br><b>{{this.release}}</b><br><br></p>
-						{{#if this.preorder}}
-							<a href="{{this.preorder}}">Preorder</a>
-						{{else}}
-							<p>Available for preorder: <br><b>{{this.available_for_preorder}}</b></p>
+						{{#if this.cover}}
+							<p> Release Date: <br><b>{{this.release}}</b><br><br></p>
+							{{#if this.preorder}}
+								<a href="{{this.preorder}}">Preorder</a>
+							{{else}}
+								<p>Available for preorder: <br><b>{{this.available_for_preorder}}</b></p>
+							{{/if}}
 						{{/if}}
 					</div>
 				</div>
