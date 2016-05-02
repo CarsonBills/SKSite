@@ -9,7 +9,8 @@ exports.getLibrary = function(){
 	},
 
 	"Upcoming": [{
-		title: "Coming Soon!"
+		title: "Birmingham Rebels, Book 3",
+		release: "January 2017",
 	}],
 
 	"Brothers in Arms": [
