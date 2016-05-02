@@ -515,13 +515,13 @@ exports.getSingleBook = function(input){
 				cover: "cherry_pop.jpg",
 				xgoodreadsID: "",
 				links: {
-					affiliate: "http://amzn.to/264fDs8",
+					affiliate: "http://amzn.to/210PZ3K",
 					ebook: {
-						BandN: "",
-						itunes: "",
-						amazon: "http://amzn.to/264fDs8",
-						kobo: "",
-						areb: "",
+						BandN: "http://www.barnesandnoble.com/w/cherry-pop-samantha-kane/1123663100?ean=2940158179105",
+						itunes: "https://itunes.apple.com/us/book/cherry-pop/id1103922288?mt=11&ign-mpt=uo%3D4",
+						amazon: "http://amzn.to/210PZ3K",
+						kobo: "https://store.kobobooks.com/en-us/ebook/cherry-pop-3",
+						areb: "https://www.allromanceebooks.com/product-cherrypop-2023785-149.html",
 						smashwords: "https://www.smashwords.com/books/view/629601",
 					}
 				}

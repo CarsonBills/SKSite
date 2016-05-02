@@ -56,16 +56,19 @@
 							<a href="/books/{{this.title}}">
 								<img src="/images/covers/{{this.cover}}"/>
 							</a>
+						{{else if this.title}}
+							<p>{{this.title}}</p><br>
 						{{else}}
-							<p>Coming Soon!</p>
+							<p>Coming Soon!</p><br>
 						{{/if}}
 					</div>
 					<div class="preorder">
-						{{#if this.cover}}
+						{{#if this.release}}
 							<p> Release Date: <br><b>{{this.release}}</b><br><br></p>
+							
 							{{#if this.preorder}}
 								<a href="{{this.preorder}}">Preorder</a>
-							{{else}}
+							{{else if this.available_for_preorder}}
 								<p>Available for preorder: <br><b>{{this.available_for_preorder}}</b></p>
 							{{/if}}
 						{{/if}}
