@@ -65,19 +65,6 @@
 		{{/each}}
 	</div>
 	<div class="library_series">
-		<h2> Standalone Romance </h2>	
-		{{#each standalone}}
-			<div class="library-collection">
-				<h3>
-					<a href="/books/{{this.title}}">{{this.title}}</a>
-				</h3>
-				<a href="/books/{{this.title}}">
-					<img class="cover_thumbnail" src="/images/covers/{{this.cover}}"></img>
-				</a>
-			</div>
-		{{/each}}
-	</div>
-	<div class="library_series">
 		<h2> Romance Anthologies </h2>
 		{{#each anthologies}}
 			<div class="library-collection">
@@ -89,5 +76,20 @@
 				</a>
 			</div>
 		{{/each}}
+	</div>
+	<div class="library_series">
+		{{#if standalone}}
+			<h2> Standalone Romance </h2>	
+			{{#each standalone}}
+				<div class="library-collection">
+					<h3>
+						<a href="/books/{{this.title}}">{{this.title}}</a>
+					</h3>
+					<a href="/books/{{this.title}}">
+						<img class="cover_thumbnail" src="/images/covers/{{this.cover}}"></img>
+					</a>
+				</div>
+			{{/each}}
+		{{/if}}
 	</div>
 </div>

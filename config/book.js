@@ -742,6 +742,19 @@ exports.getSingleBook = function(input){
 
 				}
 			},
+			"When Love Comes Calling":
+			{
+				title: "When Love Comes Calling",
+				description: 
+					"When Love Comes Calling is an anthology, containing A LADY IN WAITING and THE DEBUTANTE<br><br>A LADY IN WAITING<br>Lady Sylvie, the Dowager Marchioness of Bartlebyrne, feels old beyond her<br> years until the new, young vicar comes to call. Married at a young age to a much older man, <br>Sylvie has never known passionate love. Can vicar Edmund James, reformed rake, show her what she's been waiting for?<br><br>THE DEBUTANTE<br> Debutante Clarissa Welliston, Clari to her friends, longs for a good strong man<br> to sweep her off her feet. Infamous rake Dominic, Viscount Lethbridge, sees her hiding in the<br> woods outside a ball one night and imagines her dark-hair spread across his pillow as he <br>ruthlessly makes her his. With the help of his best friend, Dom gives her what she wants, but <br>this daring debutante may just steal his heart before he's through with her.",
+				cover: "when_love_comes_calling.jpg",
+				links : {
+					amazon: "http://amzn.to/1X1m2SA",
+					BandN: "http://www.barnesandnoble.com/w/when-loves-comes-calling-samantha-kane/1123848154?ean=2940158218651",
+					itunes: "https://itunes.apple.com/us/book/when-love-comes-calling/id1117487529?mt=11&ign-mpt=uo%3D4",
+					areb: "https://www.allromanceebooks.com/product-whenlovecomescalling-2046057-340.html",
+				}
+			}
 		}
 	return library[input];
 }

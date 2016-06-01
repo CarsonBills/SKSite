@@ -19,62 +19,62 @@ exports.getLibrary = function(){
 			title: "Love and War",
 			cover: "love_and_war.jpg"
 		},
-		{
-			title: "The Courage to Love",
-			cover: "the_courage_to_love.jpg"
-		},
-		{
-			title: "Love Under Siege",
-			cover: "love_under_siege.jpg"
-		},
-		{
-			title: "Love's Strategy",
-			cover: "love's_strategy.jpg"
-		},
-		{
-			title: "At Love's Command",
-			cover: "at_love's_command.jpg"
-		},
-		{
-			title: "Retreat From Love",
-			cover: "retreat_from_love.jpg"
-		},
-		{
-			title: "Love in Exile",
-			cover: "love_in_exile.jpg"
-		},
-		{
-			title: "Prisoner of Love",
-			cover: "prisoner_of_love.jpg"
-		},
-		{
-			title: "Love's Fortress",
-			cover: "love's_fortress.jpg"
-		},
-		{
-			title: "Love's Surrender",
-			cover: "love's_surrender.jpg"
-		},
-		{
-			title: "Love Betrayed",
-			cover: "love_betrayed.jpg"
-		},
-		{
-			title: "Defeated By Love",
-			cover: "defeated_by_love.jpg"
-		},
-		{
-			title: "Fight For Love",
-			cover: "fight_for_love.jpg"
-		},		
-		{
-			title: "Arms of Love",
-			cover: "arms_of_love.jpg"
-		},
-		{
-			title: "Love Returns",
-			cover: "love_returns.jpg"
-		},
+		// {
+		// 	title: "The Courage to Love",
+		// 	cover: "the_courage_to_love.jpg"
+		// },
+		// {
+		// 	title: "Love Under Siege",
+		// 	cover: "love_under_siege.jpg"
+		// },
+		// {
+		// 	title: "Love's Strategy",
+		// 	cover: "love's_strategy.jpg"
+		// },
+		// {
+		// 	title: "At Love's Command",
+		// 	cover: "at_love's_command.jpg"
+		// },
+		// {
+		// 	title: "Retreat From Love",
+		// 	cover: "retreat_from_love.jpg"
+		// },
+		// {
+		// 	title: "Love in Exile",
+		// 	cover: "love_in_exile.jpg"
+		// },
+		// {
+		// 	title: "Prisoner of Love",
+		// 	cover: "prisoner_of_love.jpg"
+		// },
+		// {
+		// 	title: "Love's Fortress",
+		// 	cover: "love's_fortress.jpg"
+		// },
+		// {
+		// 	title: "Love's Surrender",
+		// 	cover: "love's_surrender.jpg"
+		// },
+		// {
+		// 	title: "Love Betrayed",
+		// 	cover: "love_betrayed.jpg"
+		// },
+		// {
+		// 	title: "Defeated By Love",
+		// 	cover: "defeated_by_love.jpg"
+		// },
+		// {
+		// 	title: "Fight For Love",
+		// 	cover: "fight_for_love.jpg"
+		// },		
+		// {
+		// 	title: "Arms of Love",
+		// 	cover: "arms_of_love.jpg"
+		// },
+		// {
+		// 	title: "Love Returns",
+		// 	cover: "love_returns.jpg"
+		// },
 	],
 
 	"The Saint's Devils": [
@@ -148,22 +148,22 @@ exports.getLibrary = function(){
 
 	],
 
-	"Standalone Romance" : [
+	// "Standalone Romance" : [
 
-		{
-			title: "A Lady in Waiting",
-			cover: "a_lady_in_waiting.jpg"
-		},
-		{
-			title: "Islands",
-			cover: "islands.jpg"
-		},
-		{
-			title: "Play it Again, Sam",
-			cover: "play_it_again_sam.jpg"
-		},
+		// {
+		// 	title: "A Lady in Waiting",
+		// 	cover: "a_lady_in_waiting.jpg"
+		// },
+		// {
+		// 	title: "Islands",
+		// 	cover: "islands.jpg"
+		// },
+		// {
+		// 	title: "Play it Again, Sam",
+		// 	cover: "play_it_again_sam.jpg"
+		// },
 
-	],
+	// ],
 
 	"Romance Anthologies" : [
 
@@ -186,6 +186,10 @@ exports.getLibrary = function(){
 		{
 			title: "Tempt The Cougar",
 			cover: "tempt_the_cougar.jpg"
+		},
+		{
+			title: "When Love Comes Calling",
+			cover: "when_love_comes_calling.jpg"
 		},
 	]}
 	return library
