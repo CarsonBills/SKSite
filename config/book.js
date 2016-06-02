@@ -45,11 +45,11 @@ exports.getSingleBook = function(input){
 			{
 				title: "The Courage to Love",
 				description: 
-				"Kate Collier is still recovering from a vicious rape and trying to make a success of her dress shop when Jason Randal and Anthony Richards return to London from the Continent, intent on winning her. She's known them for years, ever since they served with her late husband in the Peninsula against Napoleon. She'd been in love with them for almost that long. To discover they feel the same is a shock, but Kate isn't ready to turn her life back over to a man, or men. <br><br>Jason and Tony prove hard to resist, however, especially when their close friendship blossoms into desire for each other as they make Kate's body burn with passion. <br><br>The combination of their insatiable desire for her and their journey into a sexual relationship with one another is irresistible to Kate. <br><br>A nightmare from her past tries to keep them apart, but the three long for a life together in spite of society's censure, and they will not be denied.",
+				"<b>Coming in June</b><br><br>Kate Collier is still recovering from a vicious rape and trying to make a success of her dress shop when Jason Randal and Anthony Richards return to London from the Continent, intent on winning her. She's known them for years, ever since they served with her late husband in the Peninsula against Napoleon. She'd been in love with them for almost that long. To discover they feel the same is a shock, but Kate isn't ready to turn her life back over to a man, or men. <br><br>Jason and Tony prove hard to resist, however, especially when their close friendship blossoms into desire for each other as they make Kate's body burn with passion. <br><br>The combination of their insatiable desire for her and their journey into a sexual relationship with one another is irresistible to Kate. <br><br>A nightmare from her past tries to keep them apart, but the three long for a life together in spite of society's censure, and they will not be denied.",
 				cover: "the_courage_to_love.jpg",
 				excerpt: "the_courage_to_love.pdf",
 				goodreadsID: "2238248",
-				links: {
+				xlinks: {
 					affiliate: "http://amzn.to/1Nqqgyg",
 					xprint: {
 						amazon: "http://www.amazon.com/Courage-Love-Brothers-Arms-Book/dp/1419955349/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1366153620&sr=1-1",
@@ -78,7 +78,7 @@ exports.getSingleBook = function(input){
 				cover: "love_under_siege.jpg",
 				excerpt: "love_under_siege.pdf",
 				goodreadsID: "2695868",
-				links: {
+				xlinks: {
 					affiliate: "http://amzn.to/1ZhLRN9",
 					xprint: {
 						amazon: "http://www.amazon.com/Love-Under-Siege-Brothers-Arms/dp/1419956272/ref=sr_1_1?ie=UTF8&qid=1443065991&sr=8-1&keywords=samantha+kane+love+under+siege",
@@ -109,7 +109,7 @@ exports.getSingleBook = function(input){
 				cover: "love's_strategy.jpg",
 				excerpt: "love's_strategy.pdf",
 				goodreadsID: "3576204",
-				links: {
+				xlinks: {
 					affiliate: "http://amzn.to/1ZhLWAz",
 					ebook: {
 						amazon: "http://amzn.to/1ZhLWAz",
@@ -135,7 +135,7 @@ exports.getSingleBook = function(input){
 				cover: "at_love's_command.jpg",
 				excerpt: "at_love's_command.pdf",
 				goodreadsID: "3576209",
-				links: {
+				xlinks: {
 					affiliate: "http://amzn.to/1LkpjW3",
 					xprint: {
 						amazon: "http://www.amazon.com/Loves-Command-Brothers-Arms-Book/dp/1419957724/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1366153675&sr=1-1",
@@ -165,7 +165,7 @@ exports.getSingleBook = function(input){
 				cover: "retreat_from_love.jpg",
 				excerpt: "retreat_from_love.pdf",
 				goodreadsID: "5984339",
-				links: {
+				xlinks: {
 					affiliate: "http://amzn.to/1GyGvBO",
 					xprint: {
 						amazon: "http://www.amazon.com/Brothers-Arms-Retreat-Samantha-Kane/dp/1419959077/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1366156168&sr=1-1",
@@ -195,7 +195,7 @@ exports.getSingleBook = function(input){
 				cover: "love_in_exile.jpg",
 				excerpt: "love_in_exile.pdf",
 				goodreadsID: "7078699",
-				links: {
+				xlinks: {
 					affiliate: "http://amzn.to/1GyGBJy",
 					xprint: {
 						amazon: "http://www.amazon.com/Love-Exile-Samantha-Kane/dp/1419960539/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1366156709&sr=1-1",
@@ -226,7 +226,7 @@ exports.getSingleBook = function(input){
 				cover: "love's_fortress.jpg",
 				excerpt: "love's_fortress.pdf",
 				goodreadsID: "8628509",
-				links: {
+				xlinks: {
 					affiliate: "http://amzn.to/1GyGEFj",
 					xprint: {
 						BandN: "http://www.barnesandnoble.com/w/loves-fortress-samantha-kane/1100323461?ean=9781419961984",
@@ -256,7 +256,7 @@ exports.getSingleBook = function(input){
 				cover: "prisoner_of_love.jpg",
 				excerpt: "prisoner_of_love.pdf",
 				goodreadsID: "11226923",
-				links: {
+				xlinks: {
 					xprint: {
 						eCave: "https://www.ellorascave.com/product/prisoner-of-love-2/",
 						BandN: "http://www.barnesandnoble.com/w/prisoner-of-love-samantha-kane/1102994418?ean=9781419964947",
@@ -280,7 +280,7 @@ exports.getSingleBook = function(input){
 				cover: "love's_surrender.jpg",
 				excerpt: "love's_surrender.pdf",
 				goodreadsID: "13093464",
-				links: {
+				xlinks: {
 					affiliate: "http://amzn.to/1ZhLvpP",
 					ebook: {
 						xeCave: "https://www.ellorascave.com/product/loves-surrender/",
@@ -299,7 +299,7 @@ exports.getSingleBook = function(input){
 				cover: "arms_of_love.jpg",
 				excerpt: "arms_of_love.pdf",
 				goodreadsID: "13569472",
-				links: {
+				xlinks: {
 					affiliate: "http://amzn.to/1QbwRua",
 					print: {
 						xBandN: "http://www.barnesandnoble.com/w/arms-of-love-samantha-kane/1108232437?ean=9781419965463",
@@ -334,7 +334,7 @@ exports.getSingleBook = function(input){
 				cover: "love_betrayed.jpg",
 				excerpt: "love_betrayed.pdf",
 				goodreadsID: "18515108",
-				links: {
+				xlinks: {
 					affiliate: "http://amzn.to/1WPR4K3",
 					ebook: {
 						xBandN: "http://www.barnesandnoble.com/w/love-betrayed-samanta-kane/1117057953?ean=9781419946646",
@@ -352,7 +352,7 @@ exports.getSingleBook = function(input){
 				cover: "defeated_by_love.jpg",
 				excerpt: "defeated_by_love.pdf",
 				goodreadsID: "18515142",
-				links: {
+				xlinks: {
 					affiliate: "http://amzn.to/1WPR64H",
 					ebook: {
 						amazon: "http://amzn.to/1WPR64H",
@@ -372,7 +372,7 @@ exports.getSingleBook = function(input){
 				cover: "fight_for_love.jpg",
 				excerpt: "fight_for_love.pdf",
 				goodreadsID: "22084379",
-				links: {
+				xlinks: {
 					affiliate: "http://amzn.to/1WPRaBi",
 					xprint: {
 						BandN: "http://www.barnesandnoble.com/w/fight-for-love-samantha-kane/1119964780?ean=9781419972324",
@@ -401,7 +401,7 @@ exports.getSingleBook = function(input){
 				cover: "love_returns.jpg",
 				excerpt: "love_returns.pdf",
 				goodreadsID: "25780972",
-				links: {
+				xlinks: {
 					affiliate: "http://amzn.to/1QbwGPH",
 					print: {
 						xeCave: "https://www.ellorascave.com/product/love-returns/",
@@ -606,7 +606,7 @@ exports.getSingleBook = function(input){
 				cover: "a_lady_in_waiting.jpg",
 				excerpt: "a_lady_in_waiting.pdf",
 				goodreadsID: "4447665",
-				links: {
+				xlinks: {
 					affiliate: "http://amzn.to/1WPRekJ",
 					ebook: {
 						amazon: "http://amzn.to/1WPRekJ",
@@ -622,11 +622,11 @@ exports.getSingleBook = function(input){
 			{
 				title: "Islands",
 				description: 
-					"Lieutenant Commander Gabriel Conlan, United States Navy Seabees, knows he’s not in Kansas anymore when he steps off the launch at the small island of Ile Dorée and sees gorgeous Frenchman René Dubois waiting for him on the dock. The year is 1943, the place is the Pacific and the world is at war. Free from the censure of the military, Gabe has an explosive affair with René. But when the world intrudes, Gabe denies René and tries to forget the best sex of his life. <br><br>The only westerner on his small Pacific island, René is desperately lonely. When the tall, lanky American steps onto his dock, René knows his life will never be the same. He teaches Gabe how to make love to a man and, unexpectedly, falls in love. René will brave prejudice, Japanese Zeros and Gabe’s reluctance to find love at last.",
+					"<b>Coming in June</b><br><br>Lieutenant Commander Gabriel Conlan, United States Navy Seabees, knows he’s not in Kansas anymore when he steps off the launch at the small island of Ile Dorée and sees gorgeous Frenchman René Dubois waiting for him on the dock. The year is 1943, the place is the Pacific and the world is at war. Free from the censure of the military, Gabe has an explosive affair with René. But when the world intrudes, Gabe denies René and tries to forget the best sex of his life. <br><br>The only westerner on his small Pacific island, René is desperately lonely. When the tall, lanky American steps onto his dock, René knows his life will never be the same. He teaches Gabe how to make love to a man and, unexpectedly, falls in love. René will brave prejudice, Japanese Zeros and Gabe’s reluctance to find love at last.",
 				cover: "islands.jpg",
 				excerpt: "islands.pdf",
 				goodreadsID: "6280926",
-				links: {
+				xlinks: {
 					affiliate: "http://amzn.to/1QbvGuE",
 					ebook: {
 						amazon: "http://amzn.to/1QbvGuE",
@@ -642,11 +642,11 @@ exports.getSingleBook = function(input){
 			{
 				title: "Play It Again, Sam",
 				description: 
-					"Monica Allen has always been attracted to younger men. She even married one. But after the divorce, she thought she was through with them for good. Then she meets a group of ladies at RomantiCon, and they form a blog celebrating younger men, Tempt the Cougar. <br><br>After another lonely Friday night, Monica challenges her friends to each find a younger man to make their fantasies come true. She doesn’t have to marry him—been there, done that, threw away the t-shirt. But for a night of hot sex? Hell yes. <br><br>But Sam Lincoln refuses to be just a fantasy. He’s a graduate student with a yen for older women and he may have just found the one to make his own fantasies come true. With a little help from his roommate Josh, Sam fulfills Monica’s deepest desires. Can he convince this sexy cougar to give him a chance at happily ever after?",
+					"<b>Coming in June</b><br><br>Monica Allen has always been attracted to younger men. She even married one. But after the divorce, she thought she was through with them for good. Then she meets a group of ladies at RomantiCon, and they form a blog celebrating younger men, Tempt the Cougar. <br><br>After another lonely Friday night, Monica challenges her friends to each find a younger man to make their fantasies come true. She doesn’t have to marry him—been there, done that, threw away the t-shirt. But for a night of hot sex? Hell yes. <br><br>But Sam Lincoln refuses to be just a fantasy. He’s a graduate student with a yen for older women and he may have just found the one to make his own fantasies come true. With a little help from his roommate Josh, Sam fulfills Monica’s deepest desires. Can he convince this sexy cougar to give him a chance at happily ever after?",
 				cover: "play_it_again_sam.jpg",
 				excerpt: "play_it_again_sam.pdf",
 				goodreadsID: "7006129",
-				links: {
+				xlinks: {
 					affiliate: "http://amzn.to/1WPRGPQ",
 					ebook: {
 						amazon: "http://amzn.to/1WPRGPQ",
@@ -666,7 +666,7 @@ exports.getSingleBook = function(input){
 				cover: "jewels_of_the_nile.jpg",
 				excerpt: "the_debutante_jewels.pdf",
 				goodreadsID: "3814514",
-				links: {
+				xlinks: {
 					xprint: {
 						amazon: "http://www.amazon.com/Elloras-Cavemen-Jewels-Nile-Vol/dp/141995783X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1366311980&sr=1-1",
 						BandN: "http://www.barnesandnoble.com/w/elloras-cavemen-jewels-of-the-nile-volume-ii-rebecca-airies/1112575465?ean=9781419957833",
@@ -690,7 +690,7 @@ exports.getSingleBook = function(input){
 				cover: "tempt_the_cougar.jpg",
 				excerpt: "play_it_again_sam.pdf",
 				goodreadsID: "8967180",
-				links: {
+				xlinks: {
 					print: {
 						amazon: "http://www.amazon.com/Tempt-Cougar-Samantha-Kane/dp/1419961179/ref=sr_1_1?s=books&ie=UTF8&qid=1366312810&sr=1-1&keywords=samantha+kane+tempt+the+cougar",
 						xBandN: "http://www.barnesandnoble.com/w/tempt-the-cougar-samantha-kane/1103218617?ean=9781419961175",
@@ -706,7 +706,7 @@ exports.getSingleBook = function(input){
 				cover: "aged_to_perfection.jpg",
 				excerpt: "a_lady_in_waiting.pdf",
 				goodreadsID: "7149335",
-				links: {
+				xlinks: {
 					print: {
 						amazon: "http://www.amazon.com/Aged-Perfection-Samantha-Kane/dp/1419959611/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1366311914&sr=1-1-catcorr&keywords=samantha+kane+aged+to+perfection",
 						BandN: "http://www.barnesandnoble.com/w/aged-to-perfection-samantha-kane/1018143220?ean=9781419959615",
@@ -721,7 +721,7 @@ exports.getSingleBook = function(input){
 				cover: "esprit_of_corps.jpg",
 				excerpt: "islands.pdf",
 				goodreadsID: "7119236",
-				links: {
+				xlinks: {
 					print: {
 						amazon: "http://www.amazon.com/Esprit-Corps-Victor-J-Banis/dp/1934531030/ref=sr_1_1?ie=UTF8&qid=1366319808&sr=8-1&keywords=samantha+kane+esprit+de+corps",
 					}
@@ -746,7 +746,7 @@ exports.getSingleBook = function(input){
 			{
 				title: "When Love Comes Calling",
 				description: 
-					"When Love Comes Calling is an anthology, containing A LADY IN WAITING and THE DEBUTANTE<br><br>A LADY IN WAITING<br>Lady Sylvie, the Dowager Marchioness of Bartlebyrne, feels old beyond her<br> years until the new, young vicar comes to call. Married at a young age to a much older man, <br>Sylvie has never known passionate love. Can vicar Edmund James, reformed rake, show her what she's been waiting for?<br><br>THE DEBUTANTE<br> Debutante Clarissa Welliston, Clari to her friends, longs for a good strong man<br> to sweep her off her feet. Infamous rake Dominic, Viscount Lethbridge, sees her hiding in the<br> woods outside a ball one night and imagines her dark-hair spread across his pillow as he <br>ruthlessly makes her his. With the help of his best friend, Dom gives her what she wants, but <br>this daring debutante may just steal his heart before he's through with her.",
+					"<b>New Release!</b><br><br>When Love Comes Calling is an anthology, containing A LADY IN WAITING and THE DEBUTANTE<br><br>A LADY IN WAITING<br>Lady Sylvie, the Dowager Marchioness of Bartlebyrne, feels old beyond her<br> years until the new, young vicar comes to call. Married at a young age to a much older man, <br>Sylvie has never known passionate love. Can vicar Edmund James, reformed rake, show her what she's been waiting for?<br><br>THE DEBUTANTE<br> Debutante Clarissa Welliston, Clari to her friends, longs for a good strong man<br> to sweep her off her feet. Infamous rake Dominic, Viscount Lethbridge, sees her hiding in the<br> woods outside a ball one night and imagines her dark-hair spread across his pillow as he <br>ruthlessly makes her his. With the help of his best friend, Dom gives her what she wants, but <br>this daring debutante may just steal his heart before he's through with her.",
 				cover: "when_love_comes_calling.jpg",
 				links : {
 					amazon: "http://amzn.to/1X1m2SA",
