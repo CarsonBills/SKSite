@@ -75,7 +75,7 @@ exports.getSingleBook = function(input){
 			{
 				title: "Love Under Siege",
 				description: "Phillip Neville and Jonathan Overton have been best friends since childhood. When they return to England as veterans of the Napoleonic Wars, they enter the marriage market. It doesn't take long for them both to fall deeply in love with shy, awkward, beautiful Maggie Trueheart. Phillip and Maggie marry, but Phillip and Jonathan do not tell her about the menage a trois marriage the two men hope to have. When Maggie finds out, it takes the persuasive power of both men to convince her that this threesome was meant to be. <br><br>In the process of helping Maggie discover the sexually aggressive woman inside herself, Phillip and Jonathan realize their love for one another is more than friendship. <br><br>Before the two men can consummate their relationship, however, a brutal attack on Maggie and Jonathan's self-recriminations drive the lovers apart. It will take all the love and determination the three possess to achieve their happily ever after.",
-				cover: "love_under_siege.jpg",
+				cover: "no_cover.jpg",
 				excerpt: "love_under_siege.pdf",
 				goodreadsID: "2695868",
 				xlinks: {
@@ -106,7 +106,7 @@ exports.getSingleBook = function(input){
 				title: "Love's Strategy",
 				description: 
 					"Valentine Westridge and Kurt Schillig are lovers, and have been since the Peninsular War when lonely young officer Valentine let himself be seduced by the equally lonely Kurt. Now they're back from the war and intent on beginning the future they dreamed of together, one that includes a quiet country estate, horses, dogs, children, and each other. Their plan, however, also requires a wife. At the suggestion of a mutual friend, Valentine and Kurt believe the financial security they can offer to impoverished widow Leah Marleston will help her accept the unusual sexual relationship they are suggesting. <br><br>Leah is at her wit's end, creditors having taken everything she owns to pay off her late husband's gambling debts. She must find a way to support herself and her two children, or be forced to marry her abusive and obsessive brother-in-law. In Valentine's and Kurt's arms, Leah discovers a passion she never knew existed. Brought together by necessity, bonded by desire, these three lonely people find themselves fighting against all odds for a love that was never part of their plans.",
-				cover: "love's_strategy.jpg",
+				cover: "no_cover.jpg",
 				excerpt: "love's_strategy.pdf",
 				goodreadsID: "3576204",
 				xlinks: {
@@ -132,7 +132,7 @@ exports.getSingleBook = function(input){
 				title: "At Love's Command",
 				description: 
 					"A child when they were betrothed, Sophia Middleton has been waiting twelve years for Ian Witherspoon to return and marry her. Preyed upon by her vicious father and older brother, Sophie longs for Ian to rescue her. <br><br>Ian Witherspoon and Derek Knightly became best friends during the Peninsular War, and returned as lovers. Two more years pass before the desire for a wife and children prompts Ian to recall his little fiancée. Ian is determined to make a marriage work between the three of them. Derek opposes the marriage despite Ian's determination, but how long will he be able to resist love's command? <br><br>Sophie's vulnerability hides a core of strength and the combination enthralls and seduces both men. An apt pupil, Sophie learns trust and passion from Ian, and Derek tutors her in the ecstasy of surrender. Love will conquer their fears as they fight those who would tear them apart.",
-				cover: "at_love's_command.jpg",
+				cover: "no_cover.jpg",
 				excerpt: "at_love's_command.pdf",
 				goodreadsID: "3576209",
 				xlinks: {
@@ -162,7 +162,7 @@ exports.getSingleBook = function(input){
 				title: "Retreat From Love",
 				description: 
 					"A man with everything except his heart’s desire. <br><br>Frederick Thorne, Duke of Ashland, has been in love with Brett Haversham for years. If the only way to have him is to give him what he wants Freddy will share him, in bed and out, with the woman Brett loves. The woman who was Freddy’s first love. <br><br>A man sacrificing everything for the past. <br><br>Brett Haversham is in love with two people he’s sworn never to touch. But his desires prove to be stronger than his resolve when they both set out to seduce him—together. The incredible sex they share overwhelms him. <br><br>A woman with nothing left to lose. <br><br>Anne Goode lost her fiancé Bertie in the war. Now his younger brother Freddy is back, all grown up into the handsome and powerful duke. And he’s brought Bertie’s best friend Brett with him. Lonely and already ruined, Anne can’t resist taking both of them as her lovers. Is the uncontrollable desire between the three enough to heal the wounds of the past and overcome the problems of the present? They must accept love rather than retreat from it.",
-				cover: "retreat_from_love.jpg",
+				cover: "no_cover.jpg",
 				excerpt: "retreat_from_love.pdf",
 				goodreadsID: "5984339",
 				xlinks: {
@@ -192,7 +192,7 @@ exports.getSingleBook = function(input){
 				title: "Love in Exile",
 				description: 
 					"Gregory Anderson has reluctantly returned to England in 1817 after more than seven years sailing the world. Half Polynesian, Gregory is caught between two worlds. He isn’t looking for love. He’s only looking for a warm body with a modicum of wit and reasonable intelligence to help him get through the few short months he’ll be in England. <br><br>Nat and Alecia Digby’s marriage, arranged when they were young and foolish, was almost ruined before it began when they both took lovers. They don’t want to give up the erotic games they learned to play and enjoy, but they won’t risk their marriage again by falling in love with someone else. <br><br>When the three meet, they think it will be nothing more than a night or two of shared pleasure and erotic thrills. But the unthinkable happens, because love refuses to be forced into exile.",
-				cover: "love_in_exile.jpg",
+				cover: "no_cover.jpg",
 				excerpt: "love_in_exile.pdf",
 				goodreadsID: "7078699",
 				xlinks: {
@@ -223,7 +223,7 @@ exports.getSingleBook = function(input){
 				title: "Love's Fortress",
 				description: 
 					"Gideon North wants a wife. She must be practical and hardworking. But above all, she must have a hearty constitution. Horribly injured and scarred from his Peninsular War service, Gideon does not want to deal with a wife who flinches every time she looks at him. <br><br>Gideon’s estate manager Charles Borden was his sergeant in the war. Inseparable but almost always at odds, the two men agree that Sarah Whitley is the perfect wife for Gideon. Strong, beautiful and intelligent with a dry sense of humor, Sarah bears her own marks from a life spent in the shadows. <br><br>When Sarah learns to let go of her past fears, she frees both men to acknowledge the love and attraction that has always existed between them. The three become intimate but the eroticism of their encounters in the bedroom does not guarantee happiness. Gideon’s defenses mire them in the past. Only together can Sarah and Charles break through to build a future with Gideon",
-				cover: "love's_fortress.jpg",
+				cover: "no_cover.jpg",
 				excerpt: "love's_fortress.pdf",
 				goodreadsID: "8628509",
 				xlinks: {
@@ -253,7 +253,7 @@ exports.getSingleBook = function(input){
 				title: "Prisoner of Love",
 				description: 
 					"Veronica Thomas has been in love with two men since she was seventeen. One introduced her to passion. The other has shown her how to satisfy it. Now that she’s older, she still wants them both. Wolf Tarrant was more than willing to share Very with his best friend and lover, Lord Michael Kensington. But two years ago, Michael ran from the unconventional relationship growing between the three of them. <br><br>When Michael returns from America, things have changed drastically for all of them. Rushing headlong into a scorching, passionate reunion may be a bad idea. Michael’s secrets have the power to keep them apart forever, but Very and Wolf have secrets of their own. Held prisoner by their fears, the three struggle to overcome lies and mistrust to find the freedom to love one another as they have always desired.",
-				cover: "prisoner_of_love.jpg",
+				cover: "no_cover.jpg",
 				excerpt: "prisoner_of_love.pdf",
 				goodreadsID: "11226923",
 				xlinks: {
@@ -277,7 +277,7 @@ exports.getSingleBook = function(input){
 				title: "Love's Surrender",
 				description: 
 					"Lady Vanessa Carlton-Smythe is from one of England’s most well-respected families and the daughter of an earl. She has lived an exemplary life—the perfect daughter, the perfect lady. Until one Christmas Eve, when she meets two men who unleash her secret desires. She can’t surrender her heart, only her body, and only for the next twelve days. After Twelfth Night, their affair must end and she will return to a life that is slowly suffocating her. <br><br>Veterans Nick and Oliver have been constant companions since Waterloo. They share everything, including women and a bad reputation. When Lady Vanessa catches them in a compromising position, they are seduced by the longing in her eyes. <br><br>Cool, distant, unattainable—the more she protests, the more they want her. Vanessa’s desires prompt the two men to finally give in to their feelings and become lovers. When desire becomes love, can they convince Vanessa to leave her privileged life behind and surrender to them forever?",
-				cover: "love's_surrender.jpg",
+				cover: "no_cover.jpg",
 				excerpt: "love's_surrender.pdf",
 				goodreadsID: "13093464",
 				xlinks: {
@@ -292,22 +292,22 @@ exports.getSingleBook = function(input){
 					}
 				}
 			},
-			"Arms of Love" : 
-			{
-				title: "Arms of Love",
-				description: "This book is an Anthology of the books Love’s Strategy and Love’s Surrender (Brothers in Arms Book 3 and Book 9)",
-				cover: "arms_of_love.jpg",
-				excerpt: "arms_of_love.pdf",
-				goodreadsID: "13569472",
-				xlinks: {
-					affiliate: "http://amzn.to/1QbwRua",
-					print: {
-						xBandN: "http://www.barnesandnoble.com/w/arms-of-love-samantha-kane/1108232437?ean=9781419965463",
-						amazon: "http://amzn.to/1QbwRua",
-						xeCave: "https://www.ellorascave.com/product/arms-of-love/",
-					}
-				}
-			},
+			// "Arms of Love" : 
+			// {
+			// 	title: "Arms of Love",
+			// 	description: "This book is an Anthology of the books Love’s Strategy and Love’s Surrender (Brothers in Arms Book 3 and Book 9)",
+			// 	cover: "no_cover.jpg",
+			// 	excerpt: "arms_of_love.pdf",
+			// 	goodreadsID: "13569472",
+			// 	xlinks: {
+			// 		affiliate: "http://amzn.to/1QbwRua",
+			// 		print: {
+			// 			xBandN: "http://www.barnesandnoble.com/w/arms-of-love-samantha-kane/1108232437?ean=9781419965463",
+			// 			amazon: "http://amzn.to/1QbwRua",
+			// 			xeCave: "https://www.ellorascave.com/product/arms-of-love/",
+			// 		}
+			// 	}
+			// },
 			"Love and War" : 
 			{
 				title: "Love and War",
@@ -331,7 +331,7 @@ exports.getSingleBook = function(input){
 				title: "Love Betrayed",
 				description: 
 					"Portugal, 1811—England and France are at war and Daniel  Steinberg, secret agent for the Crown, is right in the thick of it. Caught one night in a violent act by handsome young Lieutenant Harry Ashbury, his assignment is compromised. But Harry isn’t there to expose Daniel. Other desires drove him to follow the infamous Mr. Steinberg. <br><br>Desires Daniel shares. The two begin a torrid affair that night in the woods. Daniel knows it’s folly to take a lover while at war. Caring for Harry is madness. But, despite his innocence, his young lover pleasures him more than any other lover the promiscuous Daniel has ever had. Lies, secrets and old lovers come between them. In one explosive battle, all is unfair in love and war when betrayal strikes at the heart.",
-				cover: "love_betrayed.jpg",
+				cover: "no_cover.jpg",
 				excerpt: "love_betrayed.pdf",
 				goodreadsID: "18515108",
 				xlinks: {
@@ -349,7 +349,7 @@ exports.getSingleBook = function(input){
 			{
 				title: "Defeated By Love",
 				description: "Defeated by Love is the continuation of the story of Daniel and Harry from Love Betrayed.",
-				cover: "defeated_by_love.jpg",
+				cover: "no_cover.jpg",
 				excerpt: "defeated_by_love.pdf",
 				goodreadsID: "18515142",
 				xlinks: {
@@ -369,7 +369,7 @@ exports.getSingleBook = function(input){
 				title: "Fight For Love",
 				description: 
 					"Devlin O'Shaughnessy, London crime boss, and former prostitute Kitty Markham have loved one another since they first met when they were too young and not nearly innocent enough. Kitty fell in love with Dr. Thomas Peters in the same fashion: instantly and irrevocably. She's quietly loved him while sharing Devlin’s bed, dreaming of having Devlin and Thom in her life and her bed, together. <br><br>When Thom finally gets lost in an endless stream of liquor and sex, dulling the pain of his violent dreams and memories of the war, Kitty enlists Devlin's help to pull Thom from his nightmares and sober him up. In her arms Thom finds peace and acceptance, and in Devlin’s arms he finds a passion he never expected. <br><br>The intimacies the three share are beyond their wildest dreams, more heady and addicting than any drink. <br>But Devlin will have to fight his past before he can give in to a love that could change all their lives.  Note: Contains m/m/f and m/m sex",
-				cover: "fight_for_love.jpg",
+				cover: "no_cover.jpg",
 				excerpt: "fight_for_love.pdf",
 				goodreadsID: "22084379",
 				xlinks: {
@@ -394,22 +394,22 @@ exports.getSingleBook = function(input){
 					}
 				}
 			},
-			"Love Returns" : 
-			{
-				title: "Love Returns",
-				description: "This book is an Anthology of the books Love Betrayed and Defeated by Love (Brothers in Arms books 10 and 11)",
-				cover: "love_returns.jpg",
-				excerpt: "love_returns.pdf",
-				goodreadsID: "25780972",
-				xlinks: {
-					affiliate: "http://amzn.to/1QbwGPH",
-					print: {
-						xeCave: "https://www.ellorascave.com/product/love-returns/",
-						amazon: "http://amzn.to/1QbwGPH",
-						xBandN: "http://www.barnesandnoble.com/w/love-returns-samantha-kane/1121157855?ean=9781419971037"
-					}
-				}
-			},
+			// "Love Returns" : 
+			// {
+			// 	title: "Love Returns",
+			// 	description: "This book is an Anthology of the books Love Betrayed and Defeated by Love (Brothers in Arms books 10 and 11)",
+			// 	cover: "no_cover.jpg",
+			// 	excerpt: "love_returns.pdf",
+			// 	goodreadsID: "25780972",
+			// 	xlinks: {
+			// 		affiliate: "http://amzn.to/1QbwGPH",
+			// 		print: {
+			// 			xeCave: "https://www.ellorascave.com/product/love-returns/",
+			// 			amazon: "http://amzn.to/1QbwGPH",
+			// 			xBandN: "http://www.barnesandnoble.com/w/love-returns-samantha-kane/1121157855?ean=9781419971037"
+			// 		}
+			// 	}
+			// },
 			"The Devil's Thief" : 
 			{
 				title: "The Devil's Thief",
@@ -622,18 +622,17 @@ exports.getSingleBook = function(input){
 			{
 				title: "Islands",
 				description: 
-					"<b>Coming in June</b><br><br>Lieutenant Commander Gabriel Conlan, United States Navy Seabees, knows he’s not in Kansas anymore when he steps off the launch at the small island of Ile Dorée and sees gorgeous Frenchman René Dubois waiting for him on the dock. The year is 1943, the place is the Pacific and the world is at war. Free from the censure of the military, Gabe has an explosive affair with René. But when the world intrudes, Gabe denies René and tries to forget the best sex of his life. <br><br>The only westerner on his small Pacific island, René is desperately lonely. When the tall, lanky American steps onto his dock, René knows his life will never be the same. He teaches Gabe how to make love to a man and, unexpectedly, falls in love. René will brave prejudice, Japanese Zeros and Gabe’s reluctance to find love at last.",
+					"Lieutenant Commander Gabriel Conlan, United States Navy Seabees, knows he’s not in Kansas anymore when he steps off the launch at the small island of Ile Dorée and sees gorgeous Frenchman René Dubois waiting for him on the dock. The year is 1943, the place is the Pacific and the world is at war. Free from the censure of the military, Gabe has an explosive affair with René. But when the world intrudes, Gabe denies René and tries to forget the best sex of his life. <br><br>The only westerner on his small Pacific island, René is desperately lonely. When the tall, lanky American steps onto his dock, René knows his life will never be the same. He teaches Gabe how to make love to a man and, unexpectedly, falls in love. René will brave prejudice, Japanese Zeros and Gabe’s reluctance to find love at last.",
 				cover: "islands.jpg",
 				excerpt: "islands.pdf",
 				goodreadsID: "6280926",
 				xlinks: {
-					affiliate: "http://amzn.to/1QbvGuE",
+					affiliate: "http://amzn.to/1Pgq80V",
 					ebook: {
-						amazon: "http://amzn.to/1QbvGuE",
-						xBandN: "http://www.barnesandnoble.com/w/islands-samantha-kane/1019742984?ean=9781419921599",
-						xeCave: "https://www.ellorascave.com/product/islands/",
-						xitunes: "https://itunes.apple.com/us/book/islands/id546505531?mt=11",
-						xareb: "https://www.allromanceebooks.com/product-islands-449744-340.html",
+						amazon: "http://amzn.to/1Pgq80V",
+						BandN: "http://www.barnesandnoble.com/w/islands-samantha-kane/1019742984?ean=2940158162039",
+						itunes: "https://geo.itunes.apple.com/us/book/islands/id1121408868?mt=11",
+						areb: "https://www.allromanceebooks.com/product-islands-2054883-340.html",
 						xkobo: "https://store.kobobooks.com/en-us/ebook/islands",
 					}
 				}
@@ -642,18 +641,19 @@ exports.getSingleBook = function(input){
 			{
 				title: "Play It Again, Sam",
 				description: 
-					"<b>Coming in June</b><br><br>Monica Allen has always been attracted to younger men. She even married one. But after the divorce, she thought she was through with them for good. Then she meets a group of ladies at RomantiCon, and they form a blog celebrating younger men, Tempt the Cougar. <br><br>After another lonely Friday night, Monica challenges her friends to each find a younger man to make their fantasies come true. She doesn’t have to marry him—been there, done that, threw away the t-shirt. But for a night of hot sex? Hell yes. <br><br>But Sam Lincoln refuses to be just a fantasy. He’s a graduate student with a yen for older women and he may have just found the one to make his own fantasies come true. With a little help from his roommate Josh, Sam fulfills Monica’s deepest desires. Can he convince this sexy cougar to give him a chance at happily ever after?",
+					"Monica Allen has always been attracted to younger men. She even married one. But after the divorce, she thought she was through with them for good. Then she meets a group of ladies at a romance, and they form a blog celebrating younger men. <br><br>After another lonely Friday night, Monica challenges her friends to each find a younger man to make their fantasies come true. She doesn’t have to marry him—been there, done that, threw away the t-shirt. But for a night of hot sex? Hell yes. <br><br>But Sam Lincoln refuses to be just a fantasy. He’s a graduate student with a yen for older women and he may have just found the one to make his own fantasies come true. With a little help from his roommate Josh, Sam fulfills Monica’s deepest desires. Can he convince this sexy cougar to give him a chance at happily ever after?<br><br>",
 				cover: "play_it_again_sam.jpg",
 				excerpt: "play_it_again_sam.pdf",
 				goodreadsID: "7006129",
-				xlinks: {
-					affiliate: "http://amzn.to/1WPRGPQ",
+				links: {
+					affiliate: "http://amzn.to/1UjB0wM",
 					ebook: {
-						amazon: "http://amzn.to/1WPRGPQ",
-						xBandN: "http://www.barnesandnoble.com/w/play-it-again-sam-samantha-kane/1021398249?ean=9781419926419",
+						amazon: "http://amzn.to/1UjB0wM",
+						BandN: "http://www.barnesandnoble.com/w/play-it-again-sam-samantha-kane/1021398249?ean=2940158509506",
 						xeCave: "https://www.ellorascave.com/product/play-it-again-sam/",
+						smashwords: "https://www.smashwords.com/books/view/640803",
 						xitunes: "https://itunes.apple.com/us/book/play-it-again-sam-cougar-cahllenge/id547736512?mt=11",
-						xareb: "https://www.allromanceebooks.com/product-playitagainsamcougarcahllengebookone-517427-340.html",
+						areb: "https://www.allromanceebooks.com/product-playitagainsam-2049985-149.html",
 						xkobo: "https://store.kobobooks.com/en-us/ebook/play-it-again-sam-cougar-cahllenge-book-one",
 					}
 				}

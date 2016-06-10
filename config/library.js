@@ -25,56 +25,56 @@ exports.getLibrary = function(){
 		},
 		{
 			title: "Love Under Siege",
-			cover: "love_under_siege.jpg"
+			cover: "no_cover.jpg"
 		},
 		{
 			title: "Love's Strategy",
-			cover: "love's_strategy.jpg"
+			cover: "no_cover.jpg"
 		},
 		{
 			title: "At Love's Command",
-			cover: "at_love's_command.jpg"
+			cover: "no_cover.jpg"
 		},
 		{
 			title: "Retreat From Love",
-			cover: "retreat_from_love.jpg"
+			cover: "no_cover.jpg"
 		},
 		{
 			title: "Love in Exile",
-			cover: "love_in_exile.jpg"
+			cover: "no_cover.jpg"
 		},
 		{
 			title: "Prisoner of Love",
-			cover: "prisoner_of_love.jpg"
+			cover: "no_cover.jpg"
 		},
 		{
 			title: "Love's Fortress",
-			cover: "love's_fortress.jpg"
+			cover: "no_cover.jpg"
 		},
 		{
 			title: "Love's Surrender",
-			cover: "love's_surrender.jpg"
+			cover: "no_cover.jpg"
 		},
 		{
 			title: "Love Betrayed",
-			cover: "love_betrayed.jpg"
+			cover: "no_cover.jpg"
 		},
 		{
 			title: "Defeated By Love",
-			cover: "defeated_by_love.jpg"
+			cover: "no_cover.jpg"
 		},
 		{
 			title: "Fight For Love",
-			cover: "fight_for_love.jpg"
+			cover: "no_cover.jpg"
 		},		
-		{
-			title: "Arms of Love",
-			cover: "arms_of_love.jpg"
-		},
-		{
-			title: "Love Returns",
-			cover: "love_returns.jpg"
-		},
+		// {
+		// 	title: "Arms of Love",
+		// 	cover: "no_cover.jpg"
+		// },
+		// {
+		// 	title: "Love Returns",
+		// 	cover: "no_cover.jpg"
+		// },
 	],
 
 	"The Saint's Devils": [
@@ -150,10 +150,10 @@ exports.getLibrary = function(){
 
 	"Standalone Romance" : [
 
-		{
-			title: "A Lady in Waiting",
-			cover: "a_lady_in_waiting.jpg"
-		},
+		// {
+		// 	title: "A Lady in Waiting",
+		// 	cover: "a_lady_in_waiting.jpg"
+		// },
 		{
 			title: "Islands",
 			cover: "islands.jpg"
@@ -167,26 +167,26 @@ exports.getLibrary = function(){
 
 	"Romance Anthologies" : [
 
-		{
-			title: "Aged To Perfection",
-			cover: "aged_to_perfection.jpg"
-		},
-		{
-			title: "Esprit of Corps",
-			cover: "esprit_of_corps.jpg"
-		},
+		// {
+		// 	title: "Aged To Perfection",
+		// 	cover: "aged_to_perfection.jpg"
+		// },
+		// {
+		// 	title: "Esprit of Corps",
+		// 	cover: "esprit_of_corps.jpg"
+		// },
 		{
 			title: "Gift of Desire",
 			cover: "gift_of_desire.jpg"
 		},
-		{
-			title: "Jewels of the Nile",
-			cover: "jewels_of_the_nile.jpg"
-		},
-		{
-			title: "Tempt The Cougar",
-			cover: "tempt_the_cougar.jpg"
-		},
+		// {
+		// 	title: "Jewels of the Nile",
+		// 	cover: "jewels_of_the_nile.jpg"
+		// },
+		// {
+		// 	title: "Tempt The Cougar",
+		// 	cover: "tempt_the_cougar.jpg"
+		// },
 		{
 			title: "When Love Comes Calling",
 			cover: "when_love_comes_calling.jpg"
