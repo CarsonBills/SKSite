@@ -626,7 +626,7 @@ exports.getSingleBook = function(input){
 				cover: "islands.jpg",
 				excerpt: "islands.pdf",
 				goodreadsID: "6280926",
-				xlinks: {
+				links: {
 					affiliate: "http://amzn.to/1Pgq80V",
 					ebook: {
 						amazon: "http://amzn.to/1Pgq80V",
