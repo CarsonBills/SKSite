@@ -172,6 +172,11 @@ form div {
 	min-height: 250px;
 }
 
+.cover_container {
+	min-width: 200px;
+	min-height: 204px;
+}
+
 .cover_thumbnail {
 	max-width: 150px;
 	max-height: 200px;

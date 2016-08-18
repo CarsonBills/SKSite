@@ -41,26 +41,48 @@ exports.getSingleBook = function(input){
 					}
 				}
 			},
+			"Jacked Up" : 
+			{
+				title: "Jacked Up",
+				description: 
+					"Book 3 of the Birmingham Rebels Series",
+				cover: "jacked_up.jpg",
+				// excerpt: "broken_play.pdf",
+				// goodreadsID: "23834711",
+				links: {
+					affiliate: "http://amzn.to/2bfGSsp",
+					ebook: {
+						// itunes: "https://itunes.apple.com/us/book/broken-play/id975021669?mt=11",
+						kobo: "https://store.kobobooks.com/en-us/ebook/jacked-up-2",
+						amazon: "http://amzn.to/2bfGSsp",
+						// areb: "https://www.allromanceebooks.com/product-brokenplay-1771850-237.html",
+						BandN: "http://www.barnesandnoble.com/w/jacked-up-samantha-kane/1123805725?ean=9780399593185",
+						// penguin: "http://www.penguinrandomhouse.com/books/249829/broken-play-by-samantha-kane/",
+					}
+				}
+			},
 			"The Courage to Love" : 
 			{
 				title: "The Courage to Love",
 				description: 
-				"<b>Coming in June</b><br><br>Kate Collier is still recovering from a vicious rape and trying to make a success of her dress shop when Jason Randal and Anthony Richards return to London from the Continent, intent on winning her. She's known them for years, ever since they served with her late husband in the Peninsula against Napoleon. She'd been in love with them for almost that long. To discover they feel the same is a shock, but Kate isn't ready to turn her life back over to a man, or men. <br><br>Jason and Tony prove hard to resist, however, especially when their close friendship blossoms into desire for each other as they make Kate's body burn with passion. <br><br>The combination of their insatiable desire for her and their journey into a sexual relationship with one another is irresistible to Kate. <br><br>A nightmare from her past tries to keep them apart, but the three long for a life together in spite of society's censure, and they will not be denied.",
+				"Kate Collier is still recovering from a vicious rape and trying to make a success of her dress shop when Jason Randal and Anthony Richards return to London from the Continent, intent on winning her. She's known them for years, ever since they served with her late husband in the Peninsula against Napoleon. She'd been in love with them for almost that long. To discover they feel the same is a shock, but Kate isn't ready to turn her life back over to a man, or men. <br><br>Jason and Tony prove hard to resist, however, especially when their close friendship blossoms into desire for each other as they make Kate's body burn with passion. <br><br>The combination of their insatiable desire for her and their journey into a sexual relationship with one another is irresistible to Kate. <br><br>A nightmare from her past tries to keep them apart, but the three long for a life together in spite of society's censure, and they will not be denied.",
 				cover: "the_courage_to_love.jpg",
 				excerpt: "the_courage_to_love.pdf",
 				goodreadsID: "2238248",
-				xlinks: {
-					affiliate: "http://amzn.to/1Nqqgyg",
+				links: {
+					affiliate: "http://amzn.to/28Voxka",
 					xprint: {
 						amazon: "http://www.amazon.com/Courage-Love-Brothers-Arms-Book/dp/1419955349/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1366153620&sr=1-1",
 						BandN: "http://www.barnesandnoble.com/w/the-courage-to-love-brothers-in-arms-samantha-kane/1024278858?ean=9781419955341",
 						eCave: "https://www.ellorascave.com/product/the-courage-to-love-2/",
 					},
 					ebook: {
-						xareb: "https://www.allromanceebooks.com/product-thecouragetolove-480380-340.html",
+						areb: "https://www.allromanceebooks.com/product-thecouragetolove-2061258-340.html",
 						xeCave: "https://www.ellorascave.com/product/the-courage-to-love/",
-						amazon: "http://amzn.to/1Nqqgyg",
-						xBandN: "http://www.barnesandnoble.com/w/the-courage-to-love-samantha-kane/1018799797?ean=9781419906039",
+						amazon: "http://amzn.to/28Voxka",
+						itunes: "https://itunes.apple.com/us/book/the-courage-to-love/id1127952480?ls=1&mt=11",
+						smashwords: "https://www.smashwords.com/books/view/645714",
+						BandN: "http://www.barnesandnoble.com/w/the-courage-to-love-samantha-kane/1018799797?ean=2940158146398",
 						xkobo: "https://store.kobobooks.com/en-us/ebook/the-courage-to-love-brothers-in-arms-book-one"
 					},
 					xaudiobook: {
@@ -75,7 +97,7 @@ exports.getSingleBook = function(input){
 			{
 				title: "Love Under Siege",
 				description: "Phillip Neville and Jonathan Overton have been best friends since childhood. When they return to England as veterans of the Napoleonic Wars, they enter the marriage market. It doesn't take long for them both to fall deeply in love with shy, awkward, beautiful Maggie Trueheart. Phillip and Maggie marry, but Phillip and Jonathan do not tell her about the menage a trois marriage the two men hope to have. When Maggie finds out, it takes the persuasive power of both men to convince her that this threesome was meant to be. <br><br>In the process of helping Maggie discover the sexually aggressive woman inside herself, Phillip and Jonathan realize their love for one another is more than friendship. <br><br>Before the two men can consummate their relationship, however, a brutal attack on Maggie and Jonathan's self-recriminations drive the lovers apart. It will take all the love and determination the three possess to achieve their happily ever after.",
-				cover: "no_cover.jpg",
+				cover: "love_under_siege.jpg",
 				excerpt: "love_under_siege.pdf",
 				goodreadsID: "2695868",
 				xlinks: {
@@ -106,7 +128,7 @@ exports.getSingleBook = function(input){
 				title: "Love's Strategy",
 				description: 
 					"Valentine Westridge and Kurt Schillig are lovers, and have been since the Peninsular War when lonely young officer Valentine let himself be seduced by the equally lonely Kurt. Now they're back from the war and intent on beginning the future they dreamed of together, one that includes a quiet country estate, horses, dogs, children, and each other. Their plan, however, also requires a wife. At the suggestion of a mutual friend, Valentine and Kurt believe the financial security they can offer to impoverished widow Leah Marleston will help her accept the unusual sexual relationship they are suggesting. <br><br>Leah is at her wit's end, creditors having taken everything she owns to pay off her late husband's gambling debts. She must find a way to support herself and her two children, or be forced to marry her abusive and obsessive brother-in-law. In Valentine's and Kurt's arms, Leah discovers a passion she never knew existed. Brought together by necessity, bonded by desire, these three lonely people find themselves fighting against all odds for a love that was never part of their plans.",
-				cover: "no_cover.jpg",
+				cover: "loves_strategy.jpg",
 				excerpt: "love's_strategy.pdf",
 				goodreadsID: "3576204",
 				xlinks: {
@@ -132,7 +154,7 @@ exports.getSingleBook = function(input){
 				title: "At Love's Command",
 				description: 
 					"A child when they were betrothed, Sophia Middleton has been waiting twelve years for Ian Witherspoon to return and marry her. Preyed upon by her vicious father and older brother, Sophie longs for Ian to rescue her. <br><br>Ian Witherspoon and Derek Knightly became best friends during the Peninsular War, and returned as lovers. Two more years pass before the desire for a wife and children prompts Ian to recall his little fiancée. Ian is determined to make a marriage work between the three of them. Derek opposes the marriage despite Ian's determination, but how long will he be able to resist love's command? <br><br>Sophie's vulnerability hides a core of strength and the combination enthralls and seduces both men. An apt pupil, Sophie learns trust and passion from Ian, and Derek tutors her in the ecstasy of surrender. Love will conquer their fears as they fight those who would tear them apart.",
-				cover: "no_cover.jpg",
+				cover: "at_loves_command.jpg",
 				excerpt: "at_love's_command.pdf",
 				goodreadsID: "3576209",
 				xlinks: {
@@ -162,7 +184,7 @@ exports.getSingleBook = function(input){
 				title: "Retreat From Love",
 				description: 
 					"A man with everything except his heart’s desire. <br><br>Frederick Thorne, Duke of Ashland, has been in love with Brett Haversham for years. If the only way to have him is to give him what he wants Freddy will share him, in bed and out, with the woman Brett loves. The woman who was Freddy’s first love. <br><br>A man sacrificing everything for the past. <br><br>Brett Haversham is in love with two people he’s sworn never to touch. But his desires prove to be stronger than his resolve when they both set out to seduce him—together. The incredible sex they share overwhelms him. <br><br>A woman with nothing left to lose. <br><br>Anne Goode lost her fiancé Bertie in the war. Now his younger brother Freddy is back, all grown up into the handsome and powerful duke. And he’s brought Bertie’s best friend Brett with him. Lonely and already ruined, Anne can’t resist taking both of them as her lovers. Is the uncontrollable desire between the three enough to heal the wounds of the past and overcome the problems of the present? They must accept love rather than retreat from it.",
-				cover: "no_cover.jpg",
+				cover: "retreat_from_love.jpg",
 				excerpt: "retreat_from_love.pdf",
 				goodreadsID: "5984339",
 				xlinks: {
@@ -192,7 +214,7 @@ exports.getSingleBook = function(input){
 				title: "Love in Exile",
 				description: 
 					"Gregory Anderson has reluctantly returned to England in 1817 after more than seven years sailing the world. Half Polynesian, Gregory is caught between two worlds. He isn’t looking for love. He’s only looking for a warm body with a modicum of wit and reasonable intelligence to help him get through the few short months he’ll be in England. <br><br>Nat and Alecia Digby’s marriage, arranged when they were young and foolish, was almost ruined before it began when they both took lovers. They don’t want to give up the erotic games they learned to play and enjoy, but they won’t risk their marriage again by falling in love with someone else. <br><br>When the three meet, they think it will be nothing more than a night or two of shared pleasure and erotic thrills. But the unthinkable happens, because love refuses to be forced into exile.",
-				cover: "no_cover.jpg",
+				cover: "love_in_exile.jpg",
 				excerpt: "love_in_exile.pdf",
 				goodreadsID: "7078699",
 				xlinks: {
@@ -221,25 +243,25 @@ exports.getSingleBook = function(input){
 			"Love's Fortress" : 
 			{
 				title: "Love's Fortress",
-				description: 
-					"Gideon North wants a wife. She must be practical and hardworking. But above all, she must have a hearty constitution. Horribly injured and scarred from his Peninsular War service, Gideon does not want to deal with a wife who flinches every time she looks at him. <br><br>Gideon’s estate manager Charles Borden was his sergeant in the war. Inseparable but almost always at odds, the two men agree that Sarah Whitley is the perfect wife for Gideon. Strong, beautiful and intelligent with a dry sense of humor, Sarah bears her own marks from a life spent in the shadows. <br><br>When Sarah learns to let go of her past fears, she frees both men to acknowledge the love and attraction that has always existed between them. The three become intimate but the eroticism of their encounters in the bedroom does not guarantee happiness. Gideon’s defenses mire them in the past. Only together can Sarah and Charles break through to build a future with Gideon",
-				cover: "no_cover.jpg",
+				description: "Veronica Thomas has been in love with two men since she was seventeen. One introduced her to passion. The other has shown her how to satisfy it. Now that she’s older, she still wants them both. Wolf Tarrant was more than willing to share Very with his best friend and lover, Lord Michael Kensington. But two years ago, Michael ran from the unconventional relationship growing between the three of them. <br><br>When Michael returns from America, things have changed drastically for all of them. Rushing headlong into a scorching, passionate reunion may be a bad idea. Michael’s secrets have the power to keep them apart forever, but Very and Wolf have secrets of their own. Held prisoner by their fears, the three struggle to overcome lies and mistrust to find the freedom to love one another as they have always desired.",
+				cover: "love's_fortress.jpg",
 				excerpt: "love's_fortress.pdf",
 				goodreadsID: "8628509",
-				xlinks: {
-					affiliate: "http://amzn.to/1GyGEFj",
+				links: {
+					affiliate: "http://amzn.to/290dnfO",
 					xprint: {
 						BandN: "http://www.barnesandnoble.com/w/loves-fortress-samantha-kane/1100323461?ean=9781419961984",
 						amazon: "http://www.amazon.com/Loves-Fortress-Samantha-Kane/dp/1419961985/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1366157259&sr=1-1",
 						eCave: "https://www.ellorascave.com/product/loves-fortress-2/",
 					},
 					ebook: {
-						xareb: "https://www.allromanceebooks.com/product-love039sfortress-446492-340.html",
-						xitunes: "https://itunes.apple.com/us/book/loves-fortress-brothers-in/id547345554?mt=11",
-						xBandN: "http://www.barnesandnoble.com/w/loves-fortress-samantha-kane/1100323461?ean=9781419928352",
+						areb: "https://www.allromanceebooks.com/product-love039sfortress-2061198-340.html",
+						itunes: "https://geo.itunes.apple.com/us/book/loves-fortress/id1127023066?mt=11",
+						BandN: "http://www.barnesandnoble.com/w/loves-fortress-samantha-kane/1100323461?ean=2940158434334",
 						amazon: "http://amzn.to/1GyGEFj",
+						smashwords: "https://www.smashwords.com/books/view/645305",
 						xeCave: "https://www.ellorascave.com/product/loves-fortress/",
-						xkobo: "https://store.kobobooks.com/en-us/ebook/love-s-fortress-brothers-in-arms-book-seven",
+						kobo: "https://store.kobobooks.com/en-us/ebook/love-s-fortress-1",
 					},
 					xaudiobook: {
 						audible: "http://www.audible.com/pd/Romance/Loves-Fortress-Audiobook/B00EQA9YCK?sr=1-7&amp;qid=1378322851&amp;ref_=sr_1_7",
@@ -251,24 +273,25 @@ exports.getSingleBook = function(input){
 			"Prisoner of Love" : 
 			{
 				title: "Prisoner of Love",
-				description: 
-					"Veronica Thomas has been in love with two men since she was seventeen. One introduced her to passion. The other has shown her how to satisfy it. Now that she’s older, she still wants them both. Wolf Tarrant was more than willing to share Very with his best friend and lover, Lord Michael Kensington. But two years ago, Michael ran from the unconventional relationship growing between the three of them. <br><br>When Michael returns from America, things have changed drastically for all of them. Rushing headlong into a scorching, passionate reunion may be a bad idea. Michael’s secrets have the power to keep them apart forever, but Very and Wolf have secrets of their own. Held prisoner by their fears, the three struggle to overcome lies and mistrust to find the freedom to love one another as they have always desired.",
-				cover: "no_cover.jpg",
+				description: "Gideon North wants a wife. She must be practical and hardworking. But above all, she must have a hearty constitution. Horribly injured and scarred from his Peninsular War service, Gideon does not want to deal with a wife who flinches every time she looks at him. <br><br>Gideon’s estate manager Charles Borden was his sergeant in the war. Inseparable but almost always at odds, the two men agree that Sarah Whitley is the perfect wife for Gideon. Strong, beautiful and intelligent with a dry sense of humor, Sarah bears her own marks from a life spent in the shadows. <br><br>When Sarah learns to let go of her past fears, she frees both men to acknowledge the love and attraction that has always existed between them. The three become intimate but the eroticism of their encounters in the bedroom does not guarantee happiness. Gideon’s defenses mire them in the past. Only together can Sarah and Charles break through to build a future with Gideon",
+				cover: "prisoner_of_love.jpg",
 				excerpt: "prisoner_of_love.pdf",
 				goodreadsID: "11226923",
-				xlinks: {
+				links: {
+					affiliate: "http://amzn.to/29IdxoD",
 					xprint: {
 						eCave: "https://www.ellorascave.com/product/prisoner-of-love-2/",
 						BandN: "http://www.barnesandnoble.com/w/prisoner-of-love-samantha-kane/1102994418?ean=9781419964947",
 						amazon: "http://www.amazon.com/Prisoner-Love-Elloras-Samantha-Kane/dp/1419964941/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1366157463&sr=1-1",
 					},
 					ebook: {
-						amazon: "http://www.amazon.com/Prisoner-Love-Brothers-Arms-Eight-ebook/dp/B00545BZ0A/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1366157463&sr=1-1",
-						xBandN: "http://www.barnesandnoble.com/w/prisoner-of-love-samantha-kane/1102994418?ean=9781419933479",
+						amazon: "http://amzn.to/29IdxoD",
+						BandN: "http://www.barnesandnoble.com/w/prisoner-of-love-samantha-kane/1102994418?ean=2940158348914",
 						xeCave: "https://www.ellorascave.com/product/prisoner-of-love/",
-						xitunes: "https://itunes.apple.com/us/book/prisoner-love-brothers-in/id547754433?mt=11",
-						xareb: "https://www.allromanceebooks.com/product-prisoneroflovebrothersinarmsbookeight-559919-340.html",
-						xkobo: "https://store.kobobooks.com/en-us/ebook/prisoner-of-love-brothers-in-arms-book-eight",
+						smashwords: "https://www.smashwords.com/books/view/646569",
+						itunes: "https://geo.itunes.apple.com/us/book/prisoner-of-love/id1128609584?mt=11",
+						areb: "https://www.allromanceebooks.com/product-prisoneroflove-2061345-340.html",
+						kobo: "https://store.kobobooks.com/en-us/ebook/prisoner-of-love-13",
 					}
 				}
 			},
@@ -277,18 +300,19 @@ exports.getSingleBook = function(input){
 				title: "Love's Surrender",
 				description: 
 					"Lady Vanessa Carlton-Smythe is from one of England’s most well-respected families and the daughter of an earl. She has lived an exemplary life—the perfect daughter, the perfect lady. Until one Christmas Eve, when she meets two men who unleash her secret desires. She can’t surrender her heart, only her body, and only for the next twelve days. After Twelfth Night, their affair must end and she will return to a life that is slowly suffocating her. <br><br>Veterans Nick and Oliver have been constant companions since Waterloo. They share everything, including women and a bad reputation. When Lady Vanessa catches them in a compromising position, they are seduced by the longing in her eyes. <br><br>Cool, distant, unattainable—the more she protests, the more they want her. Vanessa’s desires prompt the two men to finally give in to their feelings and become lovers. When desire becomes love, can they convince Vanessa to leave her privileged life behind and surrender to them forever?",
-				cover: "no_cover.jpg",
+				cover: "love's_surrender.jpg",
 				excerpt: "love's_surrender.pdf",
 				goodreadsID: "13093464",
-				xlinks: {
-					affiliate: "http://amzn.to/1ZhLvpP",
+				links: {
+					affiliate: "http://amzn.to/29DQnQX",
 					ebook: {
 						xeCave: "https://www.ellorascave.com/product/loves-surrender/",
-						amazon: "http://amzn.to/1ZhLvpP",
-						xBandN: "http://www.barnesandnoble.com/w/loves-surrender-samantha-kane/1107990322?ean=9781419937460",
-						xitunes: "https://itunes.apple.com/us/book/loves-surrender-brothers-in/id547347055?mt=11",
-						xareb: "https://www.allromanceebooks.com/product-love039ssurrenderbrothersinarmsbooknine-657351-340.html",
-						xkobo: "https://store.kobobooks.com/en-us/ebook/love-s-surrender-brothers-in-arms-book-nine",
+						amazon: "http://amzn.to/29DQnQX",
+						BandN: "http://www.barnesandnoble.com/w/loves-surrender-samantha-kane/1107990322?ean=2940158495380",
+						itunes: "https://geo.itunes.apple.com/us/book/loves-surrender/id1129556836?mt=11",
+						smashwords: "https://www.smashwords.com/books/view/647052",
+						areb: "https://www.allromanceebooks.com/product-love039ssurrender-2063707-340.html",
+						kobo: "https://store.kobobooks.com/en-us/ebook/love-s-surrender",
 					}
 				}
 			},
@@ -318,11 +342,11 @@ exports.getSingleBook = function(input){
 				goodreadsID: "16150443",
 				links: {
 					ebook: {
-						xBandN: "http://www.barnesandnoble.com/w/love-and-war-samantha-kane/1113787879?ean=2940015848557",
+						BandN: "http://www.barnesandnoble.com/w/love-and-war-samantha-kane/1113787879?ean=2940015848557",
 						amazon: "http://www.amazon.com/Love-War-Beginning-Brothers-ebook/dp/B00A2XI9EY/ref=sr_1_1?s=books&ie=UTF8&qid=1366158762&sr=1-1&keywords=samantha+kane+love+and+war",
-						xsmashwords: "https://www.smashwords.com/books/view/252274",
-						xareb: "https://www.allromanceebooks.com/product-loveandwar-1761207-340.html",
-						xkobo: "https://store.kobobooks.com/en-us/ebook/love-and-war-20",
+						smashwords: "https://www.smashwords.com/books/view/252274",
+						areb: "https://www.allromanceebooks.com/product-loveandwar-1761207-340.html",
+						kobo: "https://store.kobobooks.com/en-us/ebook/love-and-war-20",
 					}
 				}
 			},
@@ -331,36 +355,39 @@ exports.getSingleBook = function(input){
 				title: "Love Betrayed",
 				description: 
 					"Portugal, 1811—England and France are at war and Daniel  Steinberg, secret agent for the Crown, is right in the thick of it. Caught one night in a violent act by handsome young Lieutenant Harry Ashbury, his assignment is compromised. But Harry isn’t there to expose Daniel. Other desires drove him to follow the infamous Mr. Steinberg. <br><br>Desires Daniel shares. The two begin a torrid affair that night in the woods. Daniel knows it’s folly to take a lover while at war. Caring for Harry is madness. But, despite his innocence, his young lover pleasures him more than any other lover the promiscuous Daniel has ever had. Lies, secrets and old lovers come between them. In one explosive battle, all is unfair in love and war when betrayal strikes at the heart.",
-				cover: "no_cover.jpg",
+				cover: "love_betrayed.jpg",
 				excerpt: "love_betrayed.pdf",
 				goodreadsID: "18515108",
-				xlinks: {
-					affiliate: "http://amzn.to/1WPR4K3",
+				links: {
+					affiliate: "http://amzn.to/2aglcfN",
 					ebook: {
-						xBandN: "http://www.barnesandnoble.com/w/love-betrayed-samanta-kane/1117057953?ean=9781419946646",
+						BandN: "http://www.barnesandnoble.com/w/love-betrayed-samanta-kane/1117057953?ean=2940158118463",
 						xeCave: "https://www.ellorascave.com/product/love-betrayed/",
-						xareb: "https://www.allromanceebooks.com/product-lovebetrayed-1313640-340.html",
-						amazon: "http://amzn.to/1WPR4K3",
-						xkobo: "https://store.kobobooks.com/en-us/ebook/love-betrayed",
+						areb: "https://www.allromanceebooks.com/product-lovebetrayed-2064123-340.html",
+						amazon: "http://amzn.to/2aglcfN",
+						smashwords: "https://www.smashwords.com/books/view/647507",
+						itunes: "https://geo.itunes.apple.com/us/book/love-betrayed/id1130518762?mt=11",
+						kobo: "https://store.kobobooks.com/en-us/ebook/love-betrayed-2",
 					}
 				}
 			},
 			"Defeated By Love" : 
 			{
 				title: "Defeated By Love",
-				description: "Defeated by Love is the continuation of the story of Daniel and Harry from Love Betrayed.",
-				cover: "no_cover.jpg",
+				description: "Daniel has both dreaded and prayed for the return of the only man he ever loved. But he is reluctant to give his heart again to a man who already deserted him once. <br><br>Harry knew that when he returned to England after ten years, Daniel would be angry. But he expected his former lover to be overwhelmed at his return and his declaration of love. He didn't count on Daniel's refusal to forgive him. <br><br>The desire is still there between them, however, and Harry will use that to break down Daniel's defenses one scorching encounter at a time. Daniel's anger slowly melts under Harry's seductive persuation. The passion between them explodes, but they must defeat the memory of Harry's past mistkakes to earn a future together",
+				cover: "defeated_by_love.jpg",
 				excerpt: "defeated_by_love.pdf",
 				goodreadsID: "18515142",
-				xlinks: {
-					affiliate: "http://amzn.to/1WPR64H",
+				links: {
+					affiliate: "http://amzn.to/29OP5FY",
 					ebook: {
-						amazon: "http://amzn.to/1WPR64H",
-						xBandN: "http://www.barnesandnoble.com/w/defeted-by-love-samantha-kane/1117793736?ean=9781419947827",
-						xitunes: "https://itunes.apple.com/us/book/defeated-by-love/id870061961?mt=11",
+						amazon: "http://amzn.to/29OP5FY",
+						BandN: "http://www.barnesandnoble.com/w/defeated-by-love-samantha-kane/1123790658?ean=2940158206160",
+						itunes: "https://geo.itunes.apple.com/us/book/defeated-by-love/id1130806686?mt=11",
 						xeCave: "https://www.ellorascave.com/product/defeated-by-love/",
-						xareb: "https://www.allromanceebooks.com/product-defeatedbylove-1374596-340.html",
-						xkobo: "https://store.kobobooks.com/en-us/ebook/defeated-by-love",
+						smashwords: "https://www.smashwords.com/books/view/647956",
+						areb: "https://www.allromanceebooks.com/product-defeatedbylove-2065268-148.html",
+						kobo: "https://store.kobobooks.com/en-us/ebook/defeated-by-love-1",
 					}
 				}
 			},
@@ -369,11 +396,11 @@ exports.getSingleBook = function(input){
 				title: "Fight For Love",
 				description: 
 					"Devlin O'Shaughnessy, London crime boss, and former prostitute Kitty Markham have loved one another since they first met when they were too young and not nearly innocent enough. Kitty fell in love with Dr. Thomas Peters in the same fashion: instantly and irrevocably. She's quietly loved him while sharing Devlin’s bed, dreaming of having Devlin and Thom in her life and her bed, together. <br><br>When Thom finally gets lost in an endless stream of liquor and sex, dulling the pain of his violent dreams and memories of the war, Kitty enlists Devlin's help to pull Thom from his nightmares and sober him up. In her arms Thom finds peace and acceptance, and in Devlin’s arms he finds a passion he never expected. <br><br>The intimacies the three share are beyond their wildest dreams, more heady and addicting than any drink. <br>But Devlin will have to fight his past before he can give in to a love that could change all their lives.  Note: Contains m/m/f and m/m sex",
-				cover: "no_cover.jpg",
+				cover: "fight_for_love.jpg",
 				excerpt: "fight_for_love.pdf",
 				goodreadsID: "22084379",
-				xlinks: {
-					affiliate: "http://amzn.to/1WPRaBi",
+				links: {
+					affiliate: "http://amzn.to/29ATKwx",
 					xprint: {
 						BandN: "http://www.barnesandnoble.com/w/fight-for-love-samantha-kane/1119964780?ean=9781419972324",
 						amazon: "http://www.amazon.com/Fight-Love-Brothers-Arms-12/dp/1419972324/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1405525096&sr=1-2",
@@ -381,11 +408,12 @@ exports.getSingleBook = function(input){
 					},
 					ebook: {
 						xeCave: "https://www.ellorascave.com/product/fight-for-love/",
-						amazon: "http://amzn.to/1WPRaBi",
-						xkobo: "https://store.kobobooks.com/en-us/ebook/fight-for-love-3",
-						xBandN: "http://www.barnesandnoble.com/w/fight-for-love-samantha-kane/1119964780?ean=9781419992087",
-						xitunes: "https://itunes.apple.com/us/book/fight-for-love/id907910704?mt=11",
-						xareb: "https://www.allromanceebooks.com/product-fightforlove-446710-340.html",
+						amazon: "http://amzn.to/29ATKwx",
+						kobo: "https://store.kobobooks.com/en-us/ebook/fight-for-love-6",
+						xBandN: "http://www.barnesandnoble.com/w/fight-for-love-samantha-kane/1119964780?ean=2940158206955",
+						smashwords: "https://www.smashwords.com/books/view/648190",
+						itunes: "https://geo.itunes.apple.com/us/book/fight-for-love/id1131045064?mt=11",
+						areb: "https://www.allromanceebooks.com/product-fightforlove-2065289-148.html",
 					},
 					xaudiobook: {
 						amazon: "http://www.amazon.com/Fight-for-Love/dp/B00PB6PWCY/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=1405525096&sr=1-2",
@@ -394,22 +422,62 @@ exports.getSingleBook = function(input){
 					}
 				}
 			},
-			// "Love Returns" : 
-			// {
-			// 	title: "Love Returns",
-			// 	description: "This book is an Anthology of the books Love Betrayed and Defeated by Love (Brothers in Arms books 10 and 11)",
-			// 	cover: "no_cover.jpg",
-			// 	excerpt: "love_returns.pdf",
-			// 	goodreadsID: "25780972",
-			// 	xlinks: {
-			// 		affiliate: "http://amzn.to/1QbwGPH",
-			// 		print: {
-			// 			xeCave: "https://www.ellorascave.com/product/love-returns/",
-			// 			amazon: "http://amzn.to/1QbwGPH",
-			// 			xBandN: "http://www.barnesandnoble.com/w/love-returns-samantha-kane/1121157855?ean=9781419971037"
-			// 		}
-			// 	}
-			// },
+			"Daniel & Harry" : 
+			{
+				title: "Daniel & Harry",
+				description: "This book is a bundle of the books <em>Love Betrayed</em> and <em>Defeated by Love</em> (Brothers in Arms books 10 and 11)",
+				cover: "daniel_and_harry.jpg",
+				xexcerpt: "love_returns.pdf",
+				xgoodreadsID: "25780972",
+				links: {
+					affiliate: "http://amzn.to/1QbwGPH",
+					print: {
+						xeCave: "https://www.ellorascave.com/product/love-returns/",
+						amazon: "http://amzn.to/1QbwGPH",
+						areb: "https://www.allromanceebooks.com/product-danielandharry-2074890-148.html",
+						kobo: "https://store.kobobooks.com/en-us/ebook/daniel-and-harry",
+						itunes: "https://geo.itunes.apple.com/us/book/daniel-and-harry/id1134774905?mt=11",
+						smashwords: "https://www.smashwords.com/books/view/650626",
+						BandN: "http://www.barnesandnoble.com/w/daniel-and-harry-samantha-kane/1124106342?ean=2940156940592"
+					}
+				}
+			},
+			"Triumph" : 
+			{
+				title: "Triumph",
+				description: "This book is a bundle of the books <em>Love's Fortress</em>, <em>Prisoner of Love</em>, <em>Love's Surrender</em>, <em>Love Betrayed</em>, <em>Defeated by Love</em>, and <em>Fight for Love</em> (Brothers in Arms books 7 - 12)",
+				cover: "triumph.jpg",
+				xexcerpt: "love_returns.pdf",
+				xgoodreadsID: "25780972",
+				xlinks: {
+					affiliate: "http://amzn.to/1QbwGPH",
+					print: {
+						xeCave: "https://www.ellorascave.com/product/love-returns/",
+						amazon: "http://amzn.to/1QbwGPH",
+						xBandN: "http://www.barnesandnoble.com/w/love-returns-samantha-kane/1121157855?ean=9781419971037"
+					}
+				}
+			},
+			"Valor" : 
+			{
+				title: "Valor",
+				description: "This book is a bundle of the books <em>Love's Fortress</em>, <em>Prisoner of Love</em>, and <em>Love's Surrender</em> (Brothers in Arms books 7 - 9)",
+				cover: "valor.jpg",
+				xexcerpt: "love_returns.pdf",
+				xgoodreadsID: "25780972",
+				links: {
+					affiliate: "http://amzn.to/29Nt7nt",
+					print: {
+						xeCave: "https://www.ellorascave.com/product/love-returns/",
+						amazon: "http://amzn.to/1QbwGPH",
+						BandN: "http://www.barnesandnoble.com/w/valor-samantha-kane/1124083525?ean=2940156766819",
+						kobo: "https://store.kobobooks.com/en-us/ebook/valor-11",
+						areb: "https://www.allromanceebooks.com/product-valor-2071706-340.html",
+						itunes: "https://geo.itunes.apple.com/us/book/valor/id1133004319?mt=11",
+						smashwords: "https://www.smashwords.com/books/view/649590"
+					}
+				}
+			},
 			"The Devil's Thief" : 
 			{
 				title: "The Devil's Thief",

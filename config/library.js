@@ -9,8 +9,10 @@ exports.getLibrary = function(){
 	},
 
 	"Upcoming": [{
-		title: "Birmingham Rebels, Book 3",
-		release: "January 2017",
+		title: "Jacked Up",
+		subtitle: "Birmingham Rebels Book 3",
+		release: "January 31, 2017",
+		preorder: "http://amzn.to/2bfGSsp"
 	}],
 
 	"Brothers in Arms": [
@@ -25,56 +27,60 @@ exports.getLibrary = function(){
 		},
 		{
 			title: "Love Under Siege",
-			cover: "no_cover.jpg"
+			cover: "love_under_siege.jpg"
 		},
 		{
 			title: "Love's Strategy",
-			cover: "no_cover.jpg"
+			cover: "loves_strategy.jpg"
 		},
 		{
 			title: "At Love's Command",
-			cover: "no_cover.jpg"
+			cover: "at_loves_command.jpg"
 		},
 		{
 			title: "Retreat From Love",
-			cover: "no_cover.jpg"
+			cover: "retreat_from_love.jpg"
 		},
 		{
 			title: "Love in Exile",
-			cover: "no_cover.jpg"
+			cover: "love_in_exile.jpg"
 		},
 		{
 			title: "Prisoner of Love",
-			cover: "no_cover.jpg"
+			cover: "prisoner_of_love.jpg"
 		},
 		{
 			title: "Love's Fortress",
-			cover: "no_cover.jpg"
+			cover: "love's_fortress.jpg"
 		},
 		{
 			title: "Love's Surrender",
-			cover: "no_cover.jpg"
+			cover: "love's_surrender.jpg"
 		},
 		{
 			title: "Love Betrayed",
-			cover: "no_cover.jpg"
+			cover: "love_betrayed.jpg"
 		},
 		{
 			title: "Defeated By Love",
-			cover: "no_cover.jpg"
+			cover: "defeated_by_love.jpg"
 		},
 		{
 			title: "Fight For Love",
-			cover: "no_cover.jpg"
+			cover: "fight_for_love.jpg"
 		},		
-		// {
-		// 	title: "Arms of Love",
-		// 	cover: "no_cover.jpg"
-		// },
-		// {
-		// 	title: "Love Returns",
-		// 	cover: "no_cover.jpg"
-		// },
+		{
+			title: "Daniel & Harry",
+			cover: "daniel_and_harry.jpg"
+		},
+		{
+			title: "Triumph",
+			cover: "triumph.jpg"
+		},
+		{
+			title: "Valor",
+			cover: "valor.jpg"
+		},
 	],
 
 	"The Saint's Devils": [
@@ -145,6 +151,10 @@ exports.getLibrary = function(){
 			title: "Calling the Play",
 			cover: "calling_the_play.jpg"
 		},
+		{
+			title: "Jacked Up",
+			cover: "jacked_up.jpg"
+		}
 
 	],
 

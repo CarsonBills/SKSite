@@ -1,5 +1,20 @@
 <div class="library">
 	<div class="library_series">
+		<h2> Brothers in Arms </h2>
+		{{#each brothers}}
+			<div class="library-collection">
+				<h3>
+					<a href="/books/{{this.title}}">{{this.title}}</a>
+				</h3>
+				<a href="/books/{{this.title}}">
+					<div class="cover_container">
+						<img class="cover_thumbnail" src="/images/covers/{{this.cover}}"></img>
+					</div>
+				</a>
+			</div>
+		{{/each}}
+	</div>
+	<div class="library_series">
 		<h2> Birmingham Rebels </h2>
 		{{#each rebels}}
 			<div class="library-collection">
@@ -41,19 +56,6 @@
 	<div class="library_series">
 		<h2> Saint's Devils </h2>
 		{{#each saints}}
-			<div class="library-collection">
-				<h3>
-					<a href="/books/{{this.title}}">{{this.title}}</a>
-				</h3>
-				<a href="/books/{{this.title}}">
-					<img class="cover_thumbnail" src="/images/covers/{{this.cover}}"></img>
-				</a>
-			</div>
-		{{/each}}
-	</div>
-	<div class="library_series">
-		<h2> Brothers in Arms </h2>
-		{{#each brothers}}
 			<div class="library-collection">
 				<h3>
 					<a href="/books/{{this.title}}">{{this.title}}</a>
