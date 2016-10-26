@@ -3,13 +3,14 @@ exports.getLibrary = function(){
 	var library = {
 
 	"Latest": {
-		title: "Cherry Pop",
-		cover: "cherry_pop.jpg",
-		buy_link: "http://amzn.to/264fDs8",
+		title: "For Love and Country",
+		cover: "for_love_and_country.jpg",
+		buy_link: "http://amzn.to/2er6oS2",
 	},
 
 	"Upcoming": [{
 		title: "Jacked Up",
+		cover: "jacked_up.jpg",
 		subtitle: "Birmingham Rebels Book 3",
 		release: "January 31, 2017",
 		preorder: "http://amzn.to/2bfGSsp"
@@ -17,6 +18,10 @@ exports.getLibrary = function(){
 
 	"Brothers in Arms": [
 
+		{
+			title: "For Love and Country",
+			cover: "for_love_and_country.jpg"
+		},
 		{
 			title: "Love and War",
 			cover: "love_and_war.jpg"

@@ -93,6 +93,26 @@ exports.getSingleBook = function(input){
 
 				}
 			},
+			"For Love and Country" : 
+			{
+				title: "For Love and Country",
+				description: 
+				"Sir Barnabas James is secretive, manipulative, cold and alone. He abhors society and shuns personal attachments despite a long list of lovers. All the better to be the consummate spymaster in service to King and country. Until an old enemy asks a personal favor…<br><br>Lord Ambrose Wetherald has always taken pride in his status as an English gentleman. He obeys even the strictest of society’s rules, is unfailingly polite and deferential, and feels it is his responsibility to protect women and the underprivileged. He has also saved himself for marriage. Until one day he needs a favor…<br><br>Melinda de Vere was once the spoiled and willful toast of the London season, but she threw it all away on childish escapades and unfulfilling love affairs. Now she is married to a treasonous scoundrel who abuses and degrades her. Until one day she is rescued by two men she has never met.<br><br>When Barnabas demands Ambrose repay the favor in his bed and Mel goes undercover as Barnabas’s housekeeper to help trap her traitorous husband, the three embark on a sensuous affair. Barnabas will have to choose love over duty, Ambrose must surrender his reputation, and Mel will need to learn to trust again if the mismatched, unsuitable lovers hope to survive the devious plot against them.",
+				cover: "for_love_and_country.jpg",
+				xexcerpt: "the_courage_to_love.pdf",
+				xgoodreadsID: "2238248",
+				links: {
+					affiliate: "http://amzn.to/2er6oS2",
+					ebook: {
+						areb: "https://www.allromanceebooks.com/product-forloveandcountry-2158838-340.html",
+						amazon: "http://amzn.to/2er6oS2",
+						xitunes: "https://itunes.apple.com/us/book/the-courage-to-love/id1127952480?ls=1&mt=11",
+						smashwords: "https://www.smashwords.com/books/view/674901",
+						xBandN: "",
+						kobo: "https://store.kobobooks.com/en-us/ebook/for-love-and-country-2"
+					}
+				}
+			},
 			"Love Under Siege" : 
 			{
 				title: "Love Under Siege",
