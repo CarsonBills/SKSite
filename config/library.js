@@ -3,18 +3,19 @@ exports.getLibrary = function(){
 	var library = {
 
 	"Latest": {
-		title: "For Love and Country",
-		cover: "for_love_and_country.jpg",
-		buy_link: "http://amzn.to/2er6oS2",
+		title: "Misconduct",
+		cover: "misconduct.jpg",
+		subtitle: "Birmingham Rebels Book 4",
+		release: "July 2017",
+		buy_link: "http://amzn.to/2q1duxf"
 	},
 
-	"Upcoming": [{
-		title: "Jacked Up",
-		cover: "jacked_up.jpg",
-		subtitle: "Birmingham Rebels Book 3",
-		release: "January 31, 2017",
-		preorder: "http://amzn.to/2bfGSsp"
-	}],
+	// "Upcoming": [{
+	// 	title: "Misconduct",
+	// 	cover: "misconduct.jpg",
+	// 	subtitle: "Birmingham Rebels Book 4",
+	// 	release: "July 2017",
+	// }],
 
 	"Brothers in Arms": [
 
@@ -51,12 +52,12 @@ exports.getLibrary = function(){
 			cover: "love_in_exile.jpg"
 		},
 		{
-			title: "Prisoner of Love",
-			cover: "prisoner_of_love.jpg"
-		},
-		{
 			title: "Love's Fortress",
 			cover: "love's_fortress.jpg"
+		},
+		{
+			title: "Prisoner of Love",
+			cover: "prisoner_of_love.jpg"
 		},
 		{
 			title: "Love's Surrender",
@@ -78,10 +79,10 @@ exports.getLibrary = function(){
 			title: "Daniel & Harry",
 			cover: "daniel_and_harry.jpg"
 		},
-		{
-			title: "Triumph",
-			cover: "triumph.jpg"
-		},
+		// {
+		// 	title: "Triumph",
+		// 	cover: "triumph.jpg"
+		// },
 		{
 			title: "Valor",
 			cover: "valor.jpg"
@@ -132,14 +133,6 @@ exports.getLibrary = function(){
 			cover: "conall.png"
 		},
 		{
-			title: "Brodie",
-			cover: "brodie.jpg"
-		},
-		{
-			title: "Douglas",
-			cover: "douglas.jpg"
-		},
-		{
 			title: "The 93rd Highlanders",
 			cover: "93rd_vol1.jpg"
 		},
@@ -159,16 +152,20 @@ exports.getLibrary = function(){
 		{
 			title: "Jacked Up",
 			cover: "jacked_up.jpg"
+		},
+		{
+			title: "Misconduct",
+			cover: "misconduct.jpg"
 		}
 
 	],
 
 	"Standalone Romance" : [
 
-		// {
-		// 	title: "A Lady in Waiting",
-		// 	cover: "a_lady_in_waiting.jpg"
-		// },
+		{
+			title: "Tomorrow",
+			cover: "tomorrow.jpg"
+		},
 		{
 			title: "Islands",
 			cover: "islands.jpg"

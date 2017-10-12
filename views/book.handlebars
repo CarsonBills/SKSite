@@ -31,6 +31,8 @@
 	</script>
 </div>
 
+<iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=13&l=ez&f=ifr&linkID=760485248d317e39250caee3ed382784&t=samakane-20&tracking_id=samakane-20" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+
 <div class="container">
 	<div class="single_book_title">
 		<h1> {{book.title}} </h1>
@@ -42,7 +44,13 @@
 	</div>
 	<div class="single_book pure-g">
 		<div class="single_cover_container pure-u-1 pure-u-md-1-3">
+		{{#if book.amazonPreview}}
+			<div>
+				{{{book.amazonPreview}}}
+			</div>
+		{{else}}
 			<img class="single_cover" src="/images/covers/{{book.cover}}"></img>
+		{{/if}}
 			<div class="single_book_social_links pure-u-1">
 				<div class="pinterest_indiv">
 					<a data-pin-config="hidden" data-pin-do="buttonPin" null href="//www.pinterest.com/pin/create/button/?url=http://samanthakane.us/books/{{book.title}}&media=http://samanthakane.us/images/covers/{{book.cover}}&description=Samantha%20Kane">
